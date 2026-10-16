@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="theme-color" content="#0B1126">
+  <title>ERTEC · Módulo ITT</title>
+  <link rel="stylesheet" href="css/style.css">
+    <style>
+    /* ── TOPBAR ── */
+    .topbar{display:flex;align-items:center;gap:12px;padding:16px 16px 12px;position:sticky;top:0;z-index:100;background:var(--bg);border-bottom:1px solid var(--border);}
+    .btn-back{width:36px;height:36px;background:var(--bg-card);border:1.5px solid var(--border);border-radius:10px;display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:16px;flex-shrink:0;transition:var(--ease);}
+    .btn-back:active{transform:scale(.92);}
+    .topbar-title{font-family:var(--f-head);font-size:18px;font-weight:900;color:var(--text);letter-spacing:-.3px;}
+    .topbar-sub{font-size:11px;color:var(--text-sub);}
+
+    /* ── HERO ITT ── */
+    .itt-hero{background:var(--negro);padding:22px 16px 28px;position:relative;overflow:hidden;}
+    .itt-hero::after{content:'';position:absolute;top:-70px;right:-70px;width:240px;height:240px;background:radial-gradient(circle,rgba(20,184,166,.28) 0%,transparent 68%);pointer-events:none;}
+    .itt-hero::before{content:'';position:absolute;bottom:-50px;left:-50px;width:200px;height:200px;background:radial-gradient(circle,rgba(255,200,0,.1) 0%,transparent 68%);pointer-events:none;}
+    .itt-tag{display:inline-flex;align-items:center;gap:6px;background:rgba(20,184,166,.18);border:1px solid rgba(20,184,166,.4);color:#2DD4BF;font-size:11px;font-weight:800;padding:4px 12px;border-radius:20px;letter-spacing:.8px;text-transform:uppercase;margin-bottom:12px;}
+    .itt-hero-title{font-family:var(--f-head);font-size:26px;font-weight:900;color:#fff;line-height:1.2;letter-spacing:-.5px;margin-bottom:8px;}
+    .itt-hero-title em{color:#2DD4BF;font-style:normal;}
+    .itt-hero-desc{font-size:13px;color:rgba(255,255,255,.42);line-height:1.55;margin-bottom:16px;}
+    .itt-pills{display:flex;gap:7px;flex-wrap:wrap;}
+    .itt-pill{display:flex;align-items:center;gap:5px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.1);padding:5px 12px;border-radius:20px;font-size:12px;color:rgba(255,255,255,.55);}
+    .itt-pill strong{color:#fff;}
+
+    /* ── STATS ROW ── */
+    .stats-row{display:grid;grid-template-columns:repeat(3,1fr);margin:0 16px;border-radius:14px;overflow:hidden;background:var(--border);box-shadow:var(--sombra);position:relative;z-index:10;margin-top:-14px;}
+    .stat-box{background:var(--bg-card);padding:13px 8px;text-align:center;}
+    .stat-box:not(:last-child){border-right:1px solid var(--border);}
+    .stat-n{font-family:var(--f-head);font-size:22px;font-weight:800;color:#14B8A6;line-height:1;}
+    .stat-l{font-size:10px;color:var(--text-sub);text-transform:uppercase;letter-spacing:.5px;margin-top:4px;}
+
+    /* ── SECCIÓN ── */
+    .sec{padding:20px 16px 0;}
+    .sec-title{font-size:13px;font-weight:800;color:var(--text);margin-bottom:12px;display:flex;align-items:center;gap:8px;}
+    .sec-title span{font-size:11px;color:var(--text-sub);font-weight:500;}
+
+    /* ── CARD OFICIAL ITT ── */
+    .card-oficial{background:var(--negro);border-radius:16px;padding:18px;margin-bottom:12px;cursor:pointer;position:relative;overflow:hidden;transition:var(--ease);border:2px solid rgba(20,184,166,.4);-webkit-tap-highlight-color:transparent;}
+    .card-oficial::before{content:'';position:absolute;top:-50px;right:-50px;width:180px;height:180px;background:radial-gradient(circle,rgba(20,184,166,.3) 0%,transparent 70%);pointer-events:none;}
+    .card-oficial:active{transform:scale(.985);}
+    .card-of-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:11px;}
+    .card-of-ico{width:50px;height:50px;background:#14B8A6;border-radius:13px;display:flex;align-items:center;justify-content:center;font-size:22px;box-shadow:0 6px 16px rgba(20,184,166,.4);}
+    .of-badge{background:rgba(20,184,166,.25);border:1px solid rgba(20,184,166,.5);color:#5EEAD4;font-size:10px;font-weight:800;padding:4px 10px;border-radius:20px;letter-spacing:1px;text-transform:uppercase;}
+    .card-of-name{font-family:var(--f-head);font-size:20px;font-weight:800;color:#fff;margin-bottom:5px;letter-spacing:-.3px;}
+    .card-of-desc{font-size:12px;color:rgba(255,255,255,.42);line-height:1.5;}
+    .of-chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px;}
+    .of-chip{font-size:11px;font-weight:600;padding:4px 10px;border-radius:8px;background:rgba(255,255,255,.07);color:rgba(255,255,255,.55);}
+    .of-chip.org{background:rgba(20,184,166,.22);color:#5EEAD4;}
+    .of-chip.grn{background:rgba(0,180,100,.15);color:#50E090;}
+
+    /* ── PRACTICE GRID ── */
+    .practice-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+    .card-practice{background:var(--bg-card);border:1.5px solid var(--border);border-radius:14px;padding:16px 14px;cursor:pointer;transition:var(--ease);position:relative;overflow:hidden;-webkit-tap-highlight-color:transparent;}
+    .card-practice::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--c,#14B8A6);border-radius:0 2px 2px 0;}
+    .card-practice:active{transform:scale(.97);}
+    .card-practice:hover{border-color:var(--c,#14B8A6);}
+    .cp-ico{font-size:22px;margin-bottom:10px;width:44px;height:44px;background:var(--cb,rgba(20,184,166,.1));border-radius:11px;display:flex;align-items:center;justify-content:center;}
+    .cp-name{font-size:14px;font-weight:800;color:var(--text);margin-bottom:4px;line-height:1.2;}
+    .cp-desc{font-size:11px;color:var(--text-sub);line-height:1.35;margin-bottom:10px;}
+    .cp-footer{display:flex;align-items:center;justify-content:space-between;}
+    .cp-qs{font-size:12px;font-weight:800;color:var(--c,#14B8A6);}
+    .cp-time{font-size:11px;color:var(--text-sub);}
+
+    /* ── CARD HIST ── */
+    .card-hist{background:var(--bg-card);border:1.5px dashed var(--border);border-radius:14px;padding:14px 15px;display:flex;align-items:center;gap:12px;cursor:pointer;transition:var(--ease);margin-top:10px;}
+    .card-hist:active{transform:scale(.985);}
+    .card-hist:hover{border-color:#14B8A6;}
+    .ch-ico{width:44px;height:44px;border-radius:11px;background:rgba(100,100,100,.12);display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0;}
+    .ch-body{flex:1;}
+    .ch-name{font-size:14px;font-weight:800;color:var(--text);margin-bottom:2px;}
+    .ch-sub{font-size:11px;color:var(--text-sub);}
+
+    /* ── BIBLIO ── */
+    .biblio-bar{background:var(--bg-card);border:1.5px solid var(--border);border-radius:13px;overflow:hidden;margin-top:12px;}
+    .biblio-hdr{display:flex;align-items:center;gap:9px;padding:12px 15px;border-bottom:1px solid var(--border);background:rgba(20,184,166,.06);}
+    .biblio-hdr-title{font-size:13px;font-weight:800;color:var(--text);}
+    .biblio-body{padding:13px 15px;}
+    .biblio-cat{font-size:10px;font-weight:800;color:#14B8A6;text-transform:uppercase;letter-spacing:.8px;margin-bottom:6px;margin-top:10px;}
+    .biblio-cat:first-child{margin-top:0;}
+    .biblio-item{display:flex;align-items:flex-start;gap:7px;margin-bottom:5px;font-size:12px;color:var(--text-sub);line-height:1.45;}
+    .biblio-item::before{content:'›';color:#14B8A6;font-weight:700;flex-shrink:0;}
+
+    /* ── ALERT PRÓXIMAMENTE ── */
+    .coming-soon-box{background:rgba(20,184,166,.07);border:1.5px dashed rgba(20,184,166,.3);border-radius:13px;padding:20px 16px;text-align:center;margin-bottom:12px;}
+    .coming-soon-box .cs-ico{font-size:36px;margin-bottom:10px;}
+    .coming-soon-box .cs-title{font-size:15px;font-weight:800;color:var(--text);margin-bottom:5px;}
+    .coming-soon-box .cs-desc{font-size:12px;color:var(--text-sub);line-height:1.55;}
+
+    .tip-bar{background:var(--bg-card);border:1.5px solid var(--border);border-left:4px solid #14B8A6;border-radius:12px;padding:13px 15px;display:flex;gap:11px;align-items:flex-start;margin-top:10px;}
+    .tip-text{font-size:13px;color:var(--text-sub);line-height:1.5;}
+    .tip-text strong{color:#2DD4BF;}
+
+    .disclaimer{background:rgba(255,200,0,.06);border:1.5px solid rgba(255,200,0,.2);border-radius:12px;padding:12px 14px;font-size:12px;color:var(--text-sub);line-height:1.5;text-align:center;margin-top:10px;}
+    .disclaimer strong{color:var(--text);}
+  </style>
+</head>
+<body>
+<div id="loader"><div class="loader-icon">🏫</div><div class="loader-ring"></div><div class="loader-txt">Cargando módulo ITT…</div></div>
+<div id="toast"></div>
+
+<!-- TOPBAR -->
+<div class="topbar">
+  <div class="btn-back" onclick="window.location.href='index.html'">←</div>
+  <div>
+    <div class="topbar-title">Módulo ITT</div>
+    <div class="topbar-sub">Institutos Técnicos Tecnológicos</div>
+  </div>
+  <div style="margin-left:auto;display:flex;gap:8px;">
+    <button class="btn-back" id="btn-dark" title="Tema">🌙</button>
+  </div>
+</div>
+
+<!-- HERO -->
+<div class="itt-hero">
+  <div class="itt-tag">🏫 Módulo ITT · Institucionalización</div>
+  <h1 class="itt-hero-title">Institucionalización<br><em>Institutos ITT</em></h1>
+  <div class="itt-hero-desc">Simulacros y material de estudio para postulantes a Rector, Director Académico y Director Administrativo de Institutos Técnicos, Tecnológicos y de Formación Artística (Convocatoria N° 0001/2026).</div>
+  <div class="itt-pills">
+    <div class="itt-pill">🏫 <strong>ITT Fiscal · Convenio · Privado</strong></div>
+    <div class="itt-pill">⚖️ Ley 348 · Ley 1178 · Ley 004</div>
+    <div class="itt-pill">📘 RM 350 · RM 525 · RM 1027</div>
+  </div>
+</div>
+
+<!-- Stats -->
+<div class="stats-row">
+  <div class="stat-box"><div class="stat-n" id="s-exams">0</div><div class="stat-l">Exámenes</div></div>
+  <div class="stat-box"><div class="stat-n" id="s-avg">--%</div><div class="stat-l">Promedio</div></div>
+  <div class="stat-box"><div class="stat-n" id="s-best">--%</div><div class="stat-l">Mejor nota</div></div>
+</div>
+
+<!-- ── SIMULACROS ── -->
+<div class="sec" style="margin-top:22px;">
+  <div class="sec-title">Simulacros ITT <span id="itt-sub"></span></div>
+  <div id="itt-sim"></div>
+</div>
+<!-- ── ACCESO A BIBLIOTECA ITT ── -->
+<div class="sec" style="margin-top:20px;">
+  <div class="sec-title">📚 Material de Estudio</div>
+
+  <div class="card-hist" id="card-bib-itt" style="border-color:rgba(20,184,166,.35);border-style:solid;background:linear-gradient(135deg,rgba(20,184,166,.07) 0%,var(--bg-card) 100%);">
+    <div class="ch-ico" style="background:rgba(20,184,166,.15);font-size:22px;">📚</div>
+    <div class="ch-body">
+      <div class="ch-name">Biblioteca ITT</div>
+      <div class="ch-sub">Documentos PDF · Audioresúmenes · Videos por tema</div>
+    </div>
+    <span style="font-size:18px;color:#2DD4BF;flex-shrink:0;">→</span>
+  </div>
+</div>
+
+<!-- ── BIBLIOGRAFÍA ── -->
+<div class="sec" style="margin-top:20px;">
+  <div class="sec-title">📖 Bibliografía oficial ITT 2026</div>
+  <div class="biblio-bar">
+    <div class="biblio-hdr">
+      <span style="font-size:18px;">🏫</span>
+      <div class="biblio-hdr-title">Bibliografía UGPSEP-SI · Institutos Técnicos Tecnológicos</div>
+    </div>
+    <div class="biblio-body">
+
+      <div class="biblio-cat">👤 Personal Directivo y Docente ITT</div>
+      <div class="biblio-cat" style="font-size:9px;color:var(--text-sub);text-transform:none;letter-spacing:0;font-weight:600;margin-top:4px;">Normativa General y Específica</div>
+      <div class="biblio-item">Ley 348 — Ley Integral para Garantizar a las Mujeres una Vida Libre de Violencia (2013)</div>
+      <div class="biblio-item">Ley 1178 — Ley de Administración y Control Gubernamentales (SAFCO)</div>
+      <div class="biblio-item">Ley N° 004 — Lucha Contra la Corrupción "Marcelo Quiroga Santa Cruz"</div>
+      <div class="biblio-item">RM 350-2023 — Reglamento General de ITT de Carácter Fiscal, de Convenio y Privado</div>
+      <div class="biblio-item">RM 525-2018 — Manual de Organizaciones y Funciones para ITTS</div>
+      <div class="biblio-item">RM N° 1027-2023 — Reglamento General de Centros de Capacitación Artística</div>
+
+      <div class="biblio-cat" style="font-size:9px;color:var(--text-sub);text-transform:none;letter-spacing:0;font-weight:600;margin-top:8px;">Normativa Pedagogía y Didáctica</div>
+      <div class="biblio-item">Estrategias de Enseñanza y Aprendizaje para la Docencia Universitaria — Ciria Amargarita Salazar C.</div>
+      <div class="biblio-item">Innovaciones Educativas Mediante Nuevas Tecnologías — Morales Vera Carlos Fernando</div>
+      <div class="biblio-item">Las TIC en la Información y la Comunicación en la Formación Docente — UNESCO</div>
+      <div class="biblio-item">Innovación Educativa — UNESCO</div>
+
+      <div class="biblio-cat" style="margin-top:12px;">🗂️ Personal Administrativo ITT</div>
+      <div class="biblio-item">Ley 348 · Ley 1178 · Ley N° 004 (misma normativa general)</div>
+      <div class="biblio-item">RM 350-2023 · RM 525-2018 · RM N° 1027-2023</div>
+    </div>
+  </div>
+</div>
+
+<!-- TIP + DISCLAIMER -->
+<div class="sec" style="padding-bottom:36px;">
+  <div class="tip-bar">
+    <span style="font-size:18px;flex-shrink:0;">📌</span>
+    <div class="tip-text">
+      Cada bibliografía ITT tiene su propio archivo en <strong>data/bib/itt_*.json</strong>. Llénalo con tus preguntas y respuestas y el simulacro se activa solo.
+    </div>
+  </div>
+  <div class="disclaimer">
+    ⚠️ ERTEC es una plataforma <strong>independiente y privada</strong> de preparación docente. No tiene relación ni representación oficial con el Ministerio de Educación ni con el Estado Plurinacional de Bolivia.
+  </div>
+</div>
+
+<script src="js/storage.js"></script>
+<script src="js/fx.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  if (!requireAuth('login.html')) return;
+  applyTheme(); FX.ripples(); FX.nav('itt'); FX.leave();
+  renderStats(); renderSim().finally(hideLoader);
+});
+
+document.getElementById('btn-dark')?.addEventListener('click', toggleTheme);
+document.getElementById('card-bib-itt')?.addEventListener('click', () => { window.location.href = 'biblioteca_itt.html'; });
+function go(id){ Storage.setPending(id); document.body.style.opacity='0'; document.body.style.transition='opacity .25s'; setTimeout(()=>location.href='exam.html',220); }
+async function renderSim() {
+  const cfg = await Config.load(), counts = await Config.counts(), box = document.getElementById('itt-sim');
+  const gs = ['itt_normativa','itt_pedagogia'].map(g => ({ g: Config.grupo(g), bibs: cfg.bibliografias.filter(b => b.grupo === g) }));
+  const tot = gs.reduce((a, x) => a + x.bibs.reduce((s, b) => s + (counts[b.id] || 0), 0), 0);
+  document.getElementById('itt-sub').textContent = tot + ' preguntas en banco';
+  let html = `<div class="card-oficial" id="itt-of"><div class="card-of-top"><div class="card-of-ico">🎯</div><span class="of-badge">Simulacro de cargo</span></div>
+    <div class="card-of-name">Rector · Director Académico · Administrativo ITT</div>
+    <div class="card-of-desc">Mezcla las bibliografías ITT con pedagogía, normativa general y administrativa (distribución referencial editable en config.json).</div></div>`;
+  html += '<div class="practice-grid">' + gs.map(({g, bibs}) => { const n = bibs.reduce((s, b) => s + (counts[b.id] || 0), 0);
+    return `<div class="card-practice" data-g="${g.id}" style="--c:${g.color};--cb:${g.color}22;${n ? '' : 'opacity:.55'}"><div class="cp-ico">${g.icono}</div><div class="cp-name">${g.nombre}</div><div class="cp-desc">${g.desc}</div>
+      <div class="cp-footer"><span class="cp-qs">${n ? n + ' preg.' : 'Vacío'}</span><span class="cp-time">${bibs.length} archivos</span></div></div>`; }).join('') + '</div>';
+  html += gs.map(({g, bibs}) => `<div style="margin-top:16px"><div class="biblio-cat" style="color:${g.color}">${g.icono} ${g.nombre}</div>` + bibs.map(b => { const n = counts[b.id] || 0;
+    return `<div class="card-hist" data-b="${b.id}" style="margin-top:7px;${n ? '' : 'opacity:.6'}"><div class="ch-ico" style="font-size:19px">${b.icono}</div><div class="ch-body"><div class="ch-name" style="font-size:13px">${b.nombre}</div><div class="ch-sub">${b.autor || ''}</div></div><b style="color:${b.color};font-family:var(--f-head)">${n}</b></div>`; }).join('') + '</div>').join('');
+  box.innerHTML = html;
+  document.getElementById('itt-of').onclick = () => go('cargo:rector_itt');
+  box.querySelectorAll('.card-practice').forEach(e => e.onclick = () => (Config._c.bibliografias.filter(b => b.grupo === e.dataset.g).some(b => counts[b.id])) ? go('grupo:' + e.dataset.g) : showToast('📭 Esta área aún no tiene preguntas'));
+  box.querySelectorAll('.card-hist').forEach(e => e.onclick = () => counts[e.dataset.b] ? go('bib:' + e.dataset.b) : showToast('📭 Llena data/bib/' + e.dataset.b + '.json'));
+  FX.stagger();
+}
+function renderStats() {
+  const st = Storage.getStats();
+  document.getElementById('s-exams').textContent = st.totalExams;
+  document.getElementById('s-avg').textContent   = st.totalExams ? `${st.avgScore}%`  : '--%';
+  document.getElementById('s-best').textContent  = st.totalExams ? `${st.bestScore}%` : '--%';
+}
+
+</script>
+</body>
+</html>

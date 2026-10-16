@@ -1,0 +1,711 @@
+[
+ {
+  "question": "La inteligencia 'Intrapersonal' de Gardner se define como la capacidad para:",
+  "options": [
+   "Ser consciente de las propias emociones, motivaciones, metas y debilidades",
+   "Liderar grupos, organizar equipos y resolver conflictos entre otras personas",
+   "Visualizar y manipular mentalmente objetos con una gran memoria visual",
+   "Identificar especies de flora y fauna durante salidas recreativas"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "La inteligencia 'Espacial' destaca en la habilidad para:",
+  "options": [
+   "Cantar, reconocer sonidos y recordar melodías y ritmos",
+   "El atletismo, la danza y la construcción de objetos físicos",
+   "La lectura de mapas, gráficos y la visualización mental de objetos",
+   "El razonamiento deductivo y las abstracciones numéricas"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "La inteligencia 'Musical' se manifiesta por la sensibilidad a:",
+  "options": [
+   "El razonamiento deductivo y las abstracciones numéricas",
+   "Los sonidos, los ritmos y las melodías",
+   "La visualización de colores y el uso del 'ojo mental'",
+   "La manipulación de objetos físicos y la motricidad fina"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "La inteligencia 'Naturalista' se activa cuando el alumno:",
+  "options": [
+   "Resuelve acertijos lógicos y pautas numéricas complejas",
+   "Muestra sensibilidad para entender seres vivos y cultivar alimentos",
+   "Destaca en la narración de historias y memorización de fechas",
+   "Demuestra habilidad para el cálculo mental y los algoritmos"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "En el modelo de Kolb, un estudiante con un estilo 'Convergente' se caracteriza por el predominio de las capacidades de:",
+  "options": [
+   "Experiencia Concreta (EC) y Observación Reflexiva (OR)",
+   "Conceptualización Abstracta (CA) y Experimentación Activa (EA)",
+   "Conceptualización Abstracta (CA) y Observación Reflexiva (OR)",
+   "Experiencia Concreta (EC) y Experimentación Activa (EA)"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué es un 'aprendizaje estratégico'?",
+  "options": [
+   "Memorizar datos solo para el examen y olvidarlos después",
+   "Tener herramientas para asociar ideas y aplicarlas a vivencias concretas",
+   "Seguir paso a paso las instrucciones del libro de texto sin dudar",
+   "Imitar el comportamiento de los alumnos con mejores calificaciones"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué caracteriza al aprendizaje 'superficial' según Noel Entwistle?",
+  "options": [
+   "La construcción de conclusiones propias basadas en la interacción activa con el contenido",
+   "La reproducción de contenido mediante la aceptación pasiva de ideas e información",
+   "La capacidad de asociar ideas nuevas con vivencias concretas y experiencias previas",
+   "La memorización estratégica orientada a obtener buenas calificaciones"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "Psicólogo que define la inteligencia como un potencial biopsicológico para resolver problemas:",
+  "options": [
+   "Daniel Goleman",
+   "Philippe Perrenoud",
+   "Howard Gardner",
+   "Noel Entwistle"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "Un rasgo distintivo de la inteligencia 'Intrapersonal' es la capacidad de:",
+  "options": [
+   "Reconocer los propios puntos fuertes, debilidades y establecer objetivos personales",
+   "Liderar grupos de trabajo heterogéneos y resolver conflictos entre otras personas",
+   "Identificar especies de flora y fauna durante una salida recreativa a la naturaleza",
+   "Visualizar objetos en tres dimensiones y orientarse mediante mapas"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "Dentro de la taxonomía de Bloom, ¿qué nivel se sitúa inmediatamente por encima de la 'Comprensión' y por debajo del 'Análisis'?",
+  "options": [
+   "Síntesis",
+   "Aplicación",
+   "Evaluación",
+   "Conocimiento"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "El 'aprendizaje superficial', en contraste con el estratégico, se caracteriza por:",
+  "options": [
+   "La reproducción de contenido aceptando pasivamente ideas e información",
+   "La asociación dinámica de ideas nuevas con experiencias personales y previas",
+   "La búsqueda de herramientas lógicas para aplicar lo aprendido en la vida cotidiana",
+   "La construcción autónoma de significados a partir del análisis crítico"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Cuál es la contribución principal de David Kolb a la comprensión del aprendizaje?",
+  "options": [
+   "Propuso que el aprendizaje es exclusivamente visual y requiere materiales gráficos",
+   "Desarrolló un modelo cíclico que describe cómo los individuos aprenden a través de la experiencia",
+   "Demostró que el coeficiente intelectual es el único predictor del éxito escolar",
+   "Estableció los fundamentos de la evaluación estandarizada en educación"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "En el modelo de Kolb, ¿qué caracteriza al estilo de aprendizaje 'Divergente'?",
+  "options": [
+   "Predominio de Conceptualización Abstracta y Experimentación Activa",
+   "Predominio de Experiencia Concreta y Observación Reflexiva; fortaleza en imaginación y generación de ideas",
+   "Predominio de Conceptualización Abstracta y Observación Reflexiva; fortaleza en el razonamiento inductivo",
+   "Predominio de Experiencia Concreta y Experimentación Activa; orientado a la acción inmediata"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué caracteriza al estilo de aprendizaje 'Asimilador' según Kolb?",
+  "options": [
+   "Experiencia Concreta y Observación Reflexiva; fortaleza en imaginación",
+   "Conceptualización Abstracta y Observación Reflexiva; fortaleza en el razonamiento inductivo y modelos teóricos",
+   "Conceptualización Abstracta y Experimentación Activa; fortaleza en la resolución de problemas prácticos",
+   "Experiencia Concreta y Experimentación Activa; fortaleza en la ejecución y adaptación"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Cómo debe el docente responder pedagógicamente a la diversidad de estilos de aprendizaje en el aula?",
+  "options": [
+   "Identificar el estilo dominante del grupo y enseñar solo con ese método",
+   "Diseñar actividades variadas que involucren diferentes formas de experiencia, reflexión, conceptualización y acción",
+   "Aplicar el mismo método para todos porque la diversidad de estilos es un mito pedagógico",
+   "Separar a los alumnos en grupos homogéneos según su estilo de aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué crítica reciben los modelos de estilos de aprendizaje como el VAK (Visual, Auditivo, Kinestésico)?",
+  "options": [
+   "Que son demasiado complejos para que los maestros los apliquen en el aula",
+   "Que carecen de evidencia empírica sólida y pueden llevar a etiquetar y limitar a los estudiantes",
+   "Que solo son válidos para estudiantes con necesidades educativas especiales",
+   "Que fueron desarrollados en contextos culturales que no aplican en América Latina"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué relación existe entre el estilo de enseñanza del docente y el aprendizaje de los alumnos?",
+  "options": [
+   "No existe relación; los alumnos aprenden independientemente del estilo del docente",
+   "El estilo de enseñanza del docente puede facilitar o dificultar el aprendizaje según su compatibilidad con los estilos del alumno",
+   "El estilo de enseñanza solo afecta la motivación pero no el rendimiento académico",
+   "Los alumnos siempre se adaptan al estilo del docente sin que esto afecte su aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿En qué consiste el 'aprendizaje profundo' según Entwistle y Marton?",
+  "options": [
+   "La memorización exhaustiva de todos los contenidos del programa oficial",
+   "La comprensión significativa que busca relacionar ideas, desarrollar perspectivas propias y aplicar el conocimiento",
+   "La acumulación de muchas horas de estudio independientemente de la calidad de la comprensión",
+   "El aprendizaje que ocurre exclusivamente en situaciones prácticas fuera del aula"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué es la 'metacognición' y cuál es su importancia en el aprendizaje autónomo?",
+  "options": [
+   "La capacidad de memorizar grandes cantidades de información en poco tiempo",
+   "La conciencia y regulación que el aprendiz tiene sobre sus propios procesos de pensamiento y aprendizaje",
+   "La habilidad para aprender contenidos nuevos sin la ayuda del maestro",
+   "La velocidad con que el alumno procesa y recupera información de la memoria"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Cuál es la diferencia entre 'enseñanza centrada en el maestro' y 'enseñanza centrada en el alumno'?",
+  "options": [
+   "La primera es más efectiva en primaria y la segunda en secundaria",
+   "La primera privilegia la transmisión de conocimientos; la segunda la construcción activa del aprendizaje",
+   "La primera usa libros de texto y la segunda usa tecnología digital",
+   "La primera es más rigurosa académicamente y la segunda es más entretenida"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Cómo se relaciona la 'zona de desarrollo próximo' de Vygotsky con los estilos de enseñanza efectivos?",
+  "options": [
+   "El docente debe enseñar siempre por debajo del nivel actual del alumno para no frustrarlo",
+   "El docente debe identificar lo que el alumno puede hacer con ayuda y diseñar andamiajes que lleven al aprendizaje independiente",
+   "El docente debe enseñar solo los contenidos que el alumno ya domina para reforzar la confianza",
+   "La zona de desarrollo próximo solo aplica a alumnos con dificultades de aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué es el aprendizaje según la definición de Sáez López?",
+  "options": [
+   "Un proceso de asimilación de información con un cambio resultante en el comportamiento",
+   "La memorización momentánea de datos para un examen",
+   "Un proceso puramente genético e instintivo"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Cuál es la principal característica del 'Aprendizaje Significativo' de Ausubel?",
+  "options": [
+   "Aprender de memoria listas de palabras sin sentido",
+   "Conectar el nuevo conocimiento con el que ya se poseía de forma comprensiva",
+   "Usar mucha tecnología moderna sin importar el contenido"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "En el modelo de Kolb, ¿qué capacidad implica crear nuevos conceptos e integrar observaciones en teorías lógicas?",
+  "options": [
+   "Experiencia Concreta (EC)",
+   "Observación Reflexiva (OR)",
+   "Conceptualización Abstracta (CA)"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "Los alumnos con estilo de aprendizaje 'Convergente' se caracterizan por:",
+  "options": [
+   "Ser muy emotivos y preferir las personas a las cosas",
+   "Poseer pensamiento abstracto y procesamiento activo, buscando aplicación práctica a las ideas",
+   "Ser grandes imaginadores con múltiples puntos de vista"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué nivel de la Taxonomía de Bloom implica el desglose de materiales para entender su estructura organizativa?",
+  "options": [
+   "Comprensión",
+   "Análisis",
+   "Evaluación"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Cuál es el objetivo principal del método de 'Jigsaw' o rompecabezas?",
+  "options": [
+   "Resolver un puzzle físico en el menor tiempo posible",
+   "Fomentar la interdependencia positiva donde cada alumno se vuelve 'experto' y enseña a su grupo",
+   "Evaluar el rendimiento individual de forma aislada y competitiva"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué define a la 'motivación intrínseca'?",
+  "options": [
+   "El deseo de obtener dinero o premios externos",
+   "El impulso por el interés o disfrute en la tarea misma que reside dentro del individuo",
+   "El miedo al castigo físico por parte del docente"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "En el Aprendizaje Basado en Problemas (ABP), ¿cuál es el papel del docente?",
+  "options": [
+   "Ser un diseminador de verdades absolutas",
+   "Actuar como un facilitador o tutor del proceso",
+   "Corregir solo la ortografía de los informes"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué caracteriza a los 'Aprendices Globales'?",
+  "options": [
+   "Aprenden en pasos lineales lógicos siguiendo al anterior",
+   "Aprenden en grandes saltos, absorbiendo material al azar hasta que ven la conexión de repente",
+   "Solo pueden aprender si viajan por todo el mundo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "Según el modelo de Lowman, un 'Maestro Completo' (Celda 9) destaca por:",
+  "options": [
+   "Bajo entusiasmo intelectual y alta relación interpersonal",
+   "Alta capacidad para estimular emocional e intelectualmente a los alumnos",
+   "Ser muy distante, frío y controlador"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué es el 'Efecto Panoli' en el aprendizaje cooperativo?",
+  "options": [
+   "Cuando todos los alumnos aprueban sin estudiar",
+   "Cuando los sujetos que trabajan se frustran al ver que otros se aprovechan de su esfuerzo",
+   "Cuando el profesor se olvida de traer el material"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "El condicionamiento operante de Skinner sostiene que el aprendizaje depende de:",
+  "options": [
+   "Los planetas",
+   "Sus consecuencias (refuerzos o castigos)",
+   "La herencia genética exclusivamente"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué inteligencia de Gardner se activa en situaciones de introspección y conocimiento de los sentimientos propios?",
+  "options": [
+   "Inteligencia Interpersonal",
+   "Inteligencia Intrapersonal",
+   "Inteligencia Espacial"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Cuál es el primer paso en los '7 pasos del ABP'?",
+  "options": [
+   "Definir el problema",
+   "Explicar términos y conceptos desconocidos",
+   "Informar y evaluar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "El 'aprendizaje asincrónico' se caracteriza por:",
+  "options": [
+   "La comunicación cara a cara en tiempo real",
+   "La flexibilidad, donde la enseñanza y el aprendizaje ocurren en momentos diferentes",
+   "El uso obligatorio de una radio antigua"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "Según Maslow, ¿cuáles son las necesidades que deben satisfacerse primero?",
+  "options": [
+   "Autorrealización y estética",
+   "Necesidades de deficiencia (fisiológicas, seguridad, pertenencia, estima)",
+   "Reconocimiento social y fama"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué método de enseñanza es el más común pero descuida la reacción de la audiencia?",
+  "options": [
+   "Método de proyectos",
+   "Lección magistral o conferencia",
+   "Juego de roles"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué es un 'Aprendizaje Organizativo Tecnológico-Científico'?",
+  "options": [
+   "Comprar computadoras nuevas cada año",
+   "El basado en la explicación de la realidad de la organización para transformarla con mejoras fundamentadas",
+   "Repetir las mismas rutinas administrativas desde hace 50 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "La 'Interdependencia Positiva' en el aprendizaje cooperativo significa que:",
+  "options": [
+   "Cada alumno debe trabajar solo",
+   "Uno no puede tener éxito si todos los demás miembros del grupo no lo tienen",
+   "El profesor depende totalmente del director"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué caracteriza al 'Aprendizaje Tangencial'?",
+  "options": [
+   "Aprender algo por error mientras se duerme",
+   "Autoeducarse en un tema que surge dentro de un contexto lúdico o de disfrute previo",
+   "No aprender nada importante"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "En el experimento de Pavlov, el sonido de la campana antes de la comida es un:",
+  "options": [
+   "Estímulo incondicionado",
+   "Estímulo artificial o condicionado",
+   "Refuerzo negativo"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué inteligencia según Gardner destaca por la sensibilidad al ritmo, el tono y el timbre?",
+  "options": [
+   "Inteligencia Espacial",
+   "Inteligencia Musical",
+   "Inteligencia Cinestésica"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "El 'Efecto Mateo o de tijeras' en el trabajo grupal ocurre cuando:",
+  "options": [
+   "Todos obtienen la misma nota",
+   "Los alumnos muy motivados trabajan mucho y dejan a los otros atrás",
+   "El profesor divide el papel con tijeras"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué es un 'estudiante reflexivo' según el texto?",
+  "options": [
+   "Alguien que actúa antes de pensar",
+   "Alguien que prefiere pensar en silencio y trabajar solo antes de actuar",
+   "Alguien que nunca piensa en nada"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "En el modelo de Kolb, ¿qué capacidad implica involucrarse por completo en experiencias nuevas sin prejuicios?",
+  "options": [
+   "Conceptualización Abstracta (CA)",
+   "Experiencia Concreta (EC)",
+   "Observación Reflexiva (OR)"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "Los alumnos 'Convergentes' destacan por:",
+  "options": [
+   "Ser muy emotivos y preferir las personas a las cosas",
+   "Poseer pensamiento abstracto y buscar la aplicación práctica a las ideas",
+   "Tener gran imaginación y generar múltiples ideas divergentes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué caracteriza al estilo de aprendizaje 'Asimilador'?",
+  "options": [
+   "La capacidad para entender gran cantidad de información y organizarla de forma lógica",
+   "El gusto por asumir riesgos y poner en marcha planes de acción inmediatos",
+   "La preferencia por el trabajo manual y la actividad física constante"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "Según la Taxonomía de Bloom, ¿qué nivel implica aplicar conocimientos de forma creativa para producir un todo nuevo?",
+  "options": [
+   "Comprensión",
+   "Síntesis",
+   "Conocimiento"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "En los 7 pasos del ABP, ¿qué se hace en el paso de 'Torbellino de ideas'?",
+  "options": [
+   "Evaluar el comportamiento del tutor",
+   "Analizar el problema buscando múltiples explicaciones iniciales",
+   "Corregir la ortografía del informe final"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué inteligencia según Gardner se activa al usar mapas y visualizar objetos mentalmente?",
+  "options": [
+   "Inteligencia Lingüística",
+   "Inteligencia Visual-espacial",
+   "Inteligencia Interpersonal"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué define a una 'Organización que Aprende' (OA)?",
+  "options": [
+   "Una que compra muchos libros de texto cada año",
+   "Una capaz de auto-revisarse, diagnosticar mejoras y consolidar su propio saber",
+   "Una que tiene los alumnos con las notas más altas del país"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué caracteriza a los 'estudiantes sensoriales'?",
+  "options": [
+   "Les gustan las innovaciones constantes y odian la repetición",
+   "Tienden a aprender hechos, usan métodos establecidos y son prácticos",
+   "Prefieren descubrir posibilidades y relaciones abstractas complejas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "El 'Efecto Mateo o de tijeras' en los grupos implica que:",
+  "options": [
+   "Todos obtienen la misma nota final",
+   "Los alumnos más motivados aprenden y trabajan mucho, dejando a otros atrás",
+   "El profesor debe usar tijeras para dividir el material de estudio"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué es el 'aprendizaje de mantenimiento' (o acumulativo) según Senge?",
+  "options": [
+   "Arreglar los pupitres rotos de la escuela",
+   "Resolver problemas usando métodos habituales sin creatividad",
+   "Enseñar a los niños a limpiar el salón de clase"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "¿Qué es un 'estudiante reflexivo' según el modelo de Kolb-Honey/Mumford?",
+  "options": [
+   "Alguien que actúa antes de pensar",
+   "Alguien que prefiere pensar en silencio y trabajar solo antes de actuar",
+   "Alguien que nunca piensa en nada"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza - Sáez López"
+ },
+ {
+  "question": "Según el texto 'Estilos de Aprendizaje y Métodos de Enseñanza', el concepto de estilo de aprendizaje se refiere a:",
+  "options": [
+   "El nivel de inteligencia medido por pruebas estandarizadas",
+   "Las preferencias y tendencias relativamente estables de una persona para percibir y procesar la información",
+   "La velocidad con que un estudiante memoriza contenidos",
+   "La actitud del estudiante frente a las evaluaciones"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza"
+ },
+ {
+  "question": "El modelo VARK de estilos de aprendizaje clasifica las preferencias en:",
+  "options": [
+   "Visual, Auditivo, Reflexivo y Kinestésico",
+   "Visual, Auditivo, Lector/Escritor y Kinestésico",
+   "Verbal, Analítico, Reflexivo y Kinestésico",
+   "Visual, Analítico, Racional y Kinestésico"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza"
+ },
+ {
+  "question": "Según el texto de Estilos de Aprendizaje, un docente que considera los distintos estilos de sus estudiantes debe:",
+  "options": [
+   "Enseñar siempre de la misma manera para garantizar equidad",
+   "Diversificar sus estrategias didácticas para atender las diferentes formas de aprender",
+   "Clasificar a los estudiantes por grupos fijos según su estilo",
+   "Ignorar los estilos y enfocarse solo en el contenido"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza"
+ },
+ {
+  "question": "El modelo de Kolb sobre estilos de aprendizaje se basa en un ciclo de cuatro etapas que son:",
+  "options": [
+   "Ver, pensar, hacer, reflexionar",
+   "Experiencia concreta, Observación reflexiva, Conceptualización abstracta, Experimentación activa",
+   "Lectura, comprensión, aplicación, evaluación",
+   "Motivación, atención, retención, reproducción"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza"
+ },
+ {
+  "question": "Según los estilos de aprendizaje, un estudiante con preferencia 'kinestésica' aprende mejor cuando:",
+  "options": [
+   "Lee textos largos en silencio",
+   "Escucha explicaciones orales detalladas del docente",
+   "Participa en actividades prácticas, movimiento y experiencias directas",
+   "Observa videos o imágenes sin interacción física"
+  ],
+  "answer": 2,
+  "difficulty": "baja",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza"
+ },
+ {
+  "question": "La 'teoría del aprendizaje multimodal' propone que el aprendizaje se potencia cuando:",
+  "options": [
+   "Solo se usa un canal sensorial para evitar la sobrecarga cognitiva",
+   "Se combinan múltiples representaciones y canales sensoriales (visual, auditivo, kinestésico) de forma coherente",
+   "Se elimina toda información visual para que los estudiantes escuchen mejor",
+   "Se usan solo materiales escritos para desarrollar la concentración"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estilos de Aprendizaje y Métodos de Enseñanza"
+ }
+]

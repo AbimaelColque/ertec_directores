@@ -1,0 +1,1514 @@
+[
+ {
+  "question": "¿Qué porcentaje de bonificación sobre el haber básico recibe un docente de 1ra Categoría?",
+  "options": [
+   "75%",
+   "100%",
+   "150%",
+   "50%"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Desde qué momento perciben los maestros normalistas la bonificación de 5ta categoría?",
+  "options": [
+   "Después de cumplir cinco años de servicio",
+   "Desde su iniciación en la carrera",
+   "Al aprobar su primer examen de idoneidad",
+   "Al término del primer año escolar"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos de mérito se asignan por la inscripción en el escalafón?",
+  "options": [
+   "5 puntos",
+   "10 puntos",
+   "2 puntos",
+   "15 puntos"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Los maestros interinos y titulares pueden abreviar el proceso de promociones de categoría mediante:",
+  "options": [
+   "Examen voluntario",
+   "Cómputo de años de servicio en zonas urbanas",
+   "Títulos de postgrado únicamente",
+   "Recomendación del director distrital"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos años de antigüedad se computan a favor de un maestro normalista que presta 2 años en zona fronteriza?",
+  "options": [
+   "2 años adicionales",
+   "4 años de antigüedad",
+   "6 años de antigüedad",
+   "3 años de antigüedad"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es la edad máxima permitida para ser admitido por primera vez en el magisterio fiscal?",
+  "options": [
+   "40 años",
+   "50 años",
+   "60 años",
+   "55 años"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A qué autoridad corresponde el registro sistemático y centralizado de los datos de maestros?",
+  "options": [
+   "Departamento de Estadística y Personal del Ministerio de Educación",
+   "Direcciones Departamentales de Educación",
+   "Confederación Nacional de Maestros Urbanos",
+   "El CONALPEDIS en coordinación con el Ministerio"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "En la escala jerárquica administrativa, ¿cuál es el rango más alto?",
+  "options": [
+   "Jefe de Departamento del Ministerio",
+   "Oficial Mayor del Ministerio de Educación",
+   "Director General de Educación",
+   "Director Departamental de Educación"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué sanción se aplica a los miembros de Comisiones Calificadoras que realicen pagos indebidos de categorías?",
+  "options": [
+   "Amonestación verbal privada",
+   "Sanciones penales y devolución de lo indebidamente pagado",
+   "Suspensión de funciones por un año",
+   "Descenso de categoría en el escalafón"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Para ser Director de Escuela, se requiere un tiempo mínimo de servicio de:",
+  "options": [
+   "10 años",
+   "5 años",
+   "3 años",
+   "15 años"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos de mérito se otorgan por el título de Bachiller?",
+  "options": [
+   "2 puntos",
+   "5 puntos",
+   "10 puntos",
+   "15 puntos"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Un maestro que posee un título universitario de abogado o ingeniero recibe por este estudio:",
+  "options": [
+   "5 puntos de mérito",
+   "10 puntos de mérito por cada uno",
+   "20 puntos por ser de nivel superior",
+   "15 puntos fijos independiente del título"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A qué edad los maestros deben acogerse obligatoriamente al beneficio de la jubilación?",
+  "options": [
+   "65 años",
+   "60 años",
+   "55 años para mujeres y 60 para hombres",
+   "70 años salvo casos excepcionales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "La 'inamovilidad docente' establecida en el reglamento significa que un maestro:",
+  "options": [
+   "No puede ser trasladado de su unidad educativa bajo ninguna circunstancia",
+   "No puede ser destituido ni suspendido sin proceso previo y sentencia",
+   "Tiene garantizado el cargo de director de forma vitalicia tras 10 años",
+   "Goza de licencia automática por enfermedad"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Los maestros normalistas están obligados a recabar su Título y Visación en un plazo de:",
+  "options": [
+   "2 años después de su egreso",
+   "5 años tras iniciar sus funciones en el magisterio",
+   "1 año de servicio en zona fronteriza",
+   "3 años como máximo desde su titulación"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué clase de maestros son aquellos que carecen de formación pedagógica regular pero ingresan por emergencia?",
+  "options": [
+   "Maestros Titulares",
+   "Maestros Interinos",
+   "Maestros Provisionales",
+   "Maestros Sustitutos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Para que un maestro interino pueda ser inscrito en el Escalafón, ¿cuántos años de servicio debe acreditar?",
+  "options": [
+   "Diez años de ejercicio continuo",
+   "Cinco años de servicio satisfactorio",
+   "Dos años después de su primer contrato",
+   "Tres años con evaluación positiva"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos de mérito otorga el reglamento por el título de Doctor en Pedagogía?",
+  "options": [
+   "10 puntos",
+   "15 puntos",
+   "20 puntos",
+   "25 puntos"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el puntaje máximo acumulable en el área de 'estudios y títulos profesionales'?",
+  "options": [
+   "50 puntos",
+   "100 puntos",
+   "Ilimitado, según la cantidad de títulos universitarios",
+   "75 puntos"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Un maestro normalista que trabaja en zona fronteriza durante 2 años (sin ser oriundo) computa:",
+  "options": [
+   "4 años de antigüedad para ascenso y jubilación",
+   "6 años de antigüedad únicamente para categoría",
+   "3 años de antigüedad si el lugar tiene difícil acceso",
+   "2 años adicionales solo para jubilación"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué autoridad preside la Comisión Calificadora Distrital del Escalafón?",
+  "options": [
+   "El Director Departamental de Educación",
+   "El Oficial Mayor del Ministerio",
+   "El Jefe de Distrito Escolar o de Zona",
+   "El Director Nacional de Educación"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es la bonificación salarial de un maestro de 3ra Categoría?",
+  "options": [
+   "45%",
+   "60%",
+   "75%",
+   "50%"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Para optar al cargo de 'Director Nacional de Educación', ¿cuántos puntos de mérito se requieren como mínimo?",
+  "options": [
+   "100 puntos",
+   "150 puntos",
+   "200 puntos",
+   "250 puntos"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el puntaje de mérito otorgado por la 'Participación en reuniones pedagógicas de alcance internacional'?",
+  "options": [
+   "2 puntos por cada reunión asistida",
+   "5 puntos fijos por gestión anual",
+   "De 2 a 4 puntos, hasta un máximo de 10 puntos",
+   "10 puntos fijos independientemente de la cantidad"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Por el desempeño de cátedra en cursos nacionales de especialización organizados por el Ministerio, se asigna:",
+  "options": [
+   "De 1 a 2 puntos por curso, hasta 10 puntos",
+   "10 puntos por cada año de enseñanza en normales",
+   "20 puntos fijos por ser capacitador nacional",
+   "5 puntos por cada curso impartido sin límite máximo"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos de mérito se otorgan por el título de 'Normalista Rural'?",
+  "options": [
+   "5 puntos",
+   "10 puntos",
+   "15 puntos",
+   "20 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "La escala de categorías en el magisterio busca recompensar:",
+  "options": [
+   "El nivel de inteligencia medido en pruebas psicométricas",
+   "La antigüedad en el servicio",
+   "La cantidad de alumnos aprobados por gestión",
+   "El nivel de tecnología utilizado en el aula"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué autoridad preside el Tribunal que califica los concursos de méritos para cargos directivos?",
+  "options": [
+   "Un delegado de la Dirección General de Educación",
+   "El Secretario Ejecutivo de la Federación de Maestros",
+   "El Alcalde del municipio donde se encuentra la vacante",
+   "El Director Departamental de Educación"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "En secundaria, un profesor de 2da Categoría puede acumular un máximo de horas semanales extra de:",
+  "options": [
+   "10 horas semanales extra",
+   "8 horas semanales extra",
+   "6 horas semanales extra",
+   "4 horas semanales extra"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Para que un maestro normalista pueda ascender de categoría, es requisito indispensable:",
+  "options": [
+   "Recabar su Título y Visación en un plazo de 2 años tras su egreso",
+   "Tener al menos 3 menciones honoríficas de la Junta Escolar",
+   "Haber trabajado al menos 10 años en el área rural de forma continua",
+   "Presentar evaluación de desempeño con calificación sobresaliente"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "La 'inmovilidad docente' garantiza que un maestro no sea destituido sin:",
+  "options": [
+   "Sentencia después de un proceso administrativo donde se reconozca su defensa",
+   "El permiso expreso de la Junta de Padres de Familia de la zona",
+   "Cumplir al menos 15 años de servicio ininterrumpido en el área urbana",
+   "La aprobación del sindicato de maestros de la región"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el registro sistemático y permanente de los datos profesionales de los maestros en Bolivia?",
+  "options": [
+   "La lista de asistencia diaria de la escuela",
+   "El Escalafón Nacional del Servicio de Educación",
+   "El archivo personal del director distrital"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué se requiere para ingresar en el sector docente fiscal boliviano?",
+  "options": [
+   "Ser boliviano (o extranjero con contrato), acreditar capacidad y tener entre 18 y 50 años",
+   "Tener menos de 18 años y haber cursado primaria",
+   "Ser mayor de 60 años y tener un negocio propio"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Quiénes son los 'maestros interinos'?",
+  "options": [
+   "Aquellos que, careciendo de formación pedagógica regular, ingresan al servicio por emergencia o falta de personal capacitado",
+   "Docentes con doctorado que solo trabajan media jornada",
+   "Estudiantes de secundaria que ayudan en las tareas de aula"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A cuántos puntos de mérito equivale el título de 'Doctor en Pedagogía'?",
+  "options": [
+   "5 puntos",
+   "10 puntos",
+   "20 puntos"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se otorga por la alfabetización voluntaria de cada 10 sujetos?",
+  "options": [
+   "1 punto",
+   "5 puntos (hasta un máximo de 20)",
+   "50 puntos acumulables sin límite"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos de demérito se asignan por el uso de castigos corporales o vejaciones graves?",
+  "options": [
+   "De 1 a 5 puntos",
+   "De 5 a 10 puntos",
+   "De 1 a 20 puntos"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué porcentaje de bonificación sobre el haber básico corresponde a la '1ª Categoría'?",
+  "options": [
+   "30%",
+   "75%",
+   "100%"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A qué edad deben acogerse obligatoriamente a la jubilación los maestros en Bolivia?",
+  "options": [
+   "50 años",
+   "55 años",
+   "60 años"
+  ],
+  "answer": 2,
+  "difficulty": "baja",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Quién integra la Comisión Nacional del Escalafón?",
+  "options": [
+   "Jefe de Estadística, Jefe del Escalafón y un delegado de la Federación de Maestros",
+   "El Ministro de Economía y tres directores de bancos privados",
+   "Cinco padres de familia elegidos por sorteo nacional"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos años de servicio requiere un maestro normalista para ascender a la categoría superior por antigüedad?",
+  "options": [
+   "Cada 2 años",
+   "Cada 5 años",
+   "Cada 10 años"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué es la 'Inamovilidad Docente' en Bolivia?",
+  "options": [
+   "Que un maestro nunca puede ser cambiado de aula ni siquiera si él lo pide",
+   "Que no pueden ser destituidos ni suspendidos sin proceso previo y sentencia por actos inmorales o delictivos",
+   "Que los maestros deben permanecer sentados durante toda la jornada escolar"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A cuántas horas semanales puede acumular un docente de 1ª Categoría en secundaria?",
+  "options": [
+   "Hasta 4 horas",
+   "Hasta 10 horas semanales además de su cargo principal",
+   "No se permite ninguna acumulación de horas"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se resta (demérito) por 'Instigación inmoral a los alumnos'?",
+  "options": [
+   "1 a 5 puntos",
+   "1 a 15 puntos",
+   "Resta automática de 100 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué es el Escalafón Nacional del Servicio de Educación?",
+  "options": [
+   "El registro sistemático, permanente y centralizado de datos de maestros y funcionarios",
+   "Un sindicato encargado de organizar huelgas y protestas",
+   "Una lista de los estudiantes con mejores promedios del país",
+   "El reglamento que regula las vacaciones docentes"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es la edad mínima y máxima para ingresar al sector docente fiscal?",
+  "options": [
+   "21 a 60 años",
+   "18 a 65 años",
+   "18 a 50 años",
+   "25 a 55 años"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Quiénes son maestros normalistas?",
+  "options": [
+   "Los que siguen el curso regular en escuelas o institutos normales del Estado",
+   "Los que tienen un título universitario en cualquier rama técnica",
+   "Aquellos que enseñan en escuelas privadas sin título pedagógico",
+   "Los que aprueban el examen de idoneidad del Ministerio"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A cuántos años de antigüedad equivale trabajar 2 años en zona de frontera para un normalista?",
+  "options": [
+   "3 años",
+   "4 años",
+   "5 años",
+   "6 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué porcentaje de bonificación asigna la 1ra categoría del escalafón?",
+  "options": [
+   "100% sobre el haber básico",
+   "50% sobre el haber básico",
+   "75% sobre el haber total incluyendo bonos",
+   "150% sobre el haber básico"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos años de servicio requiere un maestro titular para ascender a la 1ra categoría?",
+  "options": [
+   "15 años",
+   "20 años",
+   "25 años",
+   "30 años"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A partir de qué categoría un maestro de primaria puede acumular un cargo docente?",
+  "options": [
+   "Quinta categoría",
+   "Cuarta categoría",
+   "Tercera categoría",
+   "Segunda categoría"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué es una falta de rendimiento según el escalafón?",
+  "options": [
+   "Tener más del 30% de reprobados en el curso",
+   "No asistir a los desfiles patrios",
+   "Tener conflictos con los compañeros de trabajo",
+   "No presentar la planificación anual en fecha"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Los maestros inscritos en el Escalafón son:",
+  "options": [
+   "Removibles cada dos años por decisión del director",
+   "Inamovibles en la función docente, salvo proceso con sentencia",
+   "Obligados a trabajar en zonas rurales antes de jubilarse",
+   "Transferibles a cualquier unidad educativa por decisión distrital"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna por 'Inscripción en el escalafón' en la calificación de méritos?",
+  "options": [
+   "5 puntos",
+   "10 puntos",
+   "15 puntos",
+   "2 puntos"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué se requiere para ser Director de Escuela?",
+  "options": [
+   "Solo ser el maestro más antiguo del establecimiento",
+   "Título de formación pedagógica, 5 años de servicio y 100 puntos de méritos",
+   "Haber nacido en el mismo departamento donde se encuentra la escuela",
+   "10 años de servicio continuo en la misma unidad educativa"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Quiénes son considerados 'Maestros Normalistas'?",
+  "options": [
+   "Quienes siguen el curso regular en escuelas o institutos normales del Estado",
+   "Quienes tienen un título universitario en ramas técnicas únicamente",
+   "Quienes enseñan en escuelas privadas sin título pedagógico",
+   "Los que aprueban examen de capacidad docente del Ministerio"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es la edad mínima para ingresar al sector docente fiscal?",
+  "options": [
+   "21 años",
+   "18 años",
+   "25 años",
+   "16 años con autorización familiar"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Los 'Maestros Titulares' son interinos que, tras 10 años de servicio:",
+  "options": [
+   "Se jubilan automáticamente con el 100%",
+   "Aprueban un examen de capacidad y obtienen el título",
+   "Pasan a ser administrativos sin opción a enseñar",
+   "Ingresan automáticamente a la 3ra categoría del escalafón"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "La inscripción en el escalafón asigna un puntaje de:",
+  "options": [
+   "10 puntos en el área de estudios",
+   "5 puntos",
+   "15 puntos",
+   "2 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Un 'Doctor en Pedagogía' recibe en su calificación de méritos:",
+  "options": [
+   "50 puntos",
+   "20 puntos",
+   "10 puntos",
+   "15 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Dos años de servicio en zona fronteriza para un normalista equivalen a:",
+  "options": [
+   "2 años de antigüedad",
+   "4 años de antigüedad",
+   "6 años de antigüedad",
+   "3 años de antigüedad"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Tener más del 30% de reprobados en un curso se califica como:",
+  "options": [
+   "Falta de rendimiento (demérito de 1 a 5 puntos)",
+   "Falta de comportamiento (demérito de 10 puntos)",
+   "Causa de despido inmediato sin proceso",
+   "Falta grave con suspensión de 15 días"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué porcentaje de bonificación otorga la 1ra Categoría?",
+  "options": [
+   "50% sobre el haber básico",
+   "100% sobre el haber básico",
+   "75% sobre el total ganado",
+   "150% sobre el haber básico"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Años de servicio requeridos para un interino para llegar a la 1ra Categoría:",
+  "options": [
+   "15 años",
+   "25 años",
+   "30 años",
+   "20 años"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Antigüedad para que un normalista alcance la 2da Categoría:",
+  "options": [
+   "10 años",
+   "15 años",
+   "20 años",
+   "5 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el objeto del Decreto Supremo N° 4688 - Reglamento del Escalafón Nacional del Servicio de Educación?",
+  "options": [
+   "Regular el proceso de evaluación estudiantil anual",
+   "Establecer el régimen de la carrera docente, categorías, remuneraciones y ascensos del magisterio boliviano",
+   "Normar la construcción de infraestructura educativa",
+   "Regular el funcionamiento de las universidades públicas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "DS 4688 - Reglamento Escalafón Nacional"
+ },
+ {
+  "question": "Según el DS 4688, ¿cuántas categorías comprende el Escalafón Nacional del Servicio de Educación?",
+  "options": [
+   "5 categorías (de la primera a la quinta)",
+   "7 categorías (de la primera a la séptima)",
+   "10 categorías (de la primera a la décima)",
+   "12 categorías (de la primera a la duodécima)"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "DS 4688 - Reglamento Escalafón Nacional"
+ },
+ {
+  "question": "¿Cuántos años de experiencia docente se requieren para pasar de primera a segunda categoría según el DS 4688?",
+  "options": [
+   "1 año",
+   "2 años",
+   "3 años",
+   "5 años"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "DS 4688 - Reglamento Escalafón Nacional"
+ },
+ {
+  "question": "Según el Reglamento del Escalafón DS 4688, el Ascenso de Categoría se produce mediante:",
+  "options": [
+   "Solo antigüedad en el servicio sin evaluación",
+   "Examen de competencia, méritos y antigüedad según la convocatoria del Ministerio de Educación",
+   "Decisión directa del Director Distrital",
+   "Votación de los compañeros docentes del distrito"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "DS 4688 - Reglamento Escalafón Nacional"
+ },
+ {
+  "question": "¿Qué documento acredita la categoría docente en el sistema educativo boliviano?",
+  "options": [
+   "El título profesional de la ESFM",
+   "El Ítem docente asignado por el Ministerio",
+   "El Diploma Escalafonal emitido por la autoridad competente",
+   "La resolución del Director Departamental"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "DS 4688 - Reglamento Escalafón Nacional"
+ },
+ {
+  "question": "¿Qué es el ítem docente en el sistema educativo boliviano?",
+  "options": [
+   "El código de identificación del estudiante en el sistema",
+   "La plaza o cargo docente asignada por el Estado con sus condiciones específicas de trabajo y remuneración",
+   "El número de horas de clase asignadas por semana",
+   "El código del libro de texto oficial"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "DS 4688 - Reglamento Escalafón Nacional"
+ },
+ {
+  "question": "El DS 4688 establece que para acceder al cargo de Director de Unidad Educativa se requiere:",
+  "options": [
+   "Solo muchos años de servicio sin ningún examen",
+   "Pertenecer a una categoría determinada del escalafón y aprobar el proceso de selección correspondiente",
+   "Ser elegido por votación de los padres de familia",
+   "Ser designado directamente por el alcalde municipal"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "DS 4688 - Reglamento Escalafón Nacional"
+ },
+ {
+  "question": "El DS 4688 establece que los méritos académicos para el escalafón se acreditan mediante:",
+  "options": [
+   "Solo la declaración verbal del docente ante el director",
+   "Documentos originales o copias legalizadas de títulos, certificados y reconocimientos registrados en el expediente escalafonal",
+   "Fotografías de los diplomas compartidas en redes sociales",
+   "Solo el registro de asistencia a cursos sin certificación oficial"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "DS 4688 - Reglamento Escalafón Nacional"
+ },
+ {
+  "question": "¿Qué puntaje de mérito específico otorga el Escalafón por poseer el título de 'Médico, Abogado o Ingeniero' si el profesional ejerce la docencia?",
+  "options": [
+   "5 puntos por cada título",
+   "10 puntos por cada título del mismo nivel universitario",
+   "20 puntos como máximo acumulable por estudios superiores"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el beneficio exacto de antigüedad para un maestro titular o interino (no oriundo) que presta 4 años de servicio en zonas fronterizas?",
+  "options": [
+   "Se le computan 8 años de antigüedad para jubilación",
+   "Tiene derecho al cómputo de 6 años de antigüedad para todos los efectos",
+   "Asciende automáticamente a la segunda categoría sin examen"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "Según el Artículo 25 del DS 4688, ¿cuántos puntos de diferencia existen entre el puntaje otorgado a un 'Normalista Rural' y a un 'Normalista de Primaria y Secundaria'?",
+  "options": [
+   "5 puntos de diferencia",
+   "10 puntos de diferencia (10 vs 20 puntos)",
+   "No hay diferencia, ambos reciben 15 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna en la sección de deméritos por un trato indebido que provoque una deserción escolar superior al 20%?",
+  "options": [
+   "1 a 5 puntos de demérito",
+   "1 a 10 puntos de demérito",
+   "1 a 20 puntos de demérito por abandono de funciones"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos otorga el rango de 'Director Nacional de Educación' en la calificación de méritos generales?",
+  "options": [
+   "6 puntos",
+   "8 puntos",
+   "10 puntos"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué requisito de méritos y años de servicio se exige específicamente para postular al cargo de 'Inspector de Distrito'?",
+  "options": [
+   "5 años de servicio y 100 puntos",
+   "No menos de 8 años de servicio ni menos de 120 puntos de méritos",
+   "10 años de servicio y 150 puntos de méritos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna por 'Alfabetización voluntaria y no remunerada' por cada grupo de 10 sujetos?",
+  "options": [
+   "2 puntos por grupo hasta un máximo de 10",
+   "5 puntos por cada 10 sujetos, hasta un máximo de 20 puntos",
+   "1 punto por cada alfabetizado sin límite de puntaje"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A qué rango corresponde el nivel 'f' en la escala jerárquica administrativa del servicio de educación?",
+  "options": [
+   "Oficial Mayor del Ministerio",
+   "Secretarios, Inspectores, Regentes y Habilitados de Institutos y Colegios",
+   "Dactilógrafos y auxiliares de oficina"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos años de servicio requiere un maestro interino o titular para alcanzar la 2da Categoría (75% de bonificación) mediante el cómputo de antigüedad?",
+  "options": [
+   "15 años",
+   "20 años cumplidos",
+   "25 años cumplidos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Bajo qué condición técnica un profesor de secundaria de 'Tercera Categoría' puede acumular horas?",
+  "options": [
+   "Hasta 10 horas semanales",
+   "Hasta 8 horas semanales",
+   "Hasta 6 horas semanales"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos otorga el Escalafón por el título de 'Normalista de Kindergarten, Educación Física o Música'?",
+  "options": [
+   "10 puntos",
+   "15 puntos",
+   "20 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna por poseer el título de 'Bachiller' en la ficha de calificación del escalafón?",
+  "options": [
+   "2 puntos",
+   "5 puntos",
+   "10 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el demérito por 'Indisciplina reiterada y manifiesta' en el Escalafón?",
+  "options": [
+   "1 a 5 puntos",
+   "1 a 10 puntos",
+   "Descenso de categoría inmediato"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A cuántos años de servicio asciende un maestro normalista a la 'Primera Categoría' mediante examen voluntario?",
+  "options": [
+   "12 años",
+   "16 años y examen aprobado",
+   "20 años de servicio"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos otorga el rango de 'Director General y Oficial Mayor de Educación' en méritos generales?",
+  "options": [
+   "8 puntos",
+   "10 puntos",
+   "15 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna por 'Libros editados o inéditos' en la ficha de calificación?",
+  "options": [
+   "5 puntos por libro",
+   "De 1 a 2 puntos por cada uno, hasta un máximo de 20",
+   "10 puntos fijos sin importar la cantidad"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Bajo qué categoría los maestros de primaria pueden acumular un segundo cargo docente?",
+  "options": [
+   "Solo en la primera categoría",
+   "Desde la tercera categoría, únicamente en nocturnas o alfabetización",
+   "En cualquier categoría si es en zona fronteriza"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el plazo máximo de cesantía con goce del 100% de haber para un maestro sin culpabilidad?",
+  "options": [
+   "30 días",
+   "60 días",
+   "Un máximo de 90 días"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué edad marca el retiro obligatorio por jubilación según el Artículo 75 del Escalafón?",
+  "options": [
+   "55 años",
+   "60 años de edad",
+   "65 años"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos otorga el Escalafón por el título de 'Doctor en Pedagogía'?",
+  "options": [
+   "10 puntos",
+   "15 puntos",
+   "20 puntos"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna por 'Premios y distinciones honoríficas en concursos científicos'?",
+  "options": [
+   "Hasta 5 puntos",
+   "Hasta 10 puntos",
+   "2 puntos por cada premio"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el demérito por 'Uso de castigos corporales y vejaciones graves'?",
+  "options": [
+   "1 a 10 puntos",
+   "1 a 20 puntos de demérito",
+   "Retiro definitivo inmediato sin puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué plazo tiene la Comisión Distrital para verificar la procedencia de una apelación de méritos?",
+  "options": [
+   "24 horas",
+   "En el término de 3 días",
+   "5 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna por poseer el título de 'Técnico en administración escolar con postgrado'?",
+  "options": [
+   "10 puntos",
+   "15 puntos",
+   "20 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es la puntuación por el cargo de 'Secretario General de la Dirección General' en méritos generales?",
+  "options": [
+   "6 puntos",
+   "8 puntos",
+   "10 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje otorga la 'Asistencia a reuniones pedagógicas internacionales' (máximo)?",
+  "options": [
+   "5 puntos",
+   "10 puntos",
+   "20 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos de demérito se aplican por 'instigación inmoral a los alumnos'?",
+  "options": [
+   "5 a 10 puntos",
+   "1 a 15 puntos",
+   "Retiro definitivo"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A qué rango jerárquico docente corresponden los 'Directores de Normales'?",
+  "options": [
+   "Rango b",
+   "Rango c",
+   "Rango d"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué porcentaje de bonificación recibe un docente de 4ta categoría?",
+  "options": [
+   "30%",
+   "45%",
+   "60%"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos años de servicio requiere un maestro normalista para llegar a la 3ra categoría?",
+  "options": [
+   "12 años",
+   "15 años",
+   "18 años"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje otorga el título de 'Normalista Rural' en la ficha de calificación?",
+  "options": [
+   "5 puntos",
+   "10 puntos",
+   "15 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el demérito por 'más del 30% de reprobados en el curso'?",
+  "options": [
+   "1 a 2 puntos",
+   "1 a 5 puntos",
+   "10 puntos fijos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Quiénes integran la Comisión Nacional del Escalafón (además del Jefe de Departamento)?",
+  "options": [
+   "El Jefe del Escalafón y un Delegado de la Federación Nacional de Maestros Urbanos",
+   "El Ministro de Educación y dos abogados",
+   "Tres directores departamentales"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna por 'desempeño de cátedra en cursos nacionales' por cada curso?",
+  "options": [
+   "1 a 2 puntos, hasta un máximo de 10",
+   "5 puntos fijos",
+   "0.5 puntos por hora"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el rango administrativo para 'Auxiliares de oficina y niñeras'?",
+  "options": [
+   "Rango f",
+   "Rango g",
+   "Rango h"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos otorga el título de 'Maestro de Educación Especial'?",
+  "options": [
+   "5 puntos",
+   "10 puntos",
+   "15 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el beneficio para maestros que sirvieron en la Guerra del Chaco para jubilación?",
+  "options": [
+   "Un bono del 50%",
+   "Cómputo de doble tiempo de servicios",
+   "Jubilación a los 40 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué plazo tiene el normalista para recabar su título tras el egreso para no perder el ascenso?",
+  "options": [
+   "1 año",
+   "2 años",
+   "5 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántas categorías de promoción existen para recompensar la antigüedad?",
+  "options": [
+   "Tres",
+   "Cinco",
+   "Diez"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se otorga por 'fundación y dirección de publicaciones de importancia'?",
+  "options": [
+   "Hasta 2 puntos",
+   "Hasta 5 puntos",
+   "10 puntos fijos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué categoría alcanza un titular/interino a los 20 años de servicio?",
+  "options": [
+   "3ra categoría",
+   "2da categoría",
+   "1ra categoría"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el puntaje por 'Inscripción en el escalafón'?",
+  "options": [
+   "2 puntos",
+   "5 puntos",
+   "10 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos de mérito se exigen para ser Inspector de Distrito?",
+  "options": [
+   "100 puntos",
+   "No menos de 120 puntos",
+   "150 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el tiempo de servicio para ser Director General de Educación?",
+  "options": [
+   "10 años",
+   "No menos de 15 años",
+   "20 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna por 'Libros editados o inéditos' (máximo)?",
+  "options": [
+   "10 puntos",
+   "20 puntos",
+   "30 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿A cuántos años asciende un interino/titular a la 3ra categoría?",
+  "options": [
+   "10 años",
+   "15 años",
+   "18 años"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el demérito por 'abandono de funciones' (máximo)?",
+  "options": [
+   "10 puntos",
+   "20 puntos",
+   "Suspensión definitiva"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje otorga el rango de 'Jefe de Distrito Escolar' en méritos?",
+  "options": [
+   "4 puntos",
+   "6 puntos",
+   "8 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el plazo para resolver una apelación de méritos por la Distrital?",
+  "options": [
+   "24 horas",
+   "En el término de 3 días",
+   "5 días"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos otorga el título de 'Bachiller' para el maestro (variante 2)?",
+  "options": [
+   "2 puntos",
+   "5 puntos",
+   "10 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el puntaje máximo por 'Méritos Generales' en la ficha?",
+  "options": [
+   "50 puntos",
+   "100 puntos",
+   "No tiene límite"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se asigna por 'Inscripción en el Escalafón' (variante 2)?",
+  "options": [
+   "1 punto",
+   "5 puntos",
+   "10 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos otorga el título de 'Normalista de Primaria y Secundaria'?",
+  "options": [
+   "10 puntos",
+   "20 puntos",
+   "30 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué bono porcentual sobre el haber básico corresponde a la 3ª Categoría?",
+  "options": [
+   "45%",
+   "60%",
+   "75%"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuántos puntos se otorgan por el rango de 'Director Nacional' en funciones jerárquicas?",
+  "options": [
+   "4 puntos",
+   "6 puntos",
+   "8 puntos"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué sucede con un maestro interino que no rinde su prueba de idoneidad después de 6 años?",
+  "options": [
+   "Se le perdona por una única vez",
+   "Queda inhabilitado para el ejercicio de la docencia",
+   "Se le baja de categoría automáticamente"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué documento acredita el tiempo de servicios en la educación fiscal?",
+  "options": [
+   "Una carta del sindicato de maestros",
+   "Certificados expedidos por la Contraloría u otras oficinas pagadoras",
+   "El testimonio verbal de dos colegas con más de 20 años"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Qué puntaje se otorga por el desempeño de cátedra en cursos nacionales de especialización (máximo)?",
+  "options": [
+   "5 puntos por curso",
+   "1 a 2 puntos por curso hasta un máximo de 10",
+   "20 puntos por cada año"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ },
+ {
+  "question": "¿Cuál es el beneficio para maestros normalistas que sirven 2 años en zonas fronterizas (siendo foráneos)?",
+  "options": [
+   "Reciben el doble de sueldo",
+   "Tienen derecho al cómputo de 4 años de antigüedad para jubilación y méritos",
+   "Ascienden de categoría inmediatamente sin examen"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento del Escalafón Nacional DS 4688"
+ }
+]

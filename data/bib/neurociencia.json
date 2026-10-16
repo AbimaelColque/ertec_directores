@@ -1,0 +1,1575 @@
+[
+ {
+  "question": "¿Qué fenómeno describe la 'inseguridad lingüística' según Alain Bentolila?",
+  "options": [
+   "La fobia social generada por la obligación de hablar en público durante asambleas",
+   "La incapacidad de expresar con precisión el pensamiento propio, derivando en exclusión y posible violencia",
+   "El desconocimiento técnico de las reglas gramaticales de una lengua extranjera",
+   "El miedo a cometer errores ortográficos durante un dictado en clase"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la función específica del Sistema Activador Reticular Ascendente (SARA) en el aprendizaje?",
+  "options": [
+   "Almacenar recuerdos conceptuales en los lóbulos prefrontales tras el periodo de Uptime",
+   "Determinar la velocidad y el tipo de información sensorial que pasará al sistema límbico y al cerebro superior",
+   "Regular las funciones ejecutivas y la planificación de toma de decisiones",
+   "Ejecutar los movimientos motores complejos y la coordinación kinestésica fina"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "La 'potenciación a largo plazo' (PLP), descubierta por Timothy Bliss, es el mecanismo de:",
+  "options": [
+   "Intensificación duradera de la transmisión de señales entre neuronas tras una estimulación alta",
+   "Crecimiento físico de los axones neuronales durante los períodos de sueño profundo",
+   "Eliminación de conexiones sinápticas débiles para optimizar el espacio cerebral",
+   "Generación de nuevas neuronas durante la etapa de educación primaria"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué sucede en el cerebro durante el estado de 'Downtime'?",
+  "options": [
+   "Se percibe el estímulo con una visión global y todos los sentidos están en alerta máxima",
+   "Se detiene todo procesamiento de información para permitir el descanso total de las neuronas",
+   "Se generan asociaciones visuales y procesamiento interno, requiriendo intervalos de silencio",
+   "Se activa la memoria semántica para consolidar datos fácticos del día"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es la 'poda neuronal'?",
+  "options": [
+   "El crecimiento de nuevas neuronas gracias al ejercicio físico y la buena nutrición",
+   "La eliminación de conexiones sinápticas débiles o poco activas",
+   "El bloqueo del paso de información a la neocorteza debido al miedo",
+   "La formación de nuevas redes neuronales por efecto del aprendizaje repetitivo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué provoca el 'secuestro amigdalar' en el aula?",
+  "options": [
+   "Una hiper-focalización en el contenido que mejora la memoria a corto plazo",
+   "Dejarse llevar por emociones como el miedo, impidiendo una respuesta lógica",
+   "La activación de la curiosidad ante un estímulo novedoso y sorprendente",
+   "La producción de dopamina que mejora la atención voluntaria"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la función del 'Panel de la emoción'?",
+  "options": [
+   "Que los estudiantes pongan en palabras lo que sienten y gestionen su emoción",
+   "Premiar con caritas felices a los alumnos que sacan mejores notas",
+   "Registrar la asistencia diaria de los alumnos de forma creativa",
+   "Evaluar el comportamiento de los estudiantes de forma visual"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "En el modelo de 'Cerebro Triuno', el cerebro reptiliano necesita para funcionar:",
+  "options": [
+   "Desafíos intelectuales, abstracciones y pensamiento lógico",
+   "Interacción social, vínculos afectivos y música ambiental",
+   "Oxígeno, rituales, seguridad y sentido de pertenencia al grupo",
+   "Estimulación sensorial constante y variedad de colores en el aula"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es un 'recreo mental' o neuro-acción?",
+  "options": [
+   "Un descanso de 30 minutos para jugar libremente en el patio",
+   "Pausas de segundos cada 20 minutos para oxigenar y despertar dopamina",
+   "Un tiempo para que el docente califique los exámenes en silencio",
+   "Una actividad física de al menos 10 minutos entre materias"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué sucede si un aula tiene una iluminación deficiente?",
+  "options": [
+   "El cerebro se esfuerza más y mejora la atención voluntaria",
+   "Se activa la melatonina y el cerebro tiende a dormirse",
+   "Se facilita el paso de información a los lóbulos prefrontales",
+   "Se mejora la concentración al eliminarse los distractores visuales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el neurotransmisor responsable de volver al alumno al 'estado normal' tras el circuito DAS?",
+  "options": [
+   "La Dopamina",
+   "La Serotonina",
+   "La Noradrenalina",
+   "El Cortisol"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el período de atención 'Uptime' promedio para un adulto mayor de 18 años?",
+  "options": [
+   "De 8 a 12 minutos",
+   "De 15 a 18 minutos",
+   "Más de 40 minutos sin pausas",
+   "Entre 5 y 8 minutos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "El circuito de recompensa 'DAS' en el aprendizaje sigue esta secuencia funcional:",
+  "options": [
+   "Distracción (bloquea), Adrenalina (reacciona) y Sueño (recupera energía)",
+   "Dopamina (motiva), Noradrenalina (activa la acción) y Serotonina (estabiliza)",
+   "Determinación (meta), Atención (foco) y Sabiduría (archivo semántico)",
+   "Deseo (impulso), Acción (conducta) y Satisfacción (recompensa)"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "La 'memoria semántica' se encarga de almacenar:",
+  "options": [
+   "Hechos y datos personales junto al estado mental del momento",
+   "Conocimientos conceptuales y el significado de las palabras",
+   "Habilidades motoras y procedimientos automáticos como escribir",
+   "Recuerdos episódicos vinculados a emociones específicas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la misión principal de un 'educador asertivo' según la neurociencia?",
+  "options": [
+   "Asegurar que todos los alumnos memoricen el currículum formal al 100%",
+   "Nivelar estados emocionales para abrir paso a las redes cognitivas racionales",
+   "Calificar con las notas más altas para evitar el conflicto con los padres",
+   "Aplicar el mayor número de técnicas neurodidácticas en cada clase"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es la 'neurogénesis'?",
+  "options": [
+   "La muerte celular que ocurre por falta de estimulación intelectual",
+   "La capacidad del cerebro de generar nuevas neuronas durante toda la vida",
+   "El primer paso del circuito de recompensa DAS",
+   "El proceso de eliminación de conexiones sinápticas poco usadas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la función del 'Botiquín de primeros auxilios emocionales'?",
+  "options": [
+   "Suministrar analgésicos a alumnos con dolores físicos reales",
+   "Tratar simbólicamente emociones somatizadas como dolores de panza",
+   "Guardar las vendas y el alcohol para accidentes en el recreo",
+   "Registrar los estados emocionales de los alumnos para el boletín"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el neurotransmisor 'amigo del aprendizaje' que se activa con el movimiento y el humor?",
+  "options": [
+   "Dopamina",
+   "Cortisol",
+   "Melatonina",
+   "Adrenalina"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "En la técnica evaluativa 'Cinco segundos', se recomienda que las respuestas sean:",
+  "options": [
+   "Desarrollo de conceptos complejos para medir la síntesis",
+   "Verdadero/Falso o Sí/No para permitir la respuesta simultánea",
+   "Dibujos esquemáticos para activar el hemisferio derecho",
+   "Respuestas orales individuales en voz alta frente al grupo"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el fin último de un 'aula con cerebro'?",
+  "options": [
+   "Que todos los alumnos saquen la nota máxima en las pruebas PISA",
+   "Brindar un entorno que invite naturalmente al aprendizaje exitoso",
+   "Comprar la tecnología más costosa disponible en el mercado",
+   "Eliminar las evaluaciones sumativas para reducir el estrés"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "La 'plasticidad asociativa' de Donald Hebb propone que:",
+  "options": [
+   "Las neuronas se asocian según su color y tamaño",
+   "La conexión sináptica se fortalece si las neuronas se activan juntas repetidamente",
+   "El cerebro solo aprende si el alumno se asocia con compañeros inteligentes",
+   "Las redes neuronales se forman exclusivamente durante la infancia temprana"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "El concepto de 'retraso genómico' en neurociencia explica:",
+  "options": [
+   "La lentitud con la que los niños modernos desarrollan sus capacidades lógicas",
+   "El desfase entre nuestro genoma antiguo (de la sabana) y el mundo artificial moderno",
+   "La predisposición genética a olvidar contenidos que no se repiten siete veces",
+   "La reducción del tamaño cerebral por el uso excesivo de pantallas digitales"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué diferencia a la 'Atención Voluntaria' de la 'Atención Espontánea'?",
+  "options": [
+   "La voluntaria es un reflejo innato; la espontánea requiere estudio",
+   "La voluntaria consume mucha energía; la espontánea requiere mínimo esfuerzo",
+   "La espontánea solo ocurre en adultos; la voluntaria en niños pequeños",
+   "La voluntaria solo se activa con incentivos externos como premios o notas"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué se busca con la estrategia de 'Palabras Positivas' en el aula?",
+  "options": [
+   "Que los alumnos escriban poesías con rimas alegres",
+   "Cambiar la forma en que el cerebro piensa y estimular el lóbulo frontal",
+   "Evitar que los alumnos usen palabras prohibidas por el reglamento",
+   "Mejorar la ortografía mediante la repetición de términos correctos"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "La 'Depresión a Largo Plazo' (DPL) en términos neurocientíficos implica:",
+  "options": [
+   "Un estado clínico de tristeza profunda del alumno tras desaprobar una materia",
+   "El debilitamiento de la red neuronal por el desuso de la conexión sináptica",
+   "El bloqueo absoluto de la amígdala ante la aparición de un estímulo positivo",
+   "La reducción progresiva del rendimiento académico por desmotivación"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "En un 'aula con cerebro', ¿qué función tiene la agenda de contenidos anticipada?",
+  "options": [
+   "Registrar el comportamiento negativo para sancionarlo al final del día",
+   "Anticipar actividades para relajar el cerebro y bajar la ansiedad",
+   "Cumplir con la burocracia administrativa que exige la dirección",
+   "Documentar el avance del currículum para la evaluación institucional"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué efecto biológico produce una iluminación deficiente en el aula?",
+  "options": [
+   "Se activa la dopamina para compensar el esfuerzo visual que realiza el estudiante",
+   "Se segrega melatonina en el cerebro, induciendo naturalmente al adormecimiento",
+   "Se mejora la concentración al eliminarse todos los distractores visuales del entorno",
+   "Se activa el sistema SARA para compensar la falta de estímulos visuales"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Para consolidar una red neuronal nueva, la neurociencia sugiere repetir la información:",
+  "options": [
+   "Exactamente dos veces en la misma mañana para asegurar que no se olvide",
+   "De forma mecánica y rítmica como si fuera una canción pegajosa",
+   "De 7 a 10 frecuencias diferentes integrando siempre alguna novedad",
+   "Una sola vez pero con máxima concentración y atención voluntaria"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la recomendación técnica para los 'recreos mentales' en el aula?",
+  "options": [
+   "Realizar pausas de 10 a 15 segundos cada 20 minutos de clase para oxigenar",
+   "Salir al patio durante 30 minutos después de cada lección de matemáticas",
+   "Un minuto de silencio absoluto al final del día escolar para bajar la ansiedad",
+   "Cinco minutos de meditación al inicio de cada clase"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Michael Posner clasifica la atención en dos tipos fundamentales:",
+  "options": [
+   "Atención espontánea (mínimo esfuerzo) y voluntaria (alto gasto energético)",
+   "Atención pasiva (escuchar al maestro) y activa (tomar apuntes al dictado)",
+   "Atención dividida (propia de niños) y concentrada (exclusiva de los adultos)",
+   "Atención primaria (instintiva) y secundaria (aprendida)"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "En la técnica 'A pregunta, B responde y Z corrige', el rol de 'Z' es crítico porque:",
+  "options": [
+   "Es quien pone la nota final que va al acta oficial",
+   "Fomenta la corrección colaborativa y el procesamiento del error",
+   "Es el único que tiene permitido mirar el libro de texto",
+   "Representa la autoridad del docente frente al grupo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué caracteriza a una 'evaluación asertiva'?",
+  "options": [
+   "Ser un proceso de diálogo, comprensión y mejora, evitando el estrés",
+   "Utilizar solo pruebas de opción múltiple para asegurar la objetividad",
+   "Ser una instancia de juicio final para determinar quién aprueba y quién no",
+   "Aplicar un puntaje numérico estricto a todas las competencias"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la función principal de la Noradrenalina en el proceso de aprendizaje según la neurociencia?",
+  "options": [
+   "Generar estados placenteros y motivación inicial",
+   "Controlar el enfoque mental, la atención y regular la excitación física y mental",
+   "Volver al organismo al estado de calma tras el circuito de recompensa",
+   "Activar la memoria a largo plazo durante el período de sueño"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué fenómeno ocurre durante un 'secuestro amigdalar' en el salón de clases?",
+  "options": [
+   "Se facilita enormemente el paso de información sensorial a los lóbulos prefrontales",
+   "Se pierde la respuesta lógica ante una amenaza, bloqueando el cerebro racional",
+   "Se activa la curiosidad máxima y la producción de dopamina por la novedad",
+   "Se mejora la memoria a corto plazo por efecto del estrés moderado"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuánto dura aproximadamente el periodo de atención 'Uptime' en el nivel secundario?",
+  "options": [
+   "Más de 40 minutos de concentración ininterrumpida si el tema es interesante",
+   "Entre 12 y 15 minutos",
+   "Exactamente 60 minutos, que es la duración estándar de una hora de cátedra",
+   "Entre 5 y 8 minutos en adolescentes con bajo rendimiento"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "El mecanismo principal del aprendizaje y la memoria sináptica es:",
+  "options": [
+   "La Potenciación a Largo Plazo (PLP) por activación sincrónica de neuronas",
+   "La reducción del estrés mediante la aplicación de la técnica de los abrazos",
+   "El almacenamiento de datos fácticos mediante el dictado intensivo de apuntes",
+   "La repetición mecánica de información en intervalos de 24 horas"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuáles son los factores que dificultan la neuroplasticidad según la neurociencia?",
+  "options": [
+   "La educación cerebro-compatible y la práctica constante de actividad física",
+   "La mala nutrición, la falta de sueño y la presencia de hábitos tóxicos",
+   "La interacción social y el uso de juegos de estrategia como el ajedrez",
+   "La sobre-estimulación sensorial y la exposición excesiva a nuevos aprendizajes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "De las seis emociones básicas estudiadas por Paul Ekman, ¿cuál se considera de valencia 'neutral'?",
+  "options": [
+   "Alegría",
+   "Sorpresa (o asombro)",
+   "Aversión",
+   "Tristeza"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es la 'neuro-acción' en el contexto educativo?",
+  "options": [
+   "Un examen de respuesta rápida bajo presión de tiempo",
+   "Pausas breves de movimiento para oxigenar y retomar la atención",
+   "Una cirugía cerebral para mejorar la memoria de los estudiantes",
+   "Un ejercicio de relajación de 30 minutos entre materias"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "La técnica 'Bollo de papel' se utiliza principalmente para:",
+  "options": [
+   "Identificar de forma anónima a los alumnos que tienen mala conducta",
+   "Practicar la motricidad fina antes de un examen de geometría",
+   "Realizar una síntesis o cierre de clase de forma divertida y compartida",
+   "Evaluar la puntería y coordinación motora de los estudiantes"
+  ],
+  "answer": 2,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Un 'ambiente resonante' en el aula requiere:",
+  "options": [
+   "Que el aula tenga techos altos para que la voz del maestro se escuche bien",
+   "Tener en cuenta las emociones y el entorno para un aprendizaje significativo",
+   "Eliminar todo estímulo visual para que el alumno no se distraiga",
+   "Reproducir música clásica de fondo durante todas las actividades de clase"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es la 'potenciación a largo plazo' (PLP) y qué la diferencia de la 'depresión a largo plazo' (DPL)?",
+  "options": [
+   "PLP fortalece la sinapsis por uso frecuente; DPL la debilita por desuso",
+   "PLP ocurre solo de noche y DPL solo durante el día",
+   "PLP es un fenómeno emocional y DPL es un fenómeno cognitivo",
+   "PLP afecta la memoria semántica y DPL afecta la memoria episódica"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el rol de la dopamina en el inicio del circuito DAS?",
+  "options": [
+   "Estabiliza el estado emocional tras la recompensa",
+   "Genera motivación e impulso para iniciar la acción de aprendizaje",
+   "Bloquea el paso de información al sistema límbico",
+   "Regula el ritmo cardíaco durante el estrés académico"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según la neurociencia educativa, ¿cuál es el efecto del cortisol elevado sobre el aprendizaje?",
+  "options": [
+   "Mejora la consolidación de la memoria a largo plazo",
+   "Activa la creatividad y el pensamiento divergente",
+   "Bloquea el acceso a la neocorteza y deteriora la memoria y la atención",
+   "Aumenta la velocidad de procesamiento de información nueva"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "El 'Uptime' y el 'Downtime' en el aula son estados atencionales que el docente debe:",
+  "options": [
+   "Eliminar el Downtime porque representa pérdida de tiempo de clase",
+   "Gestionar alternándolos, ya que ambos son necesarios para el aprendizaje",
+   "Fomentar solo el Uptime para maximizar el tiempo de instrucción",
+   "Ignorar porque dependen exclusivamente del estudiante, no del docente"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Por qué el movimiento físico es considerado una estrategia neurodidáctica efectiva?",
+  "options": [
+   "Porque ocupa a los estudiantes inquietos y mejora la disciplina del aula",
+   "Porque activa la producción de dopamina y oxigena el cerebro, mejorando la atención",
+   "Porque es obligatorio según el currículo de educación física integrada",
+   "Porque reduce el tiempo de instrucción directa que el maestro debe realizar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué sucede fisiológicamente cuando un alumno experimenta miedo o amenaza en el aula?",
+  "options": [
+   "Se activa el lóbulo prefrontal y mejora la toma de decisiones académicas",
+   "La amígdala 'secuestra' la respuesta racional, impidiendo el aprendizaje efectivo",
+   "El sistema SARA aumenta el filtro de información sensorial positiva",
+   "La serotonina sube y el alumno entra en un estado de calma productiva"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es la 'neuroplasticidad' y cuál es su importancia pedagógica?",
+  "options": [
+   "La capacidad del cerebro de cambiar y reorganizarse ante nuevas experiencias de aprendizaje",
+   "La velocidad con que el cerebro procesa información matemática abstracta",
+   "La rigidez del cerebro adulto que impide aprender lenguas extranjeras",
+   "La predisposición genética que determina el coeficiente intelectual máximo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la función pedagógica de las 'neuro-acciones' o micro-pausas activas?",
+  "options": [
+   "Reemplazar el recreo tradicional y reducir el tiempo libre de los estudiantes",
+   "Interrumpir el estado de Downtime para iniciar la instrucción formal",
+   "Oxigenar el cerebro, liberar dopamina y restablecer la capacidad atencional",
+   "Evaluar informalmente el nivel de comprensión de los estudiantes"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según la neurociencia, ¿qué efecto tiene el humor y la risa moderada en el proceso de aprendizaje?",
+  "options": [
+   "Distrae a los estudiantes y reduce la concentración en el contenido",
+   "Activa la dopamina y crea un ambiente emocional favorable para la memoria",
+   "Es irrelevante para el aprendizaje cognitivo y solo mejora el clima social",
+   "Reduce la producción de noradrenalina y disminuye el nivel de alerta"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué implica el concepto de 'cerebro social' en el diseño de actividades pedagógicas?",
+  "options": [
+   "Que los alumnos deben estudiar en silencio absoluto para evitar la socialización",
+   "Que el cerebro humano aprende mejor en entornos de interacción y colaboración",
+   "Que solo los alumnos extrovertidos se benefician del trabajo en equipo",
+   "Que la competencia individual activa más circuitos cerebrales que la cooperación"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "El estado emocional del alumno influye en el aprendizaje principalmente porque:",
+  "options": [
+   "Las emociones negativas siempre bloquean cualquier tipo de aprendizaje",
+   "El sistema límbico filtra la información antes de que llegue a la neocorteza",
+   "Las emociones son independientes del procesamiento cognitivo en el aula",
+   "El cerebro solo aprende cuando el alumno está en estado de alerta máxima"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué estrategia neurodidáctica ayuda a consolidar la memoria a largo plazo?",
+  "options": [
+   "La repetición mecánica de la misma información en la misma sesión",
+   "La exposición única pero con máxima intensidad durante 60 minutos continuos",
+   "La práctica distribuida que repite el contenido con variaciones en diferentes momentos",
+   "La memorización fotográfica de páginas completas del libro de texto"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la relación entre la novedad y el aprendizaje desde la perspectiva neurocientífica?",
+  "options": [
+   "La novedad estresa al cerebro y reduce la capacidad de retención",
+   "Los estímulos novedosos activan el sistema de recompensa y aumentan la atención",
+   "El cerebro prefiere la rutina porque reduce el gasto de glucosa",
+   "La novedad solo beneficia a estudiantes con inteligencia espacial desarrollada"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es la 'memoria de trabajo' y cuál es su límite en el aprendizaje?",
+  "options": [
+   "Es la memoria permanente que almacena todos los conocimientos del individuo",
+   "Es la memoria a corto plazo que procesa información activa pero tiene capacidad limitada",
+   "Es la memoria que almacena habilidades motoras automatizadas como la escritura",
+   "Es la memoria emocional vinculada a experiencias significativas de la infancia"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Por qué la nutrición y la hidratación son factores relevantes para el aprendizaje en el aula?",
+  "options": [
+   "Porque el Ministerio de Educación los incluye en el currículo de salud",
+   "Porque el cerebro necesita glucosa y agua para optimizar sus funciones cognitivas",
+   "Porque la desnutrición es una falta grave según el reglamento escolar",
+   "Porque los padres están obligados a proveer alimentos por la ley educativa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según la neurodidáctica, ¿cuál es el impacto negativo del castigo y la amenaza en el aprendizaje?",
+  "options": [
+   "Mejora la motivación extrínseca y aumenta el rendimiento a corto plazo",
+   "Activa el miedo y el cortisol, bloqueando el acceso a funciones cognitivas superiores",
+   "No tiene ningún efecto sobre el aprendizaje si el castigo es justo y proporcional",
+   "Reduce el comportamiento disruptivo sin afectar el procesamiento cognitivo"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es el 'aprendizaje emocional' y por qué es duradero?",
+  "options": [
+   "El aprendizaje basado en canciones y ritmos que facilitan la memorización",
+   "El aprendizaje vinculado a experiencias con carga emocional que activa la amígdala y consolida la memoria",
+   "El aprendizaje que ocurre exclusivamente en actividades artísticas y musicales",
+   "El aprendizaje que usa técnicas de relajación para reducir la ansiedad ante los exámenes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la función del hipocampo en el proceso de aprendizaje y memoria?",
+  "options": [
+   "Controlar las respuestas emocionales automáticas ante situaciones de amenaza",
+   "Consolidar los recuerdos a corto plazo y transferirlos a la memoria a largo plazo",
+   "Filtrar la información sensorial antes de que llegue al sistema límbico",
+   "Regular la producción de dopamina durante las actividades de recompensa"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Por qué se dice que el sueño es un aliado del aprendizaje escolar?",
+  "options": [
+   "Porque permite al maestro preparar materiales sin la distracción de los alumnos",
+   "Porque durante el sueño el cerebro consolida y organiza la información aprendida durante el día",
+   "Porque reduce el nivel de estrés escolar y mejora el comportamiento en el aula",
+   "Porque los alumnos descansados llegan más tarde y el maestro tiene más tiempo para prepararse"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según la neurociencia, ¿cuál es la diferencia entre motivación intrínseca y extrínseca en el aprendizaje?",
+  "options": [
+   "La intrínseca depende de recompensas externas; la extrínseca surge del interés personal",
+   "La intrínseca surge del interés y la curiosidad personales; la extrínseca depende de recompensas o castigos externos",
+   "Ambas activan los mismos circuitos cerebrales por lo que son equivalentes pedagógicamente",
+   "La intrínseca es superior en niños y la extrínseca en adolescentes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la diferencia entre 'evaluación formativa' y 'evaluación sumativa'?",
+  "options": [
+   "La formativa ocurre al inicio del año y la sumativa al final",
+   "La formativa retroalimenta el proceso de aprendizaje; la sumativa mide los resultados finales con una calificación",
+   "La formativa es cualitativa y la sumativa es cuantitativa",
+   "La formativa la hace el maestro y la sumativa la hacen los especialistas externos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cómo influye el 'autoconcepto académico' del alumno en su rendimiento escolar?",
+  "options": [
+   "No tiene ninguna influencia; el rendimiento depende exclusivamente de la capacidad intelectual",
+   "Un autoconcepto positivo favorece la persistencia y el rendimiento; uno negativo puede generar profecías autocumplidas",
+   "El autoconcepto solo afecta a alumnos con necesidades educativas especiales",
+   "El autoconcepto académico es fijo desde el nacimiento y no puede modificarse"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cómo se relaciona la 'educación emocional' con el rendimiento académico según la investigación actual?",
+  "options": [
+   "La educación emocional es incompatible con el rigor académico y reduce el rendimiento",
+   "Las competencias emocionales como la autorregulación y la empatía predicen positivamente el rendimiento académico",
+   "La educación emocional solo es relevante en educación inicial pero no en primaria ni secundaria",
+   "La educación emocional es responsabilidad de los padres, no de la escuela"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es la 'resiliencia educativa' y cómo puede el maestro fomentarla?",
+  "options": [
+   "La capacidad de memorizar contenidos después de periodos de enfermedad o ausencia",
+   "La capacidad del alumno de superar adversidades y salir fortalecido, apoyada por vínculos afectivos y expectativas positivas del docente",
+   "La resistencia del alumno a los cambios en el currículum y las metodologías de enseñanza",
+   "La habilidad del maestro para recuperar clases perdidas por paros o huelgas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según Paul MacLean, ¿cuál de los tres cerebros es responsable de las funciones ejecutivas como planificar y organizar?",
+  "options": [
+   "El Neocórtex o cerebro racional",
+   "El cerebro límbico o emocional",
+   "El cerebro reptiliano o instintivo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué nombre recibe el desfase entre nuestro genoma evolucionado para la sabana y el mundo artificial actual?",
+  "options": [
+   "Neuroplasticidad negativa",
+   "Evolución divergente",
+   "Retraso genómico"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es la unidad básica del aprendizaje que crea nuevas redes ante cada nuevo pensamiento?",
+  "options": [
+   "El axón",
+   "La neurona",
+   "La sinapsis eléctrica"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿En qué consiste la 'plasticidad negativa'?",
+  "options": [
+   "En la muerte neuronal por falta de oxígeno",
+   "En la incapacidad de los adultos para aprender idiomas",
+   "En el desarmado de redes neuronales poco activas o inactivas"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Para consolidar un aprendizaje, ¿cuántas veces se recomienda repetirlo con frecuencias y formas novedosas?",
+  "options": [
+   "Entre 3 y 5 veces",
+   "De 7 a 10 veces",
+   "Al menos 20 veces"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuáles son las seis emociones básicas o primarias identificadas por Paul Ekman?",
+  "options": [
+   "Miedo, aversión, sorpresa, alegría, ira y tristeza",
+   "Alegría, tristeza, amor, odio, sorpresa y calma",
+   "Ira, miedo, asco, curiosidad, envidia y placer"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué diferencia fundamental establece el texto entre sensación y sentimiento?",
+  "options": [
+   "La sensación es mental y el sentimiento es puramente físico",
+   "La sensación es inevitable y fisiológica; el sentimiento es opcional y requiere el cerebro racional",
+   "Ambas son reacciones instintivas del cerebro reptiliano sin diferencia alguna"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué estructura cerebral es la responsable de enviar los recuerdos al hemisferio cerebral para su almacenamiento a largo plazo?",
+  "options": [
+   "La amígdala",
+   "El hipocampo",
+   "El tálamo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué sucede con la información en el cerebro ante una respuesta de 'lucha o fuga' de la amígdala?",
+  "options": [
+   "Se acelera su paso hacia los lóbulos prefrontales para una decisión lógica",
+   "Se cierra el paso de la información a los centros racionales",
+   "Se almacena directamente en la memoria semántica sin procesar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Dentro del circuito de recompensa DAS, ¿qué neurotransmisor se activa para volver al estado de calma tras lograr un objetivo?",
+  "options": [
+   "Dopamina",
+   "Noradrenalina",
+   "Serotonina"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué neurotransmisor es conocido como el 'amigo del aprendizaje' por generar placer y motivación?",
+  "options": [
+   "La acetilcolina",
+   "La dopamina",
+   "El cortisol"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según Michael Posner, ¿qué tipo de atención requiere un gasto energético alto, como el que se usa al estudiar?",
+  "options": [
+   "Atención voluntaria",
+   "Atención espontánea",
+   "Atención ejecutiva inconsciente"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el tiempo promedio de 'Uptime' (atención máxima) para un alumno de nivel secundario?",
+  "options": [
+   "De 5 a 8 minutos",
+   "Entre 12 y 15 minutos",
+   "De 20 a 25 minutos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué caracteriza al 'Aprendizaje Profundo' propuesto por Noel Entwistle?",
+  "options": [
+   "La memorización mecánica de fechas y datos",
+   "La intención de desarrollar comprensión personal relacionando ideas nuevas con conocimientos previos",
+   "La reproducción pasiva de la información dictada por el docente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué hormona se libera como respuesta a la amenaza o peligro, afectando negativamente la memoria a largo plazo?",
+  "options": [
+   "Oxitocina",
+   "Melatonina",
+   "Cortisol"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es el 'Downtime'?",
+  "options": [
+   "El momento de mayor distracción y aburrimiento del alumno",
+   "El proceso de percepción de información global",
+   "El estado ideal para procesar información y reflexionar internamente"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según el texto, ¿qué inteligencia se activa al visualizar y manipular objetos mentalmente?",
+  "options": [
+   "Inteligencia Espacial",
+   "Inteligencia Lógico-Matemática",
+   "Inteligencia Naturalista"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué neurotransmisor se activa ante la falta de luz adecuada en el aula, provocando sueño?",
+  "options": [
+   "Serotonina",
+   "Melatonina",
+   "Noradrenalina"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿En qué consiste la técnica de evaluación de los 'Cinco segundos'?",
+  "options": [
+   "En dar cinco segundos para que los alumnos salgan al recreo",
+   "En hacer una pregunta oral y que todos respondan por escrito (Sí/No) simultáneamente",
+   "En una carrera de obstáculos física para desestresar al cerebro"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Por qué es fundamental la hidratación para el cerebro según Rotger?",
+  "options": [
+   "Porque el agua transporta la glucosa necesaria para el hipocampo",
+   "Porque mejora el estado de ánimo, la memoria y la concentración",
+   "Porque evita que la amígdala se inflame por el estrés"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué dispositivo básico del aprendizaje se define como un 'proceso selectivo, sinónimo de esfuerzo y concentración'?",
+  "options": [
+   "Memoria",
+   "Atención",
+   "Motivación"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el 'epicentro' de la atención ejecutiva en el cerebro?",
+  "options": [
+   "El cerebelo",
+   "La corteza cingulada anterior",
+   "El lóbulo occipital"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "La 'poda neuronal' es un proceso que:",
+  "options": [
+   "Mata neuronas sanas por falta de nutrición",
+   "Elimina conexiones poco utilizadas para asegurar disponibilidad cerebral para las conexiones frecuentes",
+   "Ocurre solo en personas mayores de 80 años"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué tipo de memoria registra hechos y datos personales, así como el estado mental del momento en que ocurrieron?",
+  "options": [
+   "Memoria semántica",
+   "Memoria episódica",
+   "Memoria procedimental"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según el texto, ¿qué color en el aula se asocia con la 'pureza, optimismo y limpieza'?",
+  "options": [
+   "Rojo",
+   "Blanco",
+   "Negro"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué es el 'secuestro amigdalar'?",
+  "options": [
+   "Una técnica para mejorar la memoria",
+   "Una respuesta emocional intensa que impide una respuesta lógica y adaptativa",
+   "Un proceso de limpieza de neurotransmisores"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué sentimiento genera la liberación de oxitocina mediante la 'técnica de los abrazos'?",
+  "options": [
+   "Ira y competencia",
+   "Alegría, confianza y alivio del estrés",
+   "Hambre y sueño"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "El aprendizaje 'episódico' es aquel que:",
+  "options": [
+   "Solo dura 5 minutos",
+   "Se produce como resultado de un evento o suceso específico",
+   "Ocurre solo en las series de televisión"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué se recomienda hacer con la disposición de los bancos en un 'aula con cerebro'?",
+  "options": [
+   "Atornillarlos al suelo para que no se muevan",
+   "Variar la disposición (en U, mesas redondas, en el suelo) según la actividad",
+   "Quitar todos los bancos y que los alumnos estén de pie"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el principal objetivo de la evaluación asertiva según Rotger?",
+  "options": [
+   "Castigar a los que no estudian",
+   "Ser una herramienta para el desarrollo de la comprensión y no generar estrés bloqueador",
+   "Clasificar a los alumnos en 'buenos' y 'malos'"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Finalmente, ¿cuál es el 'órgano del aprendizaje' según Marilina Rotger?",
+  "options": [
+   "El corazón",
+   "El cerebro",
+   "Los pulmones"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué característica define al cerebro reptiliano dentro del modelo de Paul MacLean?",
+  "options": [
+   "Es el asiento de la inteligencia intelectual y el pensamiento abstracto",
+   "Reacciona ante funciones vitales automáticas y nos hace vivir solo en el momento presente",
+   "Se encarga principalmente de los pasos iniciales del proceso de memorización"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿A qué se refiere el término 'retraso genómico'?",
+  "options": [
+   "Al desfase entre nuestro genoma, preparado para la sabana, y el entorno artificial actual",
+   "A la incapacidad del cerebro para generar neurogénesis después de la adultez",
+   "Al desarmado de redes neuronales por falta de estimulación externa"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el papel del hipocampo en el sistema límbico?",
+  "options": [
+   "Determinar qué recuerdos se almacenan y actuar como banco de memoria emocional",
+   "Ejecutar funciones ejecutivas como la planificación y organización",
+   "Enviar recuerdos a la parte apropiada del hemisferio cerebral para su almacenamiento a largo plazo"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según Paul Ekman, ¿cuál de estas emociones se considera 'neutral' por depender de la situación?",
+  "options": [
+   "La alegría",
+   "La sorpresa",
+   "El asco o aversión"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué sucede mecánicamente en el cerebro durante un 'secuestro amigdalar'?",
+  "options": [
+   "Se acelera la comunicación entre el tálamo y la corteza prefrontal",
+   "Se abre el paso de información hacia las redes cognitivas racionales",
+   "Se cierra el paso de la información a los lóbulos prefrontales, impidiendo una respuesta lógica"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "En el circuito de recompensa DAS, ¿qué función cumple la Noradrenalina (A)?",
+  "options": [
+   "Generar calma y volver al estado normal tras lograr un objetivo",
+   "Regular el placer y motivar el movimiento inicial",
+   "Controlar el enfoque mental y preparar el cuerpo para la acción"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el neurotransmisor que se activa ante la falta de luz y provoca sueño?",
+  "options": [
+   "Melatonina",
+   "Serotonina",
+   "Dopamina"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué define a la 'plasticidad negativa'?",
+  "options": [
+   "La creación de redes neuronales ante un pensamiento triste",
+   "El desarmado o desecho de redes neuronales poco activas o inactivas",
+   "El daño cerebral permanente causado por el cortisol elevado"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según Michael Posner, ¿qué red de atención regula la planificación y toma de decisiones de mayor orden?",
+  "options": [
+   "La atención ejecutiva",
+   "El foco sensorial",
+   "La conciencia espontánea"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el tiempo máximo de 'Uptime' (atención máxima) para un adulto mayor de 18 años?",
+  "options": [
+   "Entre 12 y 15 minutos",
+   "Entre 15 y 18 minutos",
+   "Hasta 45 minutos si el tema es de interés"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué caracteriza a la memoria declarativa semántica?",
+  "options": [
+   "Registrar hechos personales y el estado mental del momento",
+   "Guardar habilidades motoras que se realizan automáticamente",
+   "Ser un archivo de conocimientos conceptuales"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué hormona se secreta ante una respuesta amigdalina de amenaza, bloqueando la memoria a largo plazo?",
+  "options": [
+   "Oxitocina",
+   "Cortisol",
+   "Acetilcolina"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "Según la teoría de Donald Hebb (1949), ¿cómo se incrementa el valor de una conexión sináptica?",
+  "options": [
+   "Mediante la poda neuronal programada",
+   "Si las neuronas se activan repetidas veces de forma simultánea",
+   "Mediante un único impacto emocional fuerte de carácter negativo"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿En qué estado el cerebro realiza asociaciones visuales y diálogo interno para procesar información?",
+  "options": [
+   "En el estado de Uptime",
+   "En el estado de SARA activo",
+   "En el estado de Downtime"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué inteligencia según Gardner implica la capacidad de percibir realidades espirituales y realizar autorreflexión?",
+  "options": [
+   "Inteligencia Intrapersonal",
+   "Inteligencia Interpersonal",
+   "Inteligencia Existencial-Naturalista"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuántas veces se debe repetir un aprendizaje con novedad para consolidar una red neuronal de largo plazo?",
+  "options": [
+   "De 3 a 5 veces",
+   "De 7 a 10 veces",
+   "Exactamente 21 veces según la regla del hábito"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué dispositivo básico del aprendizaje es un conjunto de condiciones que hacen posible el inicio de un condicionamiento?",
+  "options": [
+   "La atención",
+   "La memoria",
+   "La motivación"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué estructura cerebral determina qué información debe pasar al sistema límbico basándose en estímulos sensoriales?",
+  "options": [
+   "La corteza cingulada anterior",
+   "El Sistema Activador Reticular Ascendente (SARA)",
+   "El cuerpo calloso"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué técnica busca liberar oxitocina para generar confianza y aliviar el estrés en el aula?",
+  "options": [
+   "La técnica de los cinco segundos",
+   "La técnica de los abrazos",
+   "El panel de la emoción"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué color se asocia en el aula con la serenidad, lo místico y lo elegante?",
+  "options": [
+   "Azul",
+   "Púrpura",
+   "Rosa"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué proceso persigue eliminar conexiones poco utilizadas para asegurar disponibilidad cerebral?",
+  "options": [
+   "Potenciación a largo plazo (PLP)",
+   "Poda neuronal o poda de axones",
+   "Neurogénesis"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué tipo de inteligencia destaca en el reconocimiento de sonidos, ritmos y tonos?",
+  "options": [
+   "Inteligencia Espacial",
+   "Inteligencia Musical",
+   "Inteligencia Lingüística"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué sentimiento es una emoción secundaria derivada de la ira según el texto?",
+  "options": [
+   "La violencia",
+   "La depresión",
+   "La inseguridad"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuál es el objetivo de los 'recreos cerebrales o neuro-acción'?",
+  "options": [
+   "Dar más tiempo para que los niños jueguen videojuegos",
+   "Oxigenar el cerebro, despertar dopamina y nivelar estados emocionales",
+   "Castigar a los alumnos que no prestaron atención"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué técnica permite que todos los alumnos respondan al mismo tiempo en 5 segundos?",
+  "options": [
+   "Examen tradicional de desarrollo largo",
+   "Técnica de los 'Cinco segundos' con hojas de Sí/No",
+   "La técnica de los abrazos colectivos"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "En la evaluación asertiva, se debe buscar que sea:",
+  "options": [
+   "Una herramienta para el desarrollo de la comprensión, no una amenaza",
+   "Un mecanismo para expulsar a los alumnos más lentos",
+   "Un secreto que solo el profesor conoce hasta el final"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Qué recomiendan las neurociencias sobre el uso del error en educación?",
+  "options": [
+   "El error debe evitarse para no afectar la autoestima",
+   "El cerebro aprende más de los errores: activa procesos de revisión y consolidación profunda",
+   "El error solo es útil en matemáticas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "¿Cuántos años de servicio requiere un maestro interino o titular para alcanzar la 1ra Categoría según el Escalafón?",
+  "options": [
+   "20 años",
+   "25 años",
+   "30 años"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje - Rotger"
+ },
+ {
+  "question": "La 'Neurociencia y Neuroaprendizaje' aplicada a la educación parte del principio de que el cerebro:",
+  "options": [
+   "Es un órgano estático que no cambia con la experiencia educativa",
+   "Es plástico y se modifica estructuralmente con el aprendizaje, la emoción y la experiencia",
+   "Funciona igual en todos los estudiantes independientemente del contexto",
+   "Solo aprende en las primeras etapas de vida y luego su capacidad disminuye"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "Según la neurociencia del aprendizaje, ¿por qué es fundamental el papel de las emociones en el proceso educativo?",
+  "options": [
+   "Las emociones interfieren negativamente con el aprendizaje racional",
+   "El sistema límbico y las emociones facilitan o bloquean el aprendizaje; las emociones positivas favorecen la consolidación de la memoria",
+   "Las emociones solo importan en la educación inicial, no en la secundaria",
+   "Las emociones son independientes de los procesos cognitivos de aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "El concepto de 'neuroplasticidad' es relevante para la educación porque:",
+  "options": [
+   "Demuestra que la inteligencia es fija e innata y no puede modificarse",
+   "Indica que el cerebro puede reorganizarse y crear nuevas conexiones neuronales a cualquier edad con el aprendizaje adecuado",
+   "Solo aplica al desarrollo de habilidades motoras, no cognitivas",
+   "Demuestra que los primeros 3 años de vida determinan definitivamente la inteligencia"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "Según la neurociencia educativa, el sueño y el descanso son importantes para el aprendizaje porque:",
+  "options": [
+   "Permiten al docente planificar mejor las clases del día siguiente",
+   "Durante el sueño el cerebro consolida y organiza los aprendizajes del día, transfiriéndolos a la memoria a largo plazo",
+   "El descanso solo reduce el cansancio físico sin efecto en la memoria",
+   "El sueño no tiene relación comprobada con el rendimiento académico"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "La neurociencia educativa recomienda el aprendizaje basado en la novedad y el desafío porque:",
+  "options": [
+   "La rutina y la repetición son los únicos métodos efectivos para aprender",
+   "La novedad activa el sistema dopaminérgico generando motivación y consolidando mejor los aprendizajes",
+   "Solo los estudiantes avanzados se benefician de desafíos cognitivos",
+   "El desafío genera estrés que bloquea el aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "Según la neurociencia aplicada a la educación, ¿qué implica el concepto de 'ventanas de oportunidad' o períodos sensibles?",
+  "options": [
+   "Los momentos del día en que los estudiantes están más despiertos",
+   "Las etapas del desarrollo en que el cerebro es especialmente receptivo para adquirir ciertas habilidades con mayor facilidad",
+   "Los periodos de vacaciones que deben aprovecharse para estudiar",
+   "Las horas de la jornada escolar de mayor productividad académica"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "Según la neurociencia educativa, el estrés crónico afecta el aprendizaje porque:",
+  "options": [
+   "Mejora la concentración y la memoria a largo plazo",
+   "El cortisol en exceso daña el hipocampo, afectando negativamente la memoria y el aprendizaje",
+   "Solo afecta el comportamiento pero no los procesos cognitivos",
+   "Es beneficioso porque activa la motivación del estudiante"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "Según la neurociencia, ¿por qué es importante el movimiento físico en el aprendizaje?",
+  "options": [
+   "El movimiento distrae y debe evitarse durante las clases",
+   "El ejercicio físico aumenta el flujo sanguíneo al cerebro, mejora la atención, la memoria y el estado de ánimo",
+   "El movimiento solo beneficia el aprendizaje de educación física",
+   "Solo es relevante para niños de educación inicial"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "La neurociencia educativa propone que los ambientes de aprendizaje enriquecidos deben:",
+  "options": [
+   "Estar completamente silenciosos y sin estímulos visuales",
+   "Ofrecer variedad de estímulos sensoriales, desafíos apropiados y relaciones afectivas positivas que activen las redes neuronales",
+   "Ser idénticos en todas las escuelas para garantizar equidad",
+   "Minimizar las interacciones sociales para favorecer la concentración individual"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "La neurociencia educativa recomienda el uso del 'error' en el aprendizaje porque:",
+  "options": [
+   "El error debe evitarse siempre para no afectar la autoestima del estudiante",
+   "El cerebro aprende más de los errores que de los aciertos: el error activa procesos de revisión y consolidación profunda",
+   "El error indica que el estudiante no tiene capacidad para aprender",
+   "Solo los errores matemáticos son útiles para el aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "Según la neurociencia, la 'práctica distribuida' es más efectiva que la 'práctica masiva' porque:",
+  "options": [
+   "Estudiar todo en un solo día es la forma más eficiente de aprender",
+   "Distribuir el estudio en sesiones cortas y espaciadas fortalece las conexiones neuronales y mejora la retención a largo plazo",
+   "La práctica masiva es recomendada por la neurociencia educativa",
+   "No hay diferencia comprobada entre ambos métodos de estudio"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ },
+ {
+  "question": "La neurociencia educativa distingue entre 'memoria de trabajo' y 'memoria a largo plazo' en que:",
+  "options": [
+   "Son el mismo tipo de memoria con distinta duración temporal",
+   "La memoria de trabajo tiene capacidad limitada (7±2 elementos) y es temporal; la memoria a largo plazo es prácticamente ilimitada y permanente",
+   "La memoria de trabajo es más importante para el aprendizaje académico",
+   "La memoria a largo plazo solo almacena recuerdos emocionales"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Neurociencia y Neuroaprendizaje"
+ }
+]

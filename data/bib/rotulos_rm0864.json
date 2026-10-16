@@ -1,0 +1,167 @@
+[
+ {
+  "question": "¿Cuál es el objetivo del 'Rótulo Observado' en el RDA?",
+  "options": [
+   "Identificar a los maestros que necesitan anteojos",
+   "Registrar preventivamente o definitivamente a personal con procesos por violencia contra estudiantes",
+   "Premiar a los docentes con mejores calificaciones en sus exámenes"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Cuál es el plazo máximo para formalizar una denuncia de violencia sexual a través de una Querella por parte de los abogados defensores?",
+  "options": [
+   "24 horas después de la denuncia inicial",
+   "72 horas después de la denuncia ante autoridad competente",
+   "15 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Qué es el 'Rótulo Observado Preventivo - Medida Cautelar' (variante 2)?",
+  "options": [
+   "Una marca en el cuaderno del alumno mal portado",
+   "Registro en el RDA por Imputación Formal en casos de violencia sexual emitida por la Fiscalía",
+   "Una sanción definitiva que retira al docente de la carrera"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Qué es el 'Observado Definitivo' en el RDA (variante 2)?",
+  "options": [
+   "Un docente que usa anteojos permanentemente",
+   "El registro tras una Sentencia Condenatoria Ejecutoriada que determina el retiro definitivo del Magisterio",
+   "Un docente que llega tarde todos los días"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "En la Ruta 2 (Violencia Sexual), ¿cuál es el plazo perentorio para que los abogados defensores formalicen la querella tras la denuncia?",
+  "options": [
+   "24 horas hábiles",
+   "A las siguientes 72 horas de realizada la denuncia",
+   "5 días calendario tras conocer el hecho"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Qué implica legalmente el rótulo de 'Observado Preventivo - Medida Cautelar' en el RDA de un docente?",
+  "options": [
+   "Suspensión temporal de 30 días con goce de haberes",
+   "Suspensión ordenada por mandato legal que impide realizar cualquier trámite administrativo o ascenso",
+   "Traslado inmediato a funciones administrativas sin contacto con alumnos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Bajo qué condición un rótulo 'Observado Preventivo' impide el ascenso de categoría pero permite otros trámites?",
+  "options": [
+   "Cuando existe sentencia condenatoria en primera instancia",
+   "Cuando existe un Auto Inicial de Proceso Administrativo o Sentencia emitida por el JPNA",
+   "Solo si la denuncia es por falta leve reincidente"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Cuál es el plazo máximo para denunciar un hecho de violencia sexual ante la autoridad competente (DNA/Ministerio Público)?",
+  "options": [
+   "12 horas desde la detección del hecho",
+   "Máximo veinticuatro (24) horas de conocido el hecho",
+   "48 horas hábiles previa elaboración del informe técnico"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Qué informe debe presentar obligatoriamente el abogado defensor de la DDE a la Unidad de Gestión Jurídica cada mes?",
+  "options": [
+   "Un resumen verbal de los casos en curso",
+   "Un informe detallado y documentado sobre cada proceso penal el día 30 de cada mes",
+   "Un reporte trimestral de sentencias ejecutoriadas"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Quién es la autoridad encargada de registrar y actualizar diariamente los procesos judiciales y administrativos en el SEP?",
+  "options": [
+   "El Director Distrital de Educación",
+   "El Jefe de la Unidad Jurídica de la DDE",
+   "El Secretario-Actuario del Tribunal Disciplinario"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Qué constituye el rótulo 'Observado Definitivo' en el historial de un docente?",
+  "options": [
+   "Una suspensión de funciones por 2 años",
+   "El retiro definitivo de la maestra, maestro o personal administrativo de la Educación Pública",
+   "La inhabilitación para cargos jerárquicos de forma permanente"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿En qué plazo debe la Dirección General de Asuntos Jurídicos emitir el informe jurídico sobre un rótulo observado?",
+  "options": [
+   "24 horas",
+   "72 horas",
+   "Máximo 5 días si procede el análisis de la documentación"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿En qué tiempo deben los abogados del Ministerio formalizar la querella?",
+  "options": [
+   "48 horas tras la denuncia",
+   "A las siguientes 72 horas",
+   "5 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Qué implica el rótulo 'Observado Preventivo'?",
+  "options": [
+   "Suspensión de sueldo inmediata",
+   "Impide el ascenso de categoría pero permite trámites de RDA",
+   "Retiro definitivo del SEP"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ },
+ {
+  "question": "¿Qué rótulo en el RDA determina el retiro definitivo?",
+  "options": [
+   "Observado Preventivo",
+   "Observado Definitivo",
+   "Observado - Medida Cautelar"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo y Registro de Rótulos RM 0864/2019"
+ }
+]

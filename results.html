@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="theme-color" content="#0B1126">
+  <link rel="manifest" href="manifest.json">
+  <title>Resultados · ERTEC</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .wrap { max-width:640px; margin:0 auto; }
+    .res-hero { position:relative; overflow:hidden; text-align:center; padding:30px 20px 36px; color:#fff; border-radius:0 0 34px 34px; background:linear-gradient(160deg,#141B44,#0B1126 72%); }
+    .res-hero > *:not(.aurora):not(.grid-bg) { position:relative; z-index:2; }
+    .res-hero.pass .aurora i:nth-child(1) { background:#34D399; } .res-hero.fail .aurora i:nth-child(1) { background:#FB7185; }
+    .score-ring { width:164px; height:164px; margin:0 auto 18px; position:relative; animation:popIn .8s var(--spring) both; }
+    .score-ring svg { width:100%; height:100%; transform:rotate(-90deg); }
+    .ring-bg { fill:none; stroke:rgba(255,255,255,.09); stroke-width:10; }
+    .ring-fill { fill:none; stroke:#FB7185; stroke-width:10; stroke-linecap:round; transition:stroke-dashoffset 1.8s cubic-bezier(.2,.8,.2,1); filter:drop-shadow(0 0 8px currentColor); }
+    .ring-fill.pass { stroke:#F5C451; }
+    .ring-mark { stroke:rgba(255,255,255,.55); stroke-width:3; stroke-linecap:round; }
+    .score-center { position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; }
+    .score-pct { font-family:var(--f-head); font-size:46px; font-weight:800; line-height:1; letter-spacing:-1.5px; }
+    .score-sub { font-size:10px; letter-spacing:1.4px; text-transform:uppercase; color:rgba(255,255,255,.5); margin-top:3px; }
+    .status-pill { display:inline-block; padding:6px 18px; border-radius:20px; font-size:12px; font-weight:800; letter-spacing:1.2px; text-transform:uppercase; margin-bottom:10px; animation:popIn .6s var(--spring) .9s both; }
+    .status-pill.pass { background:rgba(245,196,81,.16); color:#F5C451; border:1px solid rgba(245,196,81,.4); }
+    .status-pill.fail { background:rgba(251,113,133,.15); color:#FDA4B0; border:1px solid rgba(251,113,133,.35); }
+    .res-mode { font-size:12px; color:rgba(255,255,255,.55); font-weight:700; margin-bottom:8px; }
+    .res-msg { font-size:13.5px; color:rgba(255,255,255,.72); max-width:300px; margin:0 auto; line-height:1.6; }
+
+    .stats-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; padding:16px; }
+    .stat-card { padding:15px 12px; text-align:center; border-radius:18px; background:var(--bg-card); border:1px solid var(--border); }
+    .stat-n { font-family:var(--f-head); font-size:30px; font-weight:700; line-height:1; margin-bottom:5px; }
+    .stat-n.green{color:var(--ok)} .stat-n.red{color:var(--bad)} .stat-n.gold{color:var(--gold)} .stat-n.blue{color:var(--info)}
+    .stat-lbl { font-size:11px; color:var(--text-sub); font-weight:700; letter-spacing:.4px; }
+
+    .sec { padding:6px 16px 0; }
+    .sec-title { font-family:var(--f-head); font-size:14px; font-weight:700; margin:14px 0 10px; display:flex; align-items:center; gap:8px; }
+    .sec-title small { font-family:var(--f-body); font-size:11px; color:var(--text-sub); font-weight:600; }
+    .bd-row { padding:13px 14px; margin-bottom:8px; border-radius:16px; background:var(--bg-card); border:1px solid var(--border); }
+    .bd-head { display:flex; justify-content:space-between; align-items:center; gap:10px; margin-bottom:8px; }
+    .bd-name { font-size:12.5px; font-weight:800; line-height:1.3; } .bd-score { font-family:var(--f-head); font-size:16px; font-weight:700; }
+    .bd-track { height:7px; background:var(--border); border-radius:7px; overflow:hidden; } .bd-fill { height:100%; width:0; border-radius:7px; transition:width 1.2s cubic-bezier(.2,.8,.2,1); }
+    .bd-sub { font-size:11px; color:var(--text-sub); margin-top:6px; }
+    .reco { display:flex; gap:12px; align-items:center; padding:14px; border-radius:18px; cursor:pointer; background:linear-gradient(135deg,rgba(245,196,81,.12),rgba(109,94,245,.1)); border:1px solid rgba(245,196,81,.35); transition:var(--ease); }
+    .reco:hover { transform:translateY(-2px); } .reco-ico { font-size:26px; animation:floatY 3s ease-in-out infinite; }
+    .reco b { display:block; font-size:13px; margin-bottom:2px; } .reco span { font-size:12px; color:var(--text-sub); line-height:1.4; }
+    .actions { padding:14px 16px 28px; display:flex; flex-direction:column; gap:9px; }
+
+    .review-filters { display:flex; gap:7px; flex-wrap:wrap; margin-bottom:12px; }
+    .rf-btn { padding:7px 14px; border-radius:20px; font-size:12px; font-weight:800; cursor:pointer; background:var(--bg-card); color:var(--text-sub); border:1.5px solid var(--border); transition:var(--ease); }
+    .rf-btn.active { border-color:var(--ac); color:#fff; background:var(--ac); }
+    .review-card { margin-bottom:10px; overflow:hidden; border-radius:18px; background:var(--bg-card); border:1.5px solid var(--border); animation:fadeUp .45s ease both; }
+    .review-card.correct-card { border-color:rgba(52,211,153,.4); } .review-card.wrong-card { border-color:rgba(251,113,133,.4); } .review-card.skip-card { border-color:rgba(245,196,81,.35); }
+    .rc-header { display:flex; align-items:center; gap:10px; padding:11px 14px; border-bottom:1px solid var(--border); }
+    .rc-num { font-size:11px; font-weight:800; color:var(--text-sub); } .rc-cat { font-size:10px; font-weight:800; padding:3px 9px; border-radius:20px; background:var(--bg); color:var(--text-sub); max-width:55%; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .rc-status { margin-left:auto; font-size:12px; font-weight:800; } .rc-status.ok{color:var(--ok)} .rc-status.fail{color:var(--bad)} .rc-status.skip{color:var(--gold)}
+    .rc-body { padding:13px 14px; } .rc-question { font-size:14px; font-weight:700; line-height:1.6; margin-bottom:10px; } .rc-fuente { font-size:10.5px; color:var(--text-sub); margin-bottom:10px; }
+    .rc-opts { display:flex; flex-direction:column; gap:6px; }
+    .rc-opt { display:flex; gap:10px; align-items:flex-start; padding:10px 12px; border-radius:12px; font-size:13px; line-height:1.4; color:var(--text-sub); background:var(--bg); border:1.5px solid transparent; }
+    .rc-opt.is-correct,.rc-opt.is-skipped-correct { background:rgba(52,211,153,.1); border-color:rgba(52,211,153,.4); color:var(--text); }
+    .rc-opt.is-wrong { background:rgba(251,113,133,.09); border-color:rgba(251,113,133,.35); color:var(--text); text-decoration:line-through; opacity:.75; }
+    .rc-opt.is-survey-selected { background:rgba(251,191,36,.12); border-color:rgba(251,191,36,.4); color:var(--text); }
+    .rc-lbl { width:22px; height:22px; border-radius:7px; flex-shrink:0; display:flex; align-items:center; justify-content:center; font-size:10px; font-weight:800; background:var(--border); }
+    .is-correct .rc-lbl,.is-skipped-correct .rc-lbl { background:var(--ok); color:#06281c; } .is-wrong .rc-lbl { background:var(--bad); color:#fff; } .is-survey-selected .rc-lbl { background:#FBBF24; color:#231A04; }
+    .rc-exp { margin-top:10px; padding:10px 12px; border-radius:12px; font-size:12px; line-height:1.55; color:var(--text-sub); background:rgba(109,94,245,.09); border:1px solid rgba(109,94,245,.25); }
+    .rc-exp b { color:var(--ac-2); }
+
+    /* ═══ ESCRITORIO ═══ */
+    .rs-grid { display: block; }
+    @media (min-width: 1024px) {
+      .wrap { max-width: 1180px; }
+      .res-hero { margin-top: 18px; border-radius: 34px; padding: 22px 24px 26px; }
+      .score-ring { width: 160px; height: 160px; margin-bottom: 10px; } .score-pct { font-size: 44px; }
+      .rs-grid { display: grid; grid-template-columns: 420px minmax(0, 1fr); column-gap: 28px; align-items: start; padding-top: 6px; }
+      .rs-l { position: sticky; top: 14px; max-height: calc(100vh - 28px); overflow-y: auto; padding-bottom: 20px; }
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .rs-r .sec { padding-top: 12px; }
+      .rc-question { font-size: 15px; }
+    }
+  </style>
+</head>
+<body>
+<div id="loader"><div class="loader-icon">🏆</div><div class="loader-ring"></div><div class="loader-txt">Calculando resultados</div></div>
+<div id="toast"></div>
+<div class="wrap">
+<header class="res-hero" id="hero">
+  <div class="aurora"><i></i><i></i><i></i></div><div class="grid-bg"></div>
+  <div class="score-ring">
+    <svg viewBox="0 0 164 164">
+      <circle class="ring-bg" cx="82" cy="82" r="70"/>
+      <circle class="ring-fill" id="ring" cx="82" cy="82" r="70"/>
+      <line class="ring-mark" id="ring-mark"/>
+    </svg>
+    <div class="score-center"><div class="score-pct" id="score-pct">0%</div><div class="score-sub" id="score-sub">puntaje</div></div>
+  </div>
+  <div class="status-pill fail" id="status-pill">—</div>
+  <div class="res-mode" id="res-mode"></div>
+  <p class="res-msg" id="res-msg"></p>
+</header>
+
+<div class="rs-grid">
+<div class="rs-l">
+<div class="stats-grid stagger">
+  <div class="stat-card"><div class="stat-n green" id="s-ok">0</div><div class="stat-lbl">✅ Correctas</div></div>
+  <div class="stat-card"><div class="stat-n red" id="s-bad">0</div><div class="stat-lbl">❌ Incorrectas</div></div>
+  <div class="stat-card"><div class="stat-n gold" id="s-skip">0</div><div class="stat-lbl">⏭ Omitidas</div></div>
+  <div class="stat-card"><div class="stat-n blue" id="s-time">0:00</div><div class="stat-lbl">⏱ Tiempo</div></div>
+</div>
+
+<div class="sec" id="reco-sec" style="display:none"><div class="reco" id="reco"><div class="reco-ico">🎯</div><div><b id="reco-t"></b><span id="reco-s"></span></div></div></div>
+<div class="sec"><div id="breakdown"></div></div>
+
+<div class="actions">
+  <button class="btn btn-red" id="btn-retry">🔄 Repetir este simulacro</button>
+  <button class="btn btn-dark" id="btn-menu">🏠 Volver al inicio</button>
+  <button class="btn btn-ghost" id="btn-hist">📊 Ver historial</button>
+</div>
+
+</div>
+<div class="rs-r">
+<div class="sec">
+  <div class="sec-title">🔍 Revisión de respuestas <small id="review-count"></small></div>
+  <div class="review-filters">
+    <button class="rf-btn active" onclick="filterReview('all',this)">Todas</button>
+    <button class="rf-btn" onclick="filterReview('correct',this)">✅ Correctas</button>
+    <button class="rf-btn" onclick="filterReview('wrong',this)">❌ Incorrectas</button>
+    <button class="rf-btn" onclick="filterReview('skip',this)">⏭ Omitidas</button>
+  </div>
+  <div id="review-list"></div>
+</div>
+</div>
+</div>
+<div style="height:34px"></div>
+</div>
+
+<script src="js/storage.js"></script>
+<script src="js/fx.js"></script>
+<script>
+let _review = [];
+window.addEventListener('DOMContentLoaded', async () => {
+  if (!requireAuth('login.html')) return;
+  applyTheme(); FX.ripples();
+  const r = Storage.getResult(); if (!r) { location.href='index.html'; return; }
+  try { await Config.load(); } catch {}
+  render(r); renderReview(Storage.getReview() || []); FX.stagger(); hideLoader();
+});
+const lblBib = id => { const b = Config._c && Config.bib(id); return b ? `${b.icono} ${b.nombre}` : id; };
+
+function render(r) {
+  const min = r.aprobacion || 60, pass = r.percentage >= min;
+  document.getElementById('hero').classList.add(pass ? 'pass' : 'fail');
+  const C = 2 * Math.PI * 70, ring = document.getElementById('ring');
+  ring.setAttribute('stroke-dasharray', C); ring.setAttribute('stroke-dashoffset', C); ring.classList.toggle('pass', pass);
+  setTimeout(() => ring.setAttribute('stroke-dashoffset', C - r.percentage / 100 * C), 400);
+  // marca de la nota mínima sobre el anillo
+  const ang = (min / 100) * 2 * Math.PI, m = document.getElementById('ring-mark');
+  m.setAttribute('x1', 82 + 62 * Math.cos(ang)); m.setAttribute('y1', 82 + 62 * Math.sin(ang)); m.setAttribute('x2', 82 + 78 * Math.cos(ang)); m.setAttribute('y2', 82 + 78 * Math.sin(ang));
+  FX.count(document.getElementById('score-pct'), r.percentage, { suffix: '%', dur: 1500 });
+  document.getElementById('score-sub').textContent = `mínimo ${min}%`;
+  const pill = document.getElementById('status-pill');
+  pill.textContent = pass ? '✅ Aprobado' : '❌ Reprobado'; pill.className = 'status-pill ' + (pass ? 'pass' : 'fail');
+  document.getElementById('res-mode').textContent = r.modeName || r.mode;
+  const msgs = pass ? ['¡Excelente! Tu preparación se nota. 🏆','¡Brillante! Vas por buen camino. 🌟','¡Aprobado! Intenta superar tu propia marca. 💪']
+                    : ['Revisa las respuestas incorrectas más abajo. 📚','Cada intento cuenta: practica las áreas más bajas. 💪','Refuerza la bibliografía donde fallaste. 🎯'];
+  document.getElementById('res-msg').textContent = msgs[Math.floor(Math.random() * msgs.length)];
+  FX.count(document.getElementById('s-ok'), r.correct); FX.count(document.getElementById('s-bad'), r.wrong); FX.count(document.getElementById('s-skip'), r.skipped);
+  document.getElementById('s-time').textContent = formatTime(r.timeUsed);
+  if (pass) setTimeout(() => FX.confetti(), 900);
+
+  // Desglose por bibliografía (agrupado por área)
+  const bd = document.getElementById('breakdown');
+  const cs = r.catStats || {}, ids = Object.keys(cs);
+  if (ids.length) {
+    const grupos = {}; ids.forEach(id => { const g = cs[id].grupo || (Config._c && Config.bib(id)?.grupo) || 'otros'; (grupos[g] = grupos[g] || []).push(id); });
+    let html = `<div class="sec-title">📊 Por área y bibliografía</div>`;
+    Object.entries(grupos).forEach(([g, list]) => {
+      const G = Config._c && Config.grupo(g); const t = list.reduce((a, i) => a + cs[i].total, 0), c = list.reduce((a, i) => a + cs[i].correct, 0), gp = Math.round(c / t * 100);
+      html += `<div class="bd-row" style="border-color:${G ? G.color + '66' : 'var(--border)'}"><div class="bd-head"><span class="bd-name">${G ? G.icono + ' ' + G.nombre : g}</span><span class="bd-score" style="color:${gp >= min ? 'var(--ok)' : 'var(--bad)'}">${gp}%</span></div>
+        <div class="bd-track"><div class="bd-fill" data-w="${gp}" style="background:${gp >= min ? 'var(--ok)' : 'var(--bad)'}"></div></div><div class="bd-sub">${c} correctas de ${t}</div></div>`;
+      if (list.length > 1) list.forEach(i => { const p = Math.round(cs[i].correct / cs[i].total * 100);
+        html += `<div class="bd-row" style="margin-left:14px;padding:10px 12px"><div class="bd-head" style="margin-bottom:6px"><span class="bd-name" style="font-weight:700;font-size:12px">${esc(lblBib(i))}</span><span class="bd-score" style="font-size:13px;color:${p >= min ? 'var(--ok)' : 'var(--bad)'}">${p}%</span></div>
+          <div class="bd-track" style="height:5px"><div class="bd-fill" data-w="${p}" style="background:${p >= min ? 'var(--ok)' : 'var(--bad)'}"></div></div><div class="bd-sub">${cs[i].correct}/${cs[i].total}</div></div>`; });
+    });
+    bd.innerHTML = html;
+    setTimeout(() => bd.querySelectorAll('.bd-fill').forEach(b => b.style.width = b.dataset.w + '%'), 500);
+    // Recomendación: la bibliografía más débil (con al menos 2 preguntas)
+    const weak = ids.filter(i => cs[i].total >= 2 && Config._c && Config.bib(i) && !Config.bib(i).survey).sort((a, b) => cs[a].correct / cs[a].total - cs[b].correct / cs[b].total)[0];
+    if (weak && cs[weak].correct / cs[weak].total < 1) {
+      document.getElementById('reco-sec').style.display = 'block';
+      document.getElementById('reco-t').textContent = `Refuerza: ${Config.bib(weak).nombre}`;
+      document.getElementById('reco-s').textContent = `Acertaste ${cs[weak].correct} de ${cs[weak].total}. Toca para practicar solo esta bibliografía.`;
+      document.getElementById('reco').onclick = () => { Storage.setPending('bib:' + weak); location.href = 'exam.html'; };
+    }
+  }
+  document.getElementById('btn-retry').onclick = () => { Storage.setPending(r.mode); location.href = 'exam.html'; };
+  document.getElementById('btn-menu').onclick = () => location.href = 'index.html';
+  document.getElementById('btn-hist').onclick = () => location.href = 'history.html';
+}
+
+function renderReview(d) { _review = d; if (!d.length) { document.getElementById('review-list').innerHTML = '<div style="color:var(--text-sub);font-size:13px;text-align:center;padding:20px">No hay datos de revisión.</div>'; return; } document.getElementById('review-count').textContent = `${d.length} preguntas`; buildCards(d); }
+function filterReview(f, btn) {
+  document.querySelectorAll('.rf-btn').forEach(b => b.classList.remove('active')); btn.classList.add('active');
+  buildCards(f === 'all' ? _review : f === 'correct' ? _review.filter(q => q.isCorrect) : f === 'wrong' ? _review.filter(q => q.userAnswer !== null && !q.isCorrect) : _review.filter(q => q.userAnswer === null));
+}
+function buildCards(data) {
+  const L = ['A','B','C','D','E','F'], box = document.getElementById('review-list');
+  if (!data.length) { box.innerHTML = '<div style="color:var(--text-sub);font-size:13px;text-align:center;padding:20px;background:var(--bg-card);border:1px solid var(--border);border-radius:14px">Sin preguntas en este filtro</div>'; return; }
+  box.innerHTML = data.map((q, idx) => {
+    const sk = q.userAnswer === null, sv = q.isSurvey, wr = !sk && !q.isCorrect && !sv;
+    let cc = 'review-card', st = '', sc = '';
+    if (sk) { cc += ' skip-card'; st = '⏭ Omitida'; sc = 'skip'; } else if (sv) { cc += ' correct-card'; st = '📋 Registrada'; sc = 'ok'; }
+    else if (q.isCorrect) { cc += ' correct-card'; st = '✅ Correcta'; sc = 'ok'; } else { cc += ' wrong-card'; st = '❌ Incorrecta'; sc = 'fail'; }
+    const opts = q.options.map((o, i) => { let c = 'rc-opt';
+      if (sv) { if (i === q.userAnswer && !sk) c += ' is-survey-selected'; }
+      else if (i === q.correct && !sk) c += ' is-correct'; else if (i === q.userAnswer && wr) c += ' is-wrong'; else if (i === q.correct && sk) c += ' is-skipped-correct';
+      return `<div class="${c}"><span class="rc-lbl">${L[i]}</span>${esc(o)}</div>`; }).join('');
+    return `<div class="${cc}" style="animation-delay:${Math.min(idx, 10) * 35}ms"><div class="rc-header"><span class="rc-num">#${_review.indexOf(q) + 1}</span><span class="rc-cat">${esc(lblBib(q.bib))}</span><span class="rc-status ${sc}">${st}</span></div>
+      <div class="rc-body"><div class="rc-question">${esc(q.question)}</div>${q.fuente ? `<div class="rc-fuente">📖 ${esc(q.fuente)}</div>` : ''}<div class="rc-opts">${opts}</div>
+      ${q.explicacion ? `<div class="rc-exp"><b>Por qué:</b> ${esc(q.explicacion)}</div>` : ''}</div></div>`;
+  }).join('');
+}
+</script>
+<script>if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js');</script>
+</body>
+</html>

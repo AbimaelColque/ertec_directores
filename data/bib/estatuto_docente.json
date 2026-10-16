@@ -1,0 +1,62 @@
+[
+ {
+  "question": "El Estatuto del Docente boliviano regula principalmente:",
+  "options": [
+   "Solo los salarios y bonos del magisterio",
+   "Los derechos, deberes, carrera docente, escalafón y régimen disciplinario del magisterio",
+   "Únicamente la formación inicial en las ESFM",
+   "Los planes y programas curriculares nacionales"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estatuto del Docente"
+ },
+ {
+  "question": "Según el Estatuto del Docente, ¿cuál es un derecho fundamental del docente boliviano?",
+  "options": [
+   "Elegir libremente los contenidos a enseñar sin seguir el currículo",
+   "Acceder a la carrera docente, estabilidad laboral, ascenso y capacitación continua",
+   "No ser evaluado bajo ninguna circunstancia",
+   "Rechazar la asignación de cursos fuera de su especialidad sin consecuencias"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estatuto del Docente"
+ },
+ {
+  "question": "Según el Estatuto del Docente, es obligación del maestro/maestra boliviano/a:",
+  "options": [
+   "Enseñar solo en el turno que prefiera sin importar necesidades institucionales",
+   "Cumplir con el calendario y horario escolar, planificar sus clases y participar en actividades institucionales",
+   "Solo evaluar a los estudiantes sin responsabilidad pedagógica adicional",
+   "Administrar los recursos económicos de la unidad educativa"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Estatuto del Docente"
+ },
+ {
+  "question": "La licencia por maternidad para docentes bolivianas tiene una duración de:",
+  "options": [
+   "45 días con goce de haberes",
+   "60 días con goce de haberes",
+   "90 días con goce de haberes",
+   "120 días con goce de haberes"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Estatuto del Docente"
+ },
+ {
+  "question": "Según el Estatuto del Docente boliviano, el docente tiene derecho a la 'estabilidad laboral', lo que significa:",
+  "options": [
+   "Que no puede ser trasladado a ninguna unidad educativa diferente",
+   "No puede ser destituido ni suspendido sin el debido proceso administrativo establecido por ley",
+   "Que puede elegir libremente su horario de trabajo",
+   "Que tiene empleo garantizado sin ninguna obligación de desempeño"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Estatuto del Docente"
+ }
+]

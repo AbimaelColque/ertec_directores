@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="theme-color" content="#0B1126">
+  <link rel="manifest" href="manifest.json">
+  <title>ERTEC · Institucionalización 2027-2029</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .wrap { max-width: 640px; margin: 0 auto; }
+
+    /* ── HERO ── */
+    .hero { position: relative; overflow: hidden; background: linear-gradient(160deg, #141B44 0%, #0B1126 70%); padding: 16px 16px 46px; color: #fff; border-radius: 0 0 34px 34px; }
+    .hero > *:not(.aurora):not(.grid-bg) { position: relative; z-index: 2; }
+    .hero-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 18px; }
+    .hero-brand { display: flex; align-items: center; gap: 10px; }
+    .hero-ico { width: 38px; height: 38px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 19px; background: linear-gradient(135deg, var(--ac), #3E7BFA); box-shadow: 0 6px 18px rgba(109,94,245,.5); }
+    .hero-name { font-family: var(--f-head); font-weight: 800; font-size: 17px; letter-spacing: -.4px; line-height: 1; }
+    .hero-name span { color: var(--gold); }
+    .hero-sub { font-size: 10px; color: rgba(255,255,255,.5); letter-spacing: .8px; text-transform: uppercase; margin-top: 3px; }
+    .hero-acts { display: flex; gap: 7px; }
+    .kicker { display: inline-flex; align-items: center; gap: 7px; font-size: 11px; font-weight: 800; letter-spacing: .5px; padding: 5px 12px; border-radius: 20px; background: rgba(245,196,81,.12); border: 1px solid rgba(245,196,81,.35); color: var(--gold); margin-bottom: 12px; }
+    .kicker i { width: 7px; height: 7px; border-radius: 50%; background: var(--gold); animation: blink 1.4s infinite; }
+    .hero-title { font-family: var(--f-head); font-size: 27px; font-weight: 800; line-height: 1.18; letter-spacing: -.8px; margin-bottom: 6px; }
+    .hero-title em { font-style: normal; background: linear-gradient(90deg, #F5C451, #FFE29A); -webkit-background-clip: text; background-clip: text; color: transparent; }
+    .hero-sub2 { font-size: 12.5px; color: rgba(255,255,255,.6); line-height: 1.5; margin-bottom: 16px; }
+
+    .cargo-btn { width: 100%; display: flex; align-items: center; gap: 12px; text-align: left; cursor: pointer; padding: 12px 14px; border-radius: 18px; color: #fff;
+      background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.14); backdrop-filter: blur(8px); transition: var(--ease); }
+    .cargo-btn:hover { background: rgba(255,255,255,.12); border-color: rgba(245,196,81,.5); }
+    .cargo-btn:active { transform: scale(.985); }
+    .cargo-ico { width: 40px; height: 40px; border-radius: 12px; background: rgba(245,196,81,.16); display: flex; align-items: center; justify-content: center; font-size: 19px; flex-shrink: 0; }
+    .cargo-lbl { font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: rgba(255,255,255,.5); font-weight: 800; }
+    .cargo-name { font-size: 14px; font-weight: 800; line-height: 1.25; margin-top: 2px; }
+    .cargo-go { margin-left: auto; font-size: 11px; font-weight: 800; color: #231A04; background: var(--gold); padding: 6px 11px; border-radius: 10px; flex-shrink: 0; }
+
+    .cd { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-top: 14px; }
+    .cd div { text-align: center; padding: 10px 4px; border-radius: 14px; background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.09); }
+    .cd b { display: block; font-family: var(--f-head); font-size: 23px; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+    .cd span { font-size: 9.5px; letter-spacing: .9px; text-transform: uppercase; color: rgba(255,255,255,.5); font-weight: 700; }
+    .cd-cap { margin-top: 9px; font-size: 12px; color: rgba(255,255,255,.62); text-align: center; }
+    .cd-cap strong { color: var(--gold); }
+
+    .stats-row { display: grid; grid-template-columns: repeat(3, 1fr); margin: -26px 16px 0; position: relative; z-index: 10; border-radius: 20px; overflow: hidden; background: var(--bg-card); border: 1px solid var(--border); box-shadow: var(--sombra); animation: fadeUp .7s ease .25s both; }
+    .stat-box { padding: 15px 6px; text-align: center; }
+    .stat-box + .stat-box { border-left: 1px solid var(--border); }
+    .stat-n { font-family: var(--f-head); font-size: 23px; font-weight: 700; color: var(--ac-2); line-height: 1; }
+    .stat-l { font-size: 10px; letter-spacing: .6px; text-transform: uppercase; color: var(--text-sub); margin-top: 5px; font-weight: 700; }
+
+    .sec { padding: 20px 16px 0; }
+    .sec-title { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-family: var(--f-head); font-size: 14px; font-weight: 700; margin-bottom: 12px; }
+    .sec-title small { font-family: var(--f-body); font-size: 11px; color: var(--text-sub); font-weight: 600; }
+
+    /* ── Simulacro oficial ── */
+    .official { position: relative; overflow: hidden; cursor: pointer; border-radius: 26px; padding: 20px 18px; margin-bottom: 18px; color: #fff;
+      background: linear-gradient(140deg, #4B3FD6 0%, #3A5BE0 55%, #2B7FD8 100%); box-shadow: 0 16px 40px rgba(75,63,214,.4); transition: var(--ease); }
+    .official::before { content: ''; position: absolute; width: 220px; height: 220px; right: -70px; top: -90px; border-radius: 50%; background: radial-gradient(circle, rgba(245,196,81,.55), transparent 68%); }
+    .official::after { content: ''; position: absolute; inset: 0; background: linear-gradient(110deg, transparent 35%, rgba(255,255,255,.14) 50%, transparent 65%); background-size: 250% 100%; animation: shimmer 4.5s ease-in-out infinite; pointer-events: none; }
+    .official:hover { transform: translateY(-3px); }
+    .official:active { transform: scale(.985); }
+    .of-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; position: relative; z-index: 1; }
+    .of-ico { width: 52px; height: 52px; border-radius: 16px; background: rgba(255,255,255,.18); display: flex; align-items: center; justify-content: center; font-size: 25px; animation: floatY 3.4s ease-in-out infinite; }
+    .of-badge { font-size: 10px; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; padding: 5px 11px; border-radius: 20px; background: var(--gold); color: #231A04; }
+    .of-name { font-family: var(--f-head); font-size: 20px; font-weight: 700; letter-spacing: -.4px; position: relative; z-index: 1; }
+    .of-desc { font-size: 12px; color: rgba(255,255,255,.75); line-height: 1.5; margin-top: 5px; position: relative; z-index: 1; }
+    .of-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; position: relative; z-index: 1; }
+    .of-chip { font-size: 11px; font-weight: 700; padding: 5px 10px; border-radius: 9px; background: rgba(255,255,255,.16); }
+    .of-chip.g { background: rgba(245,196,81,.9); color: #231A04; }
+    .of-go { margin-top: 16px; position: relative; z-index: 1; display: flex; align-items: center; justify-content: space-between; background: #fff; color: #2B2FA8; padding: 13px 16px; border-radius: 15px; font-weight: 800; font-size: 14px; }
+    .of-go span:last-child { transition: transform .3s var(--spring); } .official:hover .of-go span:last-child { transform: translateX(5px); }
+    .of-warn { margin-top: 10px; position: relative; z-index: 1; font-size: 11.5px; padding: 8px 11px; border-radius: 10px; background: rgba(0,0,0,.25); color: #FFE29A; line-height: 1.4; }
+    .nota-ref { font-size: 11.5px; color: var(--text-sub); line-height: 1.55; padding: 11px 13px; border-radius: 14px; background: rgba(245,196,81,.07); border: 1px dashed rgba(245,196,81,.35); margin-bottom: 18px; }
+    .nota-ref strong { color: var(--gold); }
+
+    /* ── Práctica por área ── */
+    .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .pcard { position: relative; overflow: hidden; cursor: pointer; padding: 15px 14px; border-radius: 20px; background: var(--bg-card); border: 1px solid var(--border); transition: var(--ease); }
+    .pcard::before { content: ''; position: absolute; inset: 0 0 auto 0; height: 3px; background: var(--c); }
+    .pcard::after { content: ''; position: absolute; right: -26px; bottom: -26px; width: 90px; height: 90px; border-radius: 50%; background: var(--c); opacity: .09; transition: transform .5s var(--spring); }
+    .pcard:hover { transform: translateY(-3px); border-color: var(--c); } .pcard:hover::after { transform: scale(1.6); }
+    .pcard:active { transform: scale(.97); }
+    .pcard.off { opacity: .45; }
+    .pc-ico { width: 42px; height: 42px; border-radius: 13px; display: flex; align-items: center; justify-content: center; font-size: 21px; margin-bottom: 10px; background: color-mix(in srgb, var(--c) 16%, transparent); }
+    .pc-name { font-weight: 800; font-size: 14px; }
+    .pc-desc { font-size: 11px; color: var(--text-sub); line-height: 1.4; margin: 3px 0 10px; min-height: 31px; }
+    .pc-foot { display: flex; align-items: center; justify-content: space-between; font-size: 11px; color: var(--text-sub); font-weight: 600; }
+    .pc-foot b { color: var(--c); font-weight: 800; font-size: 12px; }
+
+    /* ── Bibliografías ── */
+    .bgroup { margin-bottom: 16px; }
+    .bg-head { display: flex; align-items: center; gap: 8px; font-size: 11px; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; margin: 4px 2px 8px; color: var(--c); }
+    .bg-head i { flex: 1; height: 1px; background: var(--border); }
+    .brow { display: flex; align-items: center; gap: 12px; padding: 11px 12px; margin-bottom: 7px; border-radius: 16px; cursor: pointer; background: var(--bg-card); border: 1px solid var(--border); transition: var(--ease); }
+    .brow:hover { border-color: var(--c); transform: translateX(3px); }
+    .brow:active { transform: scale(.985); }
+    .brow.empty { opacity: .55; border-style: dashed; }
+    .b-ico { width: 40px; height: 40px; border-radius: 12px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 19px; background: color-mix(in srgb, var(--c) 16%, transparent); }
+    .b-body { flex: 1; min-width: 0; }
+    .b-name { font-size: 13px; font-weight: 800; line-height: 1.25; }
+    .b-aut { font-size: 11px; color: var(--text-sub); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .b-n { flex-shrink: 0; text-align: center; font-size: 10px; color: var(--text-sub); font-weight: 700; line-height: 1.1; }
+    .b-n b { display: block; font-family: var(--f-head); font-size: 17px; color: var(--c); }
+    .brow.empty .b-n b { color: var(--text-sub); }
+
+    /* ── Mi cargo ── */
+    .ccard { padding: 18px 16px; border-radius: 22px; background: var(--bg-card); border: 1px solid var(--border); margin-bottom: 14px; }
+    .cc-name { font-family: var(--f-head); font-size: 17px; font-weight: 700; line-height: 1.25; letter-spacing: -.3px; }
+    .cc-chips { display: flex; flex-wrap: wrap; gap: 7px; margin: 12px 0 14px; }
+    .chip { font-size: 11px; font-weight: 700; padding: 5px 10px; border-radius: 10px; background: rgba(109,94,245,.12); color: var(--ac-2); }
+    .chip.g { background: rgba(245,196,81,.14); color: var(--gold); } .chip.t { background: rgba(52,211,153,.13); color: var(--ok); }
+    .prog-lbl { display: flex; justify-content: space-between; font-size: 12px; font-weight: 700; margin-bottom: 7px; color: var(--text-sub); }
+    .prog-lbl b { color: var(--text); }
+    .chk-title { font-size: 11px; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; color: var(--text-sub); margin: 18px 2px 9px; }
+    .chk { display: flex; gap: 12px; align-items: flex-start; width: 100%; text-align: left; padding: 12px; margin-bottom: 7px; border-radius: 15px; cursor: pointer; background: var(--bg-card); border: 1px solid var(--border); color: var(--text); font-size: 12.5px; line-height: 1.5; font-weight: 500; transition: var(--ease); }
+    .chk:hover { border-color: var(--ac); }
+    .chk .box { width: 22px; height: 22px; border-radius: 7px; flex-shrink: 0; margin-top: 1px; border: 2px solid var(--border); display: flex; align-items: center; justify-content: center; transition: var(--ease); }
+    .chk .box svg { width: 13px; height: 13px; stroke: #fff; stroke-width: 3.2; fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 20; stroke-dashoffset: 20; transition: stroke-dashoffset .35s ease .05s; }
+    .chk.on { border-color: rgba(52,211,153,.5); background: rgba(52,211,153,.07); }
+    .chk.on .box { background: var(--ok); border-color: var(--ok); animation: correctPop .4s ease; }
+    .chk.on .box svg { stroke-dashoffset: 0; }
+    .chk.on .tx { opacity: .75; }
+    .portal { display: block; text-align: center; text-decoration: none; margin-top: 8px; padding: 13px; border-radius: 15px; font-weight: 800; font-size: 13px; color: #231A04; background: linear-gradient(135deg, #F8D277, var(--gold-dark)); }
+
+    /* ── Cronograma ── */
+    .tl { position: relative; padding-left: 26px; }
+    .tl::before { content: ''; position: absolute; left: 8px; top: 6px; bottom: 6px; width: 2px; background: var(--border); border-radius: 2px; }
+    .tli { position: relative; padding: 11px 13px; margin-bottom: 9px; border-radius: 15px; background: var(--bg-card); border: 1px solid var(--border); transition: var(--ease); }
+    .tli::before { content: ''; position: absolute; left: -24px; top: 17px; width: 12px; height: 12px; border-radius: 50%; background: var(--bg); border: 3px solid var(--border); transition: var(--ease); }
+    .tli.past { opacity: .5; } .tli.past::before { background: var(--ok); border-color: var(--ok); }
+    .tli.now { border-color: var(--gold); background: linear-gradient(135deg, rgba(245,196,81,.12), var(--bg-card)); box-shadow: 0 0 0 1px rgba(245,196,81,.2), 0 10px 26px rgba(245,196,81,.1); }
+    .tli.now::before { background: var(--gold); border-color: var(--gold); animation: pulseGold 1.8s infinite; }
+    @keyframes pulseGold { 0%, 100% { box-shadow: 0 0 0 0 rgba(245,196,81,.6); } 50% { box-shadow: 0 0 0 9px rgba(245,196,81,0); } }
+    .tli.mine { border-left: 3px solid var(--ac); }
+    .tl-d { font-size: 11px; font-weight: 800; color: var(--ac-2); letter-spacing: .3px; text-transform: uppercase; }
+    .tli.now .tl-d { color: var(--gold); }
+    .tl-t { font-size: 13px; font-weight: 700; line-height: 1.4; margin-top: 2px; }
+    .tl-tag { display: inline-block; margin-left: 6px; padding: 2px 8px; border-radius: 8px; font-size: 9.5px; font-weight: 800; letter-spacing: .5px; background: var(--gold); color: #231A04; vertical-align: 1px; }
+    .tl-tag.p { background: rgba(109,94,245,.18); color: var(--ac-2); }
+    .toggle { display: flex; align-items: center; gap: 8px; margin: 0 0 12px; font-size: 12px; font-weight: 700; color: var(--text-sub); cursor: pointer; }
+    .sw { width: 38px; height: 22px; border-radius: 22px; background: var(--border); position: relative; transition: var(--ease); }
+    .sw::after { content: ''; position: absolute; top: 3px; left: 3px; width: 16px; height: 16px; border-radius: 50%; background: #fff; transition: transform .3s var(--spring); }
+    .toggle.on .sw { background: var(--ac); } .toggle.on .sw::after { transform: translateX(16px); }
+
+    /* ── Resultados recientes ── */
+    .rrow { display: flex; align-items: center; gap: 12px; padding: 12px 14px; margin-bottom: 8px; border-radius: 16px; background: var(--bg-card); border: 1px solid var(--border); }
+    .rdot { width: 10px; height: 10px; border-radius: 50%; } .rdot.pass { background: var(--ok); } .rdot.fail { background: var(--bad); }
+    .rinfo { flex: 1; min-width: 0; } .rmode { font-size: 13px; font-weight: 800; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; } .rmeta { font-size: 11px; color: var(--text-sub); margin-top: 2px; }
+    .rscore { font-family: var(--f-head); font-size: 21px; font-weight: 700; } .rscore.pass { color: var(--ok); } .rscore.fail { color: var(--bad); }
+    .empty-box { padding: 26px 16px; text-align: center; border-radius: 18px; background: var(--bg-card); border: 1px dashed var(--border); font-size: 13px; color: var(--text-sub); line-height: 1.5; }
+
+    .disclaimer { font-size: 11.5px; color: var(--text-sub); line-height: 1.55; text-align: center; padding: 13px 14px; border-radius: 15px; background: var(--bg-card); border: 1px solid var(--border); }
+    .disclaimer strong { color: var(--text); }
+
+    /* ── Selector de cargo ── */
+    .search { width: 100%; padding: 13px 15px; border-radius: 14px; border: 1.5px solid var(--border); background: var(--bg); color: var(--text); font-family: var(--f-body); font-size: 14px; outline: none; margin-bottom: 12px; -webkit-user-select: text; user-select: text; }
+    .search:focus { border-color: var(--ac); box-shadow: 0 0 0 4px rgba(109,94,245,.16); }
+    .pk-h { font-size: 10.5px; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; color: var(--gold); margin: 14px 2px 7px; }
+    .pk { display: flex; align-items: center; gap: 10px; width: 100%; text-align: left; padding: 11px 12px; margin-bottom: 6px; border-radius: 14px; cursor: pointer; background: var(--bg); border: 1.5px solid var(--border); color: var(--text); transition: var(--ease); animation: fadeUp .35s ease both; }
+    .pk:hover { border-color: var(--ac); transform: translateX(3px); }
+    .pk.sel { border-color: var(--gold); background: rgba(245,196,81,.09); }
+    .pk-n { flex: 1; font-size: 13px; font-weight: 700; line-height: 1.3; } .pk-c { font-size: 11px; font-weight: 800; color: var(--text-sub); flex-shrink: 0; }
+
+    /* ═══ ESCRITORIO ═══ */
+    .cols { display: block; }
+    .cg { display: block; }
+    @media (min-width: 1024px) {
+      .wrap { max-width: 1180px; }
+      .hero { margin-top: 18px; border-radius: 34px; padding: 30px 44px 78px; display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); column-gap: 56px; align-items: center; }
+      .hero-top { grid-column: 1 / -1; margin-bottom: 26px; }
+      .hero-title { font-size: 40px; letter-spacing: -1.4px; }
+      .hero-sub2 { font-size: 14px; max-width: 520px; }
+      .hero-r { padding: 22px; border-radius: 26px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); backdrop-filter: blur(10px); }
+      .hero-r .cd { margin-top: 0; } .cd b { font-size: 34px; } .cd div { padding: 16px 6px; border-radius: 18px; }
+      .cd-cap { font-size: 13px; margin-top: 14px; }
+      .stats-row { margin: -40px 44px 0; }
+      .stat-n { font-size: 28px; } .stat-box { padding: 20px 6px; }
+      .sec { padding: 26px 8px 0; }
+      #seg { max-width: 640px; margin: 0 auto; }
+      .seg button { font-size: 13.5px; padding: 13px 4px; }
+      .cols { display: grid; grid-template-columns: minmax(0, 1.12fr) minmax(0, 1fr); column-gap: 30px; align-items: start; }
+      .col-a { grid-column: 1; grid-row: 1; } .col-c { grid-column: 1; grid-row: 2; }
+      .col-b { grid-column: 2; grid-row: 1 / span 2; position: sticky; top: 14px; max-height: calc(100vh - 28px); overflow-y: auto; padding-right: 10px; }
+      .grid2 { grid-template-columns: repeat(3, 1fr); }
+      .official { padding: 26px 26px; } .of-name { font-size: 24px; }
+      .cg { display: grid; grid-template-columns: 390px minmax(0, 1fr); column-gap: 30px; align-items: start; }
+      .cg-l { position: sticky; top: 14px; }
+      .chk { padding: 14px; font-size: 13.5px; }
+      .tl, #p-cron .toggle { max-width: 860px; margin-left: auto; margin-right: auto; }
+      .tl-t { font-size: 14px; }
+    }
+    @media (min-width: 1500px) { .wrap { max-width: 1280px; } }
+  </style>
+</head>
+<body>
+<div id="loader"><div class="loader-icon">🎓</div><div class="loader-ring"></div><div class="loader-txt">Cargando ERTEC</div></div>
+<div id="toast"></div>
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal-card">
+    <div class="modal-icon" id="modal-icon">⚠️</div><div class="modal-title" id="modal-title"></div><div class="modal-desc" id="modal-desc"></div>
+    <div class="modal-btns"><button class="btn btn-red" id="modal-ok">Confirmar</button><button class="btn btn-ghost" id="modal-cancel">Cancelar</button></div>
+  </div>
+</div>
+<div class="modal-overlay sheet" id="picker">
+  <div class="modal-card">
+    <div class="sheet-grip"></div>
+    <div class="modal-title" style="margin-bottom:4px">¿A qué cargo postulas?</div>
+    <div class="modal-desc" style="margin-bottom:12px">Según la convocatoria puedes inscribirte hasta en 2 cargos. Elige el cargo con el que quieres practicar ahora.</div>
+    <input class="search" id="pk-search" placeholder="🔎 Buscar cargo…" autocomplete="off">
+    <div id="pk-list"></div>
+    <button class="btn btn-ghost" id="pk-close" style="margin-top:8px">Cerrar</button>
+  </div>
+</div>
+
+<div class="wrap">
+<!-- HERO -->
+<header class="hero">
+  <div class="aurora"><i></i><i></i><i></i></div><div class="grid-bg"></div>
+  <div class="hero-top">
+    <div class="hero-brand">
+      <div class="hero-ico">🎓</div>
+      <div><div class="hero-name">ERT<span>EC</span></div><div class="hero-sub">Institucionalización 2027-2029</div></div>
+    </div>
+    <div class="hero-acts">
+      <button class="icon-btn" id="btn-dark" title="Cambiar tema">🌙</button>
+      <button class="icon-btn" id="btn-logout" title="Salir">🚪</button>
+    </div>
+  </div>
+  <div class="hero-l">
+  <div class="kicker"><i></i><span id="phase">Convocatoria N° 0001/2026</span></div>
+  <h1 class="hero-title">Simulacro de <em>Institucionalización</em> de Cargos</h1>
+  <p class="hero-sub2">Práctica para el examen de competencia de la Convocatoria Pública N° 0001/2026 del Ministerio de Educación.</p>
+
+  <button class="cargo-btn" id="cargo-btn">
+    <div class="cargo-ico">🧭</div>
+    <div style="min-width:0"><div class="cargo-lbl">Mi cargo</div><div class="cargo-name" id="cargo-name">Elige el cargo al que postulas</div></div>
+    <span class="cargo-go" id="cargo-go">Elegir</span>
+  </button>
+
+  </div>
+  <div class="hero-r">
+  <div class="cd" id="cd">
+    <div><b id="cd-d">--</b><span>días</span></div><div><b id="cd-h">--</b><span>horas</span></div>
+    <div><b id="cd-m">--</b><span>min</span></div><div><b id="cd-s">--</b><span>seg</span></div>
+  </div>
+  <div class="cd-cap" id="cd-cap"></div>
+  </div>
+</header>
+
+<div class="stats-row">
+  <div class="stat-box"><div class="stat-n" id="s-exams">0</div><div class="stat-l">Simulacros</div></div>
+  <div class="stat-box"><div class="stat-n" id="s-avg">--</div><div class="stat-l">Promedio</div></div>
+  <div class="stat-box"><div class="stat-n" id="s-best">--</div><div class="stat-l">Mejor nota</div></div>
+</div>
+
+<div class="sec" style="padding-top:22px">
+  <div class="seg" id="seg">
+    <button data-tab="sim" class="on">🎯 Simulacros</button>
+    <button data-tab="cargo">📋 Mi cargo</button>
+    <button data-tab="cron">📅 Cronograma</button>
+  </div>
+</div>
+
+<!-- ══ PANEL SIMULACROS ══ -->
+<section class="panel on" id="p-sim">
+  <div class="cols">
+    <div class="sec col-a">
+      <div id="official"></div>
+      <div class="nota-ref" id="nota-ref"></div>
+      <div class="sec-title">Práctica por área <small id="grp-sub"></small></div>
+      <div class="grid2 stagger" id="grp-grid"></div>
+    </div>
+    <div class="sec col-b">
+      <div class="sec-title">Por bibliografía <small id="bib-sub"></small></div>
+      <div id="bib-list"></div>
+    </div>
+    <div class="sec col-c">
+      <div class="sec-title">Últimos resultados <a href="history.html" style="font-size:12px;color:var(--ac-2);font-weight:800;text-decoration:none">Ver todos →</a></div>
+      <div id="results-list"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ PANEL MI CARGO ══ -->
+<section class="panel" id="p-cargo"><div class="sec" id="cargo-panel"></div></section>
+
+<!-- ══ PANEL CRONOGRAMA ══ -->
+<section class="panel" id="p-cron">
+  <div class="sec">
+    <div class="toggle on" id="tg-mine"><div class="sw"></div><span>Resaltar solo lo que aplica a mi cargo</span></div>
+    <div class="tl" id="tl"></div>
+  </div>
+</section>
+
+<div class="sec" style="padding-bottom:30px;margin-top:6px">
+  <div class="disclaimer">⚠️ ERTEC es una plataforma <strong>independiente y privada</strong> de práctica. No tiene relación ni representación oficial con el Ministerio de Educación ni con el Estado Plurinacional de Bolivia. Verifica siempre la información en <strong>sisep.minedu.gob.bo</strong>.</div>
+</div>
+</div>
+
+<script src="js/storage.js"></script>
+<script src="js/fx.js"></script>
+<script>
+let CFG, COUNTS = {}, SEG, showMine = true, cdTimer = null;
+const FAMNAME = { dd:'Dirección Departamental y Subdirecciones', dist:'Dirección Distrital', ue:'Unidades Educativas, CEA y CEE', esfm:'ESFM/UA e Institutos' };
+const CHECK_SVG = '<svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
+
+window.addEventListener('DOMContentLoaded', async () => {
+  if (!requireAuth('login.html')) return;
+  applyTheme(); FX.ripples(); FX.nav('home'); FX.leave();
+  try { CFG = await Config.load(); COUNTS = await Config.counts(); }
+  catch (e) {
+    const M = { file:'Abriste la app con doble clic (file://). El navegador bloquea la lectura de los JSON así. Ábrela desde un servidor: en la carpeta ejecuta  python3 -m http.server  y entra a http://localhost:8000, o súbela a GitHub Pages / Netlify.',
+      '404':'No se encontró data/config.json en el servidor. Revisa que la carpeta data/ (con config.json y la subcarpeta bib/) esté subida junto a index.html.',
+      json:'data/config.json tiene un error de sintaxis (coma o llave mal puesta). Valídalo en jsonlint.com.',
+      red:'No hay conexión con el servidor. Revisa tu internet e inténtalo de nuevo.' };
+    hideLoader(); showModal('No se pudo cargar', M[e.message] || 'Error al leer data/config.json', '⚠️', null, null); return;
+  }
+  SEG = FX.seg(document.getElementById('seg'), showTab);
+  renderAll(); hideLoader();
+  FX.reveal();
+  if (!Storage.getCargo() && !sessionStorage.getItem('ertec_pk')) { sessionStorage.setItem('ertec_pk','1'); setTimeout(openPicker, 900); }
+});
+document.getElementById('btn-dark').addEventListener('click', toggleTheme);
+document.getElementById('btn-logout').addEventListener('click', () => showModal('¿Salir de ERTEC?','Tu historial y tu cargo quedan guardados en este dispositivo.','👋',()=>{ Storage.clearSession(); location.href='login.html'; },()=>{}));
+document.getElementById('cargo-btn').addEventListener('click', openPicker);
+document.getElementById('tg-mine').addEventListener('click', e => { showMine = !showMine; e.currentTarget.classList.toggle('on', showMine); renderCron(); });
+
+function showTab(t) {
+  document.querySelectorAll('.panel').forEach(p => p.classList.toggle('on', p.id === 'p-' + t));
+  FX.reveal();
+  if (t === 'cargo') setTimeout(()=>document.querySelectorAll('#p-cargo .bar > i').forEach(i => i.style.width = i.dataset.w + '%'), 60);
+}
+function renderAll() { renderHero(); renderStats(); renderSim(); renderCargoPanel(); renderCron(); renderRecent(); }
+const myCargo = () => Config.cargo(Storage.getCargo());
+
+// ── HERO: cargo + cuenta regresiva ──
+function renderHero() {
+  const c = myCargo(), name = document.getElementById('cargo-name'), go = document.getElementById('cargo-go');
+  name.textContent = c ? c.nombre : 'Elige el cargo al que postulas'; go.textContent = c ? 'Cambiar' : 'Elegir';
+  // Fase actual
+  const today = new Date(); today.setHours(0,0,0,0);
+  const act = CFG.cronograma.filter(e => (e.fam.includes('all') || (c && e.fam.includes(c.fam))) && isoDate(e.ini) <= today && today <= isoDate(e.fin || e.ini));
+  const nxt = CFG.cronograma.filter(e => (e.fam.includes('all') || (c && e.fam.includes(c.fam))) && isoDate(e.ini) > today)[0];
+  const ph = document.getElementById('phase');
+  if (act.length) ph.textContent = act[0].t.replace(/ \(.*\)/, '') + (act[0].fin ? ` · hasta ${fmtDate(act[0].fin)}` : '');
+  else if (nxt) ph.textContent = `Próximo: ${nxt.t.split(' — ')[0]} · ${fmtDate(nxt.ini)}`;
+  else ph.textContent = 'Proceso concluido';
+  // Cuenta regresiva al examen (el de su cargo; si no eligió, el primero: 26/11)
+  const fam = c ? CFG.familias[c.fam] : CFG.familias.dd, target = isoDate(fam.examen);
+  document.getElementById('cd-cap').innerHTML = `Examen de competencia${c ? '' : ' (desde)'}: <strong>${fmtDate(fam.examen, true)}</strong>`;
+  clearInterval(cdTimer);
+  const tick = () => {
+    let ms = target - new Date(); const done = ms <= 0; if (done) ms = 0;
+    const s = Math.floor(ms / 1000), set = (id, v) => document.getElementById(id).textContent = String(v).padStart(2, '0');
+    set('cd-d', Math.floor(s / 86400)); set('cd-h', Math.floor(s % 86400 / 3600)); set('cd-m', Math.floor(s % 3600 / 60)); set('cd-s', s % 60);
+    if (done) clearInterval(cdTimer);
+  };
+  tick(); cdTimer = setInterval(tick, 1000);
+}
+function renderStats() {
+  const st = Storage.getStats();
+  FX.count(document.getElementById('s-exams'), st.totalExams);
+  const a = document.getElementById('s-avg'), b = document.getElementById('s-best');
+  if (st.totalExams) { FX.count(a, st.avgScore, { suffix: '%' }); FX.count(b, st.bestScore, { suffix: '%' }); } else { a.textContent = '--'; b.textContent = '--'; }
+}
+
+// ── SIMULACROS ──
+function start(id) { Storage.setPending(id); document.body.style.opacity = '0'; document.body.style.transition = 'opacity .25s'; setTimeout(()=>location.href = 'exam.html', 220); }
+function renderSim() {
+  const c = myCargo(), box = document.getElementById('official');
+  if (!c) {
+    box.innerHTML = `<div class="official" id="of-pick"><div class="of-top"><div class="of-ico">🎯</div><span class="of-badge">Simulacro oficial</span></div>
+      <div class="of-name">Simulacro por cargo</div><div class="of-desc">Elige tu cargo para generar el examen de competencia con la distribución de tu perfil.</div>
+      <div class="of-go"><span>Elegir mi cargo</span><span>→</span></div></div>`;
+    document.getElementById('of-pick').onclick = openPicker;
+  } else {
+    const p = CFG.perfiles[c.perfil] || CFG.perfiles.general;
+    const avail = Object.keys(p.pesos).reduce((a, g) => a + CFG.bibliografias.filter(b => b.grupo === g).reduce((x, b) => x + (COUNTS[b.id] || 0), 0), 0);
+    const chips = Object.entries(p.pesos).map(([g, w]) => { const G = Config.grupo(g); return `<span class="of-chip">${G.icono} ${Math.round(w*100)}% ${G.nombre}</span>`; }).join('');
+    const warn = avail < p.preguntas ? `<div class="of-warn">⚠️ Tu banco tiene ${avail} preguntas para este perfil (se piden ${p.preguntas}). El simulacro usará las disponibles; agrega más en <b>data/bib/</b>.</div>` : '';
+    box.innerHTML = `<div class="official" id="of-go"><div class="of-top"><div class="of-ico">🎯</div><span class="of-badge">Simulacro oficial</span></div>
+      <div class="of-name">${esc(c.corto)}</div><div class="of-desc">${esc(p.nombre)} · reparte las preguntas entre todas las bibliografías de cada área.</div>
+      <div class="of-chips"><span class="of-chip g">${Math.min(p.preguntas, avail)} preguntas</span><span class="of-chip g">${p.minutos} min</span><span class="of-chip">Aprueba ≥ ${p.aprobacion}%</span>${chips}</div>
+      ${warn}<div class="of-go"><span>Iniciar simulacro</span><span>→</span></div></div>`;
+    document.getElementById('of-go').onclick = () => start('cargo:' + c.id);
+  }
+  document.getElementById('nota-ref').innerHTML = `<strong>Distribución referencial.</strong> ${esc(CFG.referencial)}`;
+
+  // Áreas
+  const gg = CFG.grupos.map(g => ({ g, n: CFG.bibliografias.filter(b => b.grupo === g.id).reduce((a, b) => a + (COUNTS[b.id] || 0), 0) }));
+  document.getElementById('grp-sub').textContent = `${gg.filter(x => x.n).length} áreas con preguntas`;
+  document.getElementById('grp-grid').innerHTML = gg.map(({ g, n }) => `
+    <div class="pcard ${n ? '' : 'off'}" data-g="${g.id}" style="--c:${g.color}">
+      <div class="pc-ico">${g.icono}</div><div class="pc-name">${g.nombre}</div><div class="pc-desc">${esc(g.desc)}</div>
+      <div class="pc-foot"><b>${n ? Math.min(n, g.id === 'encuesta' ? 15 : CFG.practica.porGrupo) + ' preg.' : 'Vacío'}</b><span>${n} en banco</span></div></div>`).join('');
+  document.querySelectorAll('.pcard').forEach(el => el.onclick = () => COUNTS_OF(el.dataset.g) ? start('grupo:' + el.dataset.g) : showToast('📭 Esta área aún no tiene preguntas. Agrégalas en data/bib/'));
+  FX.stagger();
+
+  // Bibliografías (un JSON por cada una)
+  let html = '', total = 0;
+  CFG.grupos.forEach(g => {
+    const bs = CFG.bibliografias.filter(b => b.grupo === g.id); if (!bs.length) return;
+    html += `<div class="bgroup rv" style="--c:${g.color}"><div class="bg-head">${g.icono} ${g.nombre}<i></i></div>` + bs.map(b => {
+      const n = COUNTS[b.id] || 0; total += n;
+      return `<div class="brow ${n ? '' : 'empty'}" data-b="${b.id}" style="--c:${b.color || g.color}"><div class="b-ico">${b.icono}</div>
+        <div class="b-body"><div class="b-name">${esc(b.nombre)}</div><div class="b-aut">${esc(b.autor || '')}</div></div>
+        <div class="b-n"><b>${n}</b>preg.</div></div>`;
+    }).join('') + '</div>';
+  });
+  document.getElementById('bib-list').innerHTML = html;
+  document.getElementById('bib-sub').textContent = `${total} preguntas · ${CFG.bibliografias.length} archivos`;
+  document.querySelectorAll('.brow').forEach(el => el.onclick = () => (COUNTS[el.dataset.b] ? start('bib:' + el.dataset.b) : showToast(`📭 Sin preguntas. Llena data/bib/${el.dataset.b}.json`)));
+  FX.reveal();
+}
+const COUNTS_OF = g => CFG.bibliografias.filter(b => b.grupo === g).reduce((a, b) => a + (COUNTS[b.id] || 0), 0);
+
+// ── MI CARGO: requisitos + documentos ──
+function renderCargoPanel() {
+  const c = myCargo(), el = document.getElementById('cargo-panel');
+  if (!c) { el.innerHTML = `<div class="empty-box"><div style="font-size:34px;margin-bottom:8px">🧭</div>Elige tu cargo para ver tus requisitos, costo y fechas.<br><br><button class="btn btn-red" style="width:auto;padding:12px 22px" onclick="openPicker()">Elegir cargo</button></div>`; return; }
+  const fam = CFG.familias[c.fam], checks = Storage.getChecks(c.id);
+  const reqs = c.req.map(r => CFG.requisitos[r] || r);
+  const items = [
+    ...reqs.map((t, i) => ({ k: 'r' + i, t })),
+  ], docsM = CFG.documentos.meritos.map((t, i) => ({ k: 'm' + i, t })), docsD = CFG.documentos.designacion.map((t, i) => ({ k: 'd' + i, t }));
+  const all = [...items, ...docsM, ...docsD], done = all.filter(x => checks[x.k]).length, pct = Math.round(done / all.length * 100);
+  const row = x => `<button class="chk ${checks[x.k] ? 'on' : ''}" data-k="${x.k}"><span class="box">${CHECK_SVG}</span><span class="tx">${esc(x.t)}</span></button>`;
+  el.innerHTML = `
+    <div class="cg"><div class="cg-l"><div class="ccard rv"><div class="cc-name">${esc(c.nombre)}</div>
+      <div class="cc-chips"><span class="chip g">💰 Bs. ${c.costo}</span>${c.categoriaMin ? `<span class="chip">Cat. ${c.categoriaMin}+</span>` : ''}${c.meritosMin ? `<span class="chip">${c.meritosMin} pts mérito</span>` : ''}<span class="chip t">📝 Examen ${fmtDate(fam.examen)}</span></div>
+      <div class="prog-lbl"><span>Mi habilitación</span><b id="prog-n">${done} de ${all.length} · ${pct}%</b></div>
+      <div class="bar"><i data-w="${pct}" id="prog-bar"></i></div>
+      <div style="font-size:11px;color:var(--text-sub);margin-top:9px;line-height:1.5">Marca lo que ya tienes listo. Se guarda en este dispositivo. Puedes inscribirte hasta en ${CFG.convocatoria.maxPostulaciones} cargos en el mismo departamento.</div></div>
+    <a class="portal" href="${CFG.convocatoria.portal}" target="_blank" rel="noopener">🌐 Ir al portal de inscripción · sisep.minedu.gob.bo</a>
+    <div style="font-size:11px;color:var(--text-sub);margin:10px 2px 0;line-height:1.5">El pago de la postulación (Bs. ${c.costo}) se descuenta de la boleta de haberes del SEP; si no estás en planilla debes depositar con 24 horas de anticipación a la inscripción.</div></div>
+    <div class="cg-r"><div class="chk-title" style="margin-top:0">Requisitos indispensables</div>${items.map(row).join('')}
+    <div class="chk-title">Para la calificación de méritos</div>${docsM.map(row).join('')}
+    <div class="chk-title">Para la designación</div>${docsD.map(row).join('')}
+    </div></div>`;
+  el.querySelectorAll('.chk').forEach(b => b.onclick = () => {
+    const on = !b.classList.contains('on'); b.classList.toggle('on', on); Storage.setCheck(c.id, b.dataset.k, on);
+    const d = all.filter(x => Storage.getChecks(c.id)[x.k]).length, p = Math.round(d / all.length * 100);
+    document.getElementById('prog-n').textContent = `${d} de ${all.length} · ${p}%`; document.getElementById('prog-bar').style.width = p + '%';
+    if (d === all.length) { FX.confetti(90); showToast('🎉 ¡Tienes todos tus documentos listos!'); }
+  });
+  FX.reveal();
+}
+
+// ── CRONOGRAMA ──
+function renderCron() {
+  const c = myCargo(), today = new Date(); today.setHours(0,0,0,0); let firstNext = true;
+  const list = CFG.cronograma.filter(e => !showMine || !c || e.fam.includes('all') || e.fam.includes(c.fam));
+  document.getElementById('tl').innerHTML = list.map(e => {
+    const a = isoDate(e.ini), b = isoDate(e.fin || e.ini);
+    const st = b < today ? 'past' : (a <= today ? 'now' : 'next');
+    let tag = '';
+    if (st === 'now') tag = '<span class="tl-tag">EN CURSO</span>';
+    else if (st === 'next' && firstNext) { firstNext = false; const d = daysTo(e.ini); tag = `<span class="tl-tag p">${d === 1 ? 'MAÑANA' : 'EN ' + d + ' DÍAS'}</span>`; }
+    const mine = c && !e.fam.includes('all') && e.fam.includes(c.fam);
+    const d = e.fin && e.fin !== e.ini ? `${fmtDate(e.ini)} → ${fmtDate(e.fin)}` : fmtDate(e.ini);
+    return `<div class="tli ${st} ${mine ? 'mine' : ''}"><div class="tl-d">${d} ${isoDate(e.ini).getFullYear()}${tag}</div><div class="tl-t">${esc(e.t)}</div></div>`;
+  }).join('');
+  document.querySelectorAll('#tl .tli').forEach((n, i) => { n.style.animation = `fadeUp .5s ease ${Math.min(i, 12) * 40}ms both`; });
+}
+
+function renderRecent() {
+  const h = Storage.getHistory(), box = document.getElementById('results-list');
+  if (!h.length) { box.innerHTML = `<div class="empty-box"><div style="font-size:32px;margin-bottom:8px">📭</div>Aún no tienes simulacros completados.<br>Empieza con el simulacro de tu cargo.</div>`; return; }
+  const ap = r => r.aprobacion || 60;
+  box.innerHTML = h.slice(0, 4).map(r => `<div class="rrow"><div class="rdot ${r.percentage >= ap(r) ? 'pass' : 'fail'}"></div>
+    <div class="rinfo"><div class="rmode">${esc(r.modeName || r.mode)}</div><div class="rmeta">${r.date} · ${r.time} · ⏱ ${formatTime(r.timeUsed)}</div></div>
+    <div class="rscore ${r.percentage >= ap(r) ? 'pass' : 'fail'}">${r.percentage}%</div></div>`).join('');
+}
+
+// ── SELECTOR DE CARGO ──
+function openPicker() {
+  const sel = Storage.getCargo(); const ov = document.getElementById('picker'), list = document.getElementById('pk-list'), q = document.getElementById('pk-search');
+  const draw = () => {
+    const t = q.value.trim().toLowerCase(); let html = '', n = 0;
+    ['dd','dist','ue','esfm'].forEach(f => {
+      const cs = CFG.cargos.filter(c => c.fam === f && (!t || (c.nombre + ' ' + c.corto).toLowerCase().includes(t))); if (!cs.length) return;
+      html += `<div class="pk-h">${FAMNAME[f]}</div>` + cs.map(c => `<button class="pk ${c.id === sel ? 'sel' : ''}" data-id="${c.id}" style="animation-delay:${Math.min(n++, 14) * 22}ms"><span class="pk-n">${esc(c.nombre)}</span><span class="pk-c">Bs. ${c.costo}</span></button>`).join('');
+    });
+    list.innerHTML = html || '<div class="empty-box">Sin resultados</div>';
+    list.querySelectorAll('.pk').forEach(b => b.onclick = () => { Storage.setCargo(b.dataset.id); ov.classList.remove('show'); renderAll(); showToast('✓ Cargo: ' + Config.cargo(b.dataset.id).corto); });
+  };
+  q.value = ''; q.oninput = draw; draw(); ov.classList.add('show');
+  document.getElementById('pk-close').onclick = () => ov.classList.remove('show');
+  ov.onclick = e => { if (e.target === ov) ov.classList.remove('show'); };
+}
+</script>
+<script>if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js');</script>
+</body>
+</html>

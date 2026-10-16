@@ -1,0 +1,379 @@
+[
+ {
+  "question": "¿Qué aspecto de la Ley de Educación N° 070 considera que requiere mayor fortalecimiento?",
+  "options": [
+   "Calidad educativa",
+   "Formación docente",
+   "Educación inclusiva",
+   "Educación técnica tecnológica"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Ley Educativa"
+ },
+ {
+  "question": "¿Cuál considera que debería ser la principal prioridad de la política educativa en los próximos años?",
+  "options": [
+   "Mejorar los aprendizajes en aula",
+   "Fortalecer la formación docente",
+   "Incorporar tecnología e inteligencia artificial",
+   "Reducir brechas educativas urbano-rurales"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Ley Educativa"
+ },
+ {
+  "question": "¿En qué medida la Ley de Educación N° 070 logró mejorar la calidad de los aprendizajes de los estudiantes en el aula?",
+  "options": [
+   "Totalmente",
+   "Parcialmente",
+   "Muy poco",
+   "Nada"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Ley Educativa"
+ },
+ {
+  "question": "¿Qué tan efectiva ha sido la aplicación de la lengua originaria como modalidad lingüística bajo los lineamientos de la Ley de Educación N° 070?",
+  "options": [
+   "Altamente efectiva",
+   "Efectiva",
+   "Neutral",
+   "Poco efectiva"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Ley Educativa"
+ },
+ {
+  "question": "¿En qué medida considera que la Ley de Educación N° 070 ha logrado una articulación entre los subsistemas (Regular, Alternativa/Especial y Superior) para garantizar la transitabilidad de los estudiantes?",
+  "options": [
+   "Muy alta",
+   "Alta",
+   "Regular",
+   "Baja"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Ley Educativa"
+ },
+ {
+  "question": "¿Cuál considera que ha sido el impacto real de la última actualización curricular (2022) en la calidad de los procesos educativos dentro del SEP?",
+  "options": [
+   "Mejoró significativamente",
+   "Generó mejoras parciales",
+   "No produjo cambios relevantes",
+   "Incrementó las dificultades en el trabajo educativo"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿Qué dificultad identifica con mayor frecuencia en la implementación del currículo?",
+  "options": [
+   "Exceso de contenidos",
+   "Falta de materiales educativos",
+   "Limitaciones tecnológicas",
+   "Escaso tiempo pedagógico"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿Considera que los contenidos curriculares actuales están equilibrados entre teoría y práctica?",
+  "options": [
+   "Sí, adecuadamente",
+   "Parcialmente",
+   "Predomina la teoría",
+   "No existe equilibrio"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿Qué factor considera prioritario desburocratizar para optimizar su desempeño docente?",
+  "options": [
+   "Cantidad de contenidos",
+   "Instrumentos de evaluación",
+   "Planificaciones curriculares",
+   "Actividades administrativas"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿En qué medida considera que los contenidos oficiales respetan una secuencia lógica y una dosificación adecuada que vaya de lo simple a lo complejo?",
+  "options": [
+   "Muy alta",
+   "Alta",
+   "Regular",
+   "Baja"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿Qué tan frecuente es el desarrollo de contenidos extra no contemplados en los planes y programas de estudio para que sus estudiantes tengan el nivel mínimo que exige la transitabilidad?",
+  "options": [
+   "Siempre",
+   "Frecuentemente",
+   "A veces",
+   "Nunca"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿Cuál es el grado de necesidad de actualizar los planes y programas de estudio vigentes del SEP?",
+  "options": [
+   "Urgentemente necesario",
+   "Necesario",
+   "Poco necesario",
+   "Innecesario"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿En qué medida considera que el perfil de egreso alcanzado por los bachilleres guarda una correspondencia técnica directa con los prerrequisitos de ingreso a la Educación Superior?",
+  "options": [
+   "Nivel técnico idóneo",
+   "La base técnica es buena",
+   "El nivel es básico",
+   "Existe un desfase"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿En qué medida considera que los bachilleres logran desarrollar la capacidad de decodificar textos argumentativos complejos?",
+  "options": [
+   "Logran decodificar y analizar críticamente cualquier texto complejo",
+   "Comprenden la estructura argumentativa en su mayoría",
+   "Identifican ideas sueltas, pero les cuesta evaluar el argumento central",
+   "Muestran graves dificultades para procesar textos abstractos"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿En qué medida considera que la estructura curricular promueve que el estudiante sea un constructor activo de su propio conocimiento?",
+  "options": [
+   "Muy alta",
+   "Alta",
+   "Regular",
+   "Baja"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Currículo"
+ },
+ {
+  "question": "¿Con qué frecuencia el tiempo dedicado a tareas administrativas interfiere con su labor de planificación y enseñanza en el aula?",
+  "options": [
+   "Me quita tiempo de forma mensual",
+   "Me quita tiempo de forma semanal",
+   "Me quita tiempo de forma diaria",
+   "No interfiere en absoluto con mi labor didáctica"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Educativa"
+ },
+ {
+  "question": "¿Recibe el apoyo y acompañamiento técnico-pedagógico necesario por parte del director de su institución educativa?",
+  "options": [
+   "Siempre",
+   "Frecuentemente",
+   "A veces",
+   "Nunca"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Educativa"
+ },
+ {
+  "question": "¿En qué medida considera que el SEP brinda un respaldo institucional para que los maestros implementen proyectos de innovación pedagógica en sus aulas?",
+  "options": [
+   "Muy alta",
+   "Alta",
+   "Moderada",
+   "Baja"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Educativa"
+ },
+ {
+  "question": "¿Cómo valora la calidad de la gestión en su institución educativa respecto al cumplimiento de objetivos?",
+  "options": [
+   "Muy eficiente",
+   "Eficiente",
+   "Poco eficiente",
+   "Deficiente"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Educativa"
+ },
+ {
+  "question": "¿Considera necesario modificar la modalidad actual de los procesos de institucionalización de cargos del SEP?",
+  "options": [
+   "Sí, requiere una transformación integral",
+   "Sí, necesita ajustes parciales",
+   "Debe fortalecerse manteniendo la estructura actual",
+   "No requiere modificaciones"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Educativa"
+ },
+ {
+  "question": "¿En qué medida considera que los procesos administrativos son pertinentes para el desarrollo de sus funciones?",
+  "options": [
+   "Muy alta",
+   "Alta",
+   "Moderada",
+   "Baja"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Administrativa"
+ },
+ {
+  "question": "¿Con qué frecuencia su inmediato superior promueve capacitaciones técnicas específicas dirigidas al personal administrativo?",
+  "options": [
+   "Siempre",
+   "Casi siempre",
+   "Algunas veces",
+   "Casi nunca"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Administrativa"
+ },
+ {
+  "question": "Si pudiera automatizar un proceso para desburocratizar su gestión administrativa, ¿cuál elegiría?",
+  "options": [
+   "Registro y archivo documental",
+   "Elaboración de reportes institucionales",
+   "Gestión de trámites administrativos",
+   "Comunicación interna institucional"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Administrativa"
+ },
+ {
+  "question": "¿Cuál considera que es el principal problema al aplicar las normativas vigentes en su área de trabajo?",
+  "options": [
+   "Falta de procedimientos claros",
+   "Insuficiente capacitación",
+   "Contradicciones entre normativas anteriores y nuevas disposiciones",
+   "Exceso de trámites administrativos para su aplicación"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Administrativa"
+ },
+ {
+  "question": "¿Cuál considera que es el principal problema de bullying que se presenta con mayor frecuencia en su contexto educativo?",
+  "options": [
+   "Agresiones verbales",
+   "Violencia física",
+   "Acoso psicológico",
+   "Ciberbullying"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Gestión Administrativa"
+ },
+ {
+  "question": "¿En qué medida la Ley de Educación N° 070 ha permitido desburocratizar la gestión administrativa?",
+  "options": [
+   "Muy alta",
+   "Alta",
+   "Moderada",
+   "Baja"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Normativa"
+ },
+ {
+  "question": "La rendición de cuentas y la transparencia administrativa se aplican adecuadamente en la institución educativa.",
+  "options": [
+   "Muy alta",
+   "Alta",
+   "Moderada",
+   "Baja"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Normativa"
+ },
+ {
+  "question": "¿Qué impacto considera que tuvo la gestión de las autoridades institucionalizadas en el fortalecimiento administrativo de su institución educativa?",
+  "options": [
+   "Fortaleció significativamente la gestión educativa",
+   "Generó mejoras parciales en la gestión institucional",
+   "Tuvo escasa incidencia en el funcionamiento institucional",
+   "Incrementó dificultades administrativas y de coordinación"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Normativa"
+ },
+ {
+  "question": "¿Considera necesario modificar la modalidad actual de los procesos de institucionalización del SEP?",
+  "options": [
+   "Sí, requiere una transformación integral",
+   "Sí, necesita ajustes parciales",
+   "Debe fortalecerse manteniendo la estructura actual",
+   "No requiere modificaciones"
+  ],
+  "answer": 0,
+  "difficulty": "encuesta",
+  "fuente": "Encuesta Ministerio de Educación 2026",
+  "bloque": "Normativa"
+ }
+]

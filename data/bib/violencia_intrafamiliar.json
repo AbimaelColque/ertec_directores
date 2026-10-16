@@ -1,0 +1,716 @@
+[
+ {
+  "question": "El modelo ecológico de prevención de violencia identifica factores de influencia en:",
+  "options": [
+   "El niño, la familia, la comunidad y la sociedad",
+   "El aula, el recreo, el hogar y el barrio",
+   "Genética, educación, economía y religión",
+   "Los maestros, los directores, los padres y los porteros"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es un factor de riesgo individual para la violencia relacionado con el desarrollo del niño?",
+  "options": [
+   "Tener una buena relación con los abuelos",
+   "Rasgos de hiperactividad o problemas de bajo rendimiento escolar",
+   "Vivir en una zona urbana con acceso a todos los servicios básicos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "En la valoración del riesgo, ¿qué se considera 'Riesgo Alto'?",
+  "options": [
+   "Una falta de ortografía repetida en los cuadernos",
+   "Violencia sexual, riesgo vital o acceso directo del agresor a la víctima",
+   "Que el estudiante no traiga el uniforme completo un lunes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cómo define la Guía la 'Violencia por Supresión'?",
+  "options": [
+   "Un golpe directo contra la integridad física",
+   "El acto de omitir o quitar condiciones necesarias para el desarrollo, como no proveer estímulos o impedir la asistencia a la escuela",
+   "El uso de insultos y burlas constantes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Según el modelo ecológico, ¿qué nivel examina los factores sociales generales como el clima de aceptación de la violencia?",
+  "options": [
+   "Nivel Comunitario",
+   "Nivel Social",
+   "Nivel Relacional"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es una señal de violencia en el área cognitiva para un adolescente?",
+  "options": [
+   "Aumento súbito del apetito",
+   "Recuerdos recurrentes, involuntarios y angustiantes sobre lo ocurrido",
+   "Exceso de energía y participación en clase"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué constituye un 'Factor de Riesgo Familiar' según la Tabla 3 de la guía?",
+  "options": [
+   "Rasgos de hiperactividad en el niño",
+   "Prácticas de disciplina violentas o padres con baja autoestima e inseguridad",
+   "Falta de acceso a servicios sociales en zonas rurales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué acción se recomienda si el riesgo de violencia es valorado como 'Bajo'?",
+  "options": [
+   "Apoyar a la familia con información sobre disciplina positiva y habilidades parentales",
+   "Denunciar penalmente de forma inmediata al padre",
+   "Suspender al estudiante de sus clases por seguridad"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué instancia boliviana ofrece apoyo psico-emocional gratuito a través de la línea 800113040?",
+  "options": [
+   "FELCV",
+   "Familia Segura",
+   "SEDEGES"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "En la valoración del riesgo de maltrato físico, ¿cuándo se considera 'Riesgo Medio'?",
+  "options": [
+   "Uso eventual de fuerza que no genera lesiones",
+   "Uso frecuente de fuerza física que ocasiona lesiones pero no pone en riesgo la vida",
+   "Uso de armas que ponen en riesgo vital al estudiante"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué es la 'Somatización' en el contexto de indicadores de violencia (variante 2)?",
+  "options": [
+   "Síntomas físicos (dolores de cabeza, mareos) que no tienen causa médica y se originan en una condición psicológica",
+   "La curación espontánea de heridas físicas",
+   "El acto de fingir una enfermedad para no ir a la escuela"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cómo se manifiesta la violencia por negligencia en el ámbito de la salud?",
+  "options": [
+   "Restringir atenciones médicas necesarias o tratamientos psicológicos requeridos",
+   "Llevar al niño al médico cada vez que estornuda",
+   "Permitir que el niño elija sus propias medicinas"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué fenómeno ocurre cuando personas con mayor poder abusan de otros con menor poder en la familia?",
+  "options": [
+   "Disciplina correctiva estándar",
+   "Violencia en el ámbito familiar",
+   "Conflicto de roles generacionales",
+   "Ajuste de conducta intergeneracional"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es el objetivo principal de la Guía para la Identificación y Denuncia de la Violencia Intrafamiliar?",
+  "options": [
+   "Sancionar penalmente a los padres que no asistan a reuniones escolares",
+   "Orientar la actuación de la comunidad educativa para prevención y referencia oportuna",
+   "Definir las penas de cárcel para maestros que no identifiquen casos de violencia",
+   "Establecer protocolos exclusivos para la Defensoría de la Niñez"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "La violencia psicológica se manifiesta generalmente mediante:",
+  "options": [
+   "Golpes con objetos que no dejan marcas visibles en la piel",
+   "Hostilidad verbal, insultos, burlas, desprecio o amenazas de abandono",
+   "Obligar al niño a realizar tareas domésticas acordes a su edad",
+   "Restricción de alimentos como castigo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es una señal de violencia física en la niñez a corto plazo?",
+  "options": [
+   "Conductas regresivas como chuparse el dedo u orinarse en la cama",
+   "Un aumento repentino en la capacidad de memorización de textos largos",
+   "El deseo de participar en todas las actividades deportivas escolares",
+   "Mayor interés en las ciencias naturales"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "En la adolescencia, un recuerdo recurrente e involuntario de un hecho traumático es señal de:",
+  "options": [
+   "Bajo rendimiento académico por falta de interés en el estudio",
+   "Desarrollo normal de la memoria episódica",
+   "Consecuencia emocional de la violencia vivida",
+   "Síntoma de una enfermedad neurológica"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué factor individual en el agresor aumenta el riesgo de violencia?",
+  "options": [
+   "Reducida capacidad de control de impulsos y modelo de crianza basado en el castigo",
+   "Tener una profesión técnica con alta carga horaria",
+   "Ser el hermano mayor en una familia de más de cinco miembros",
+   "Haber completado la educación secundaria"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué se considera 'Violencia por Omisión o Supresión'?",
+  "options": [
+   "El uso de castigos corporales severos para corregir una conducta",
+   "La falta de cuidados, atención o no provisión de estímulos necesarios para el desarrollo",
+   "Ignorar una travesura del niño para no generar conflicto en el hogar",
+   "La separación temporal de un progenitor"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es el rol de los maestros si un estudiante les confiesa una situación de violencia?",
+  "options": [
+   "Realizar un interrogatorio exhaustivo para tener pruebas antes de hablar",
+   "Ser un puente entre el estudiante y los servicios de protección, brindando apoyo",
+   "Llamar inmediatamente al agresor para confrontarlo con el estudiante",
+   "Documentar el caso y esperar instrucciones de la dirección"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "En caso de sospecha de abuso sexual, ¿quién debe realizar la conversación inicial en la escuela?",
+  "options": [
+   "Una maestra en un ambiente tranquilo y privado",
+   "El director frente a todo el consejo de profesores para dar fe del testimonio",
+   "El portero o personal de servicio por ser los que más ven al estudiante",
+   "Un psicólogo externo contratado por la DNA"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué NO se debe hacer durante la detección de un caso de violencia?",
+  "options": [
+   "Escuchar de manera atenta y creer en el relato del niño",
+   "Obtener datos generales del entorno familiar",
+   "Minimizar la situación o pensar que la víctima imaginó los hechos",
+   "Colocarse al mismo nivel visual del niño"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Un factor de riesgo comunitario para la violencia es:",
+  "options": [
+   "Costumbres y normas comunitarias que toleran el comportamiento violento",
+   "La falta de internet de banda ancha en la zona escolar",
+   "El exceso de actividades recreativas los fines de semana",
+   "La presencia de mercados informales en el barrio"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué se debe evaluar para distinguir entre disciplina y violencia?",
+  "options": [
+   "Únicamente la edad del niño que recibe el correctivo",
+   "La intensidad, frecuencia, intencionalidad y el daño ocasionado",
+   "El nivel educativo alcanzado por los padres de familia",
+   "El grado de arrepentimiento del agresor"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué es la 'Contrarreferencia'?",
+  "options": [
+   "El seguimiento que hace la autoridad educativa a las medidas de protección dictadas",
+   "El proceso de devolver al niño a su hogar inmediatamente después de la denuncia",
+   "Un documento donde el agresor niega los hechos ante el director",
+   "La remisión del caso a la Fiscalía"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es el plazo máximo para que la autoridad educativa denuncie un hecho de riesgo alto ante la DNA?",
+  "options": [
+   "72 horas hábiles",
+   "Inmediatamente, pero solo si hay marcas físicas",
+   "Dentro de las 24 horas de conocido el hecho",
+   "Al finalizar la semana escolar"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Si una maestra recibe amenazas por denunciar violencia, ¿qué puede hacer?",
+  "options": [
+   "Presentar otra demanda por intimidación y solicitar medidas de protección",
+   "Retirar la denuncia original para garantizar su seguridad personal",
+   "Pedir traslado inmediato a otro departamento sin informar la causa",
+   "Solicitar protección policial temporal"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué tipo de violencia es la más difícil de identificar por ser un 'maltrato pasivo'?",
+  "options": [
+   "Violencia Física Crónica",
+   "Negligencia o abandono",
+   "Violencia Sexual Comercial",
+   "Violencia Psicológica"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "La 'Somatización' en víctimas de violencia se refiere a:",
+  "options": [
+   "El deseo de dormir todo el día para evitar ir a clases",
+   "Síntomas físicos (dolor de cabeza, vómito) que tienen origen psicológico",
+   "Marcas físicas que el niño se infringe a sí mismo intencionalmente",
+   "Conductas regresivas como orinarse en la cama"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué se considera explotación laboral infantil según la Ley 548?",
+  "options": [
+   "Ayudar en las tareas del hogar durante una hora al día",
+   "Trabajo que impide el acceso a la educación o atenta contra la dignidad",
+   "Aprender un oficio técnico bajo la supervisión directa de los padres",
+   "Realizar actividades productivas durante las vacaciones escolares"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Un factor de riesgo familiar relacionado con los padres es:",
+  "options": [
+   "Historias de vida de malos tratos y poca tolerancia al estrés",
+   "Que ambos padres trabajen en el sector público",
+   "Vivir en una casa alquilada en lugar de una propia",
+   "Tener más de tres hijos menores de edad"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es la consecuencia de la violencia en el área conductual en la niñez?",
+  "options": [
+   "Mejora en la disciplina escolar por miedo al castigo",
+   "Conductas autolesivas o llanto reiterado sin causa aparente",
+   "Un interés superior en los estudios de ciencias naturales",
+   "Mayor participación en actividades extracurriculares"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué es el 'Modelo Ecológico' aplicado a la violencia?",
+  "options": [
+   "Una forma de reciclar materiales educativos en la escuela",
+   "Un modelo que identifica factores en el niño, familia, comunidad y sociedad",
+   "Un sistema de riego para huertos escolares inclusivos",
+   "Un enfoque médico para tratar traumas físicos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Dónde ocurre la mayoría de las situaciones de abuso contra niños?",
+  "options": [
+   "En los parques y plazas públicas",
+   "En el seno familiar",
+   "En las aulas escolares durante el recreo",
+   "En los medios de transporte público"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "La violencia por 'Omisión' se entiende como:",
+  "options": [
+   "Golpes que no dejan marcas externas en el cuerpo",
+   "Falta de cuidados, atención o no provisión de estímulos para el desarrollo",
+   "Insultos constantes que bajan la autoestima del estudiante",
+   "Privación de actividades recreativas como castigo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es una señal conductual de violencia en la niñez?",
+  "options": [
+   "Conductas regresivas como chuparse el dedo u orinarse en la cama",
+   "Un aumento repentino en el interés por la lectura técnica",
+   "El deseo de participar en todas las comisiones escolares",
+   "Mayor participación en actividades deportivas extraescolares"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "La 'Somatización' en víctimas de violencia se manifiesta como:",
+  "options": [
+   "Un deseo de dormir todo el día para evitar responsabilidades",
+   "Síntomas físicos (dolores de cabeza, vómitos) de origen psicológico",
+   "Lesiones que el niño se infringe a sí mismo intencionalmente",
+   "Negativa a asistir a clases sin justificación médica"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué NO debe hacer un maestro durante una intervención por violencia?",
+  "options": [
+   "Realizar preguntas abiertas que permitan el relato",
+   "Realizar preguntas con respuestas de 'sí' o 'no'",
+   "Escuchar de manera atenta y creer en el relato del niño",
+   "Colocarse al mismo nivel visual del niño"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "En caso de sospecha de abuso sexual, el diálogo con el niño debe ser:",
+  "options": [
+   "Realizado por una maestra en un ambiente tranquilo y privado",
+   "Una reunión pública con el Consejo de Profesores",
+   "Un interrogatorio exhaustivo para obtener pruebas físicas",
+   "Conducido por el director ante testigos adultos"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué es la 'Contrarreferencia' en el ámbito educativo?",
+  "options": [
+   "Devolver al niño a su hogar inmediatamente después de la denuncia",
+   "El seguimiento de la autoridad educativa a las medidas de protección dictadas",
+   "El proceso por el cual el agresor niega los hechos ante el director",
+   "La remisión del expediente al Ministerio Público"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Un factor de riesgo 'Familiar' relacionado con los padres es:",
+  "options": [
+   "Historia de vida de malos tratos y poca tolerancia al estrés",
+   "Que el niño tenga rasgos de hiperactividad desde el nacimiento",
+   "La falta de internet de banda ancha en el vecindario",
+   "Que ambos padres trabajen fuera del hogar"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "La violencia sexual se define como:",
+  "options": [
+   "Un asunto privado que debe resolverse entre las familias involucradas",
+   "Cualquier tipo de contacto sexual por parte de un adulto o tutor",
+   "Una disciplina correctiva que se volvió demasiado severa",
+   "Solo los casos que requieren intervención médica inmediata"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Los adolescentes que sufren violencia pueden presentar:",
+  "options": [
+   "Recuerdos recurrentes e involuntarios sobre el hecho traumático",
+   "Una mejora notable en su capacidad de cálculo matemático",
+   "Una total ausencia de emociones o sentimientos",
+   "Aumento de la sociabilidad y participación escolar"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuándo se considera que el trabajo infantil es 'Explotación'?",
+  "options": [
+   "Cuando el niño ayuda 30 minutos al día en tareas del hogar",
+   "Cuando el trabajo impide el acceso a la educación o atenta contra la dignidad",
+   "Cuando el niño aprende un oficio bajo supervisión pedagógica",
+   "Cuando se remunera con el salario mínimo nacional vigente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es el plazo para denunciar ante la DNA un caso de riesgo alto?",
+  "options": [
+   "72 horas hábiles tras conocer el hecho",
+   "Dentro de las 24 horas de conocido el hecho",
+   "Al finalizar la semana escolar para no interrumpir clases",
+   "En la primera reunión de padres de familia"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Una señal de violencia a largo plazo en adolescentes es:",
+  "options": [
+   "Aumento del apetito y energía física",
+   "Desconfianza generalizada y sentimientos de desesperanza",
+   "Participación activa en el gobierno estudiantil",
+   "Mejora repentina en el rendimiento académico"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "El rol de las maestras y maestros es ser un:",
+  "options": [
+   "Juez encargado de dictar sentencias de cárcel",
+   "Puente entre el estudiante y los servicios de protección",
+   "Investigador privado que busca huellas dactilares",
+   "Testigo neutral que documenta los hechos sin intervenir"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "El 'Interés Superior del Niño' es un pilar de:",
+  "options": [
+   "El Reglamento de Escalafón Nacional",
+   "La Convención sobre los Derechos del Niño",
+   "El Plan de Estudios de Secundaria",
+   "El Protocolo de Actuación ELSA"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Un factor de riesgo 'Comunitario' es:",
+  "options": [
+   "Que ambos padres trabajen en el sector público",
+   "Costumbres y normas comunitarias que toleran el comportamiento violento",
+   "Vivir en un edificio con más de cinco pisos",
+   "La ausencia de plazas y parques en el barrio"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "La negligencia es difícil de identificar porque:",
+  "options": [
+   "Representa un tipo de maltrato pasivo y no siempre deja marcas",
+   "Ocurre solamente en familias con altos ingresos económicos",
+   "Los niños disfrutan de no tener reglas en su hogar",
+   "Requiere evaluación psicológica especializada para confirmarse"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Durante la detección, 'Escuchar de manera atenta' implica:",
+  "options": [
+   "Colocarse frente a frente en un mismo nivel o altura con el niño",
+   "Escribir en una libreta mientras el niño habla sin mirarlo",
+   "Interrumpir constantemente para aclarar detalles técnicos",
+   "Tomar fotografías de las marcas físicas como evidencia"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Si un maestro recibe amenazas por denunciar violencia intrafamiliar:",
+  "options": [
+   "Debe retirar la denuncia para proteger su integridad",
+   "Puede presentar demanda por intimidación y solicitar protección",
+   "Debe pedir el traslado inmediato a otro departamento sin dar razones",
+   "Debe esperar que la situación se calme antes de actuar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "La Guía de Identificación y Denuncia de Violencia Intrafamiliar define como violencia intrafamiliar:",
+  "options": [
+   "Solo la violencia física entre cónyuges adultos",
+   "Todo acto de agresión física, psicológica, sexual o económica entre miembros de una familia o relación de pareja",
+   "Solo la violencia que deja marcas físicas visibles",
+   "Únicamente los conflictos que requieren intervención policial"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Identificación y Denuncia de Violencia Intrafamiliar"
+ },
+ {
+  "question": "Según la Guía de Violencia Intrafamiliar, cuando un docente detecta indicios de violencia en un estudiante, debe:",
+  "options": [
+   "Confrontar directamente al agresor",
+   "Registrar las observaciones, brindar apoyo al estudiante y derivar a instancias especializadas según el protocolo",
+   "Hablar del caso públicamente para generar presión social",
+   "Esperar a que el estudiante pida ayuda por iniciativa propia"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Identificación y Denuncia de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es el número de la línea gratuita de apoyo psico-emocional 'Familia Segura' mencionada en la guía?",
+  "options": [
+   "800-10-11-12",
+   "800-11-30-40",
+   "800-12-13-14"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué se considera 'Riesgo Alto' por omisión según la valoración técnica de la guía?",
+  "options": [
+   "Descuidos que no afectan significativamente el crecimiento",
+   "Omisiones intensas y frecuentes que determinan un severo daño en el crecimiento o salud",
+   "Falta ocasional de higiene o alimentación"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Cuál es una señal conductual de violencia específica en la adolescencia según la Tabla 2 de la guía?",
+  "options": [
+   "Conductas regresivas como chuparse el dedo",
+   "Revivir el hecho traumático como si estuviera sucediendo otra vez (pensamientos circulares)",
+   "Llanto reiterado sin causa aparente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué factor de riesgo individual en el niño aumenta la probabilidad de sufrir violencia según la Tabla 3?",
+  "options": [
+   "Poseer un alto coeficiente intelectual",
+   "Nacer de un embarazo no deseado o con rasgos de hiperactividad",
+   "Ser el hijo único de la familia"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué es la 'Somatización' como señal de alerta en el ámbito educativo?",
+  "options": [
+   "Un golpe físico visible en extremidades",
+   "Presencia de síntomas físicos (dolores de cabeza, mareos) sin explicación médica y de origen psicológico",
+   "La imitación de conductas violentas observadas en casa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿Qué es la 'Somatización' según la guía de violencia intrafamiliar (variante 2)?",
+  "options": [
+   "Síntomas físicos sin explicación médica y origen psicológico",
+   "Un golpe que no duele",
+   "Fingir una lesión para no ir a clases"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ },
+ {
+  "question": "¿En qué consiste el 'Riesgo Bajo' por maltrato psicológico en el hogar?",
+  "options": [
+   "Insultos habituales que producen daño notorio",
+   "Insultos o control excesivo aislados que afectan solo algunos ámbitos (emocional, desarrollo o social)",
+   "Amenazas de muerte ocasionales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Guía de Violencia Intrafamiliar"
+ }
+]

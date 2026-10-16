@@ -1,0 +1,1212 @@
+[
+ {
+  "question": "Ante un caso de violencia sexual detectado en la escuela, ¿es opcional la mediación?",
+  "options": [
+   "Sí, si los padres de familia llegan a un acuerdo económico",
+   "No, nunca existe la opción de mediación en casos de violencia sexual",
+   "Solo si el agresor es otro estudiante menor de edad",
+   "Sí, si ambas familias lo solicitan formalmente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es el plazo máximo para que la Dirección denuncie un hecho de violencia sexual ante la DNA?",
+  "options": [
+   "24 horas",
+   "Inmediatamente, dentro de las 24 horas de conocido el hecho",
+   "48 horas como máximo para formalizar la querella",
+   "72 horas hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es el objeto principal del Protocolo de Prevención de Violencia en el ámbito educativo?",
+  "options": [
+   "Sancionar penalmente a los agresores externos a la escuela",
+   "Definir lineamientos para la prevención, actuación, denuncia y protección a víctimas",
+   "Regular el comportamiento de los estudiantes exclusivamente entre pares",
+   "Establecer multas económicas para las unidades educativas con casos de violencia"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "En la contención emocional de emergencia, ¿qué acción es considerada 'incorrecta'?",
+  "options": [
+   "Dudar del relato o decir que lo que pasó es pasajero y se solucionará pronto",
+   "Agradecer la confianza por contar lo sucedido",
+   "Escuchar activamente sin interrumpir el relato",
+   "Colocarse al mismo nivel visual del niño"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Si se sospecha de abuso sexual, la conversación inicial con el estudiante debe ser realizada por:",
+  "options": [
+   "El Director de la unidad educativa en su oficina pública",
+   "Una maestra en un ambiente tranquilo y con privacidad",
+   "Un policía de la FELCC especializado en menores",
+   "El psicólogo del distrito escolar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué instancia debe realizar el proceso de contención especializada en casos de violencia sexual?",
+  "options": [
+   "La maestra de aula o tutor",
+   "Personal capacitado de la DNA, SLIM o CEPAT",
+   "El consejo de maestros de la unidad educativa",
+   "El director de la unidad educativa"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué tipo de violencia se manifiesta por el descuido en las necesidades básicas, teniendo los medios para darlas?",
+  "options": [
+   "Violencia psicológica",
+   "Violencia por omisión o negligencia",
+   "Violencia física indirecta",
+   "Violencia económica o patrimonial"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál de estos es un principio rector del protocolo de prevención?",
+  "options": [
+   "Interés superior de la niña, niño o adolescente",
+   "Presunción de inocencia del agresor por encima de la víctima",
+   "Primacía del interés institucional sobre el particular",
+   "Confidencialidad total de los casos para proteger la institución"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué debe hacer un docente si observa marcas de lesiones físicas en un estudiante?",
+  "options": [
+   "Comunicar inmediatamente al director para el abordaje del caso",
+   "Interrogar exhaustivamente al niño para conseguir pruebas",
+   "Llamar a los padres antes de reportar a cualquier otra autoridad",
+   "Esperar que el estudiante lo reporte por propia iniciativa"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Según el protocolo, ¿qué acción comunicativa está estrictamente prohibida para los maestros?",
+  "options": [
+   "Comunicarse de manera individual con estudiantes por redes sociales o llamadas",
+   "Organizar grupos de WhatsApp con presencia de padres y la dirección",
+   "Realizar tutorías académicas grupales en horario alterno en la escuela",
+   "Enviar tareas por correo electrónico institucional"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Si un maestro ejerce malos tratos leves que no constituyen delito, ¿cuál es el procedimiento del director?",
+  "options": [
+   "Suspenderlo inmediatamente sin goce de haberes por un mes",
+   "Amonestarlo por escrito e informarle sobre alternativas para el manejo de estrés",
+   "Remitir el caso directamente al Ministerio Público en un plazo de 24 horas",
+   "Informar a los padres para que presenten la denuncia ellos mismos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es el plazo establecido para formalizar una querella ante violencia sexual tras la denuncia inicial?",
+  "options": [
+   "24 horas exactas",
+   "72 horas siguientes a la denuncia",
+   "48 horas como máximo para evitar la prescripción",
+   "5 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "El registro de casos de violencia detectados en la unidad educativa debe enviarse a la Distrital:",
+  "options": [
+   "Mensualmente para fines de control de personal",
+   "A fin de cada gestión de manera consolidada para fines estadísticos",
+   "Cada vez que ocurra un hecho grave de forma inmediata",
+   "Trimestralmente junto al informe académico"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Quiénes son las instancias únicas autorizadas para realizar el proceso de contención en casos de violencia sexual?",
+  "options": [
+   "El maestro de aula, el tutor o el psicólogo de la escuela",
+   "Personal capacitado de la DNA, el SLIM o el CEPAT",
+   "El consejo de maestros en pleno junto con el director",
+   "El presidente de la Junta Escolar con el director"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué acción NO es adecuada durante la contención emocional de una víctima de violencia?",
+  "options": [
+   "Hacer promesas que no se pueden cumplir o generar falsas expectativas",
+   "Agradecer la confianza por relatar el hecho ocurrido",
+   "Mantener el contacto visual y una postura a la misma altura del niño",
+   "Garantizar la confidencialidad de la información"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es la finalidad de consolidar anualmente la información de casos de violencia en el Ministerio?",
+  "options": [
+   "Identificar a los maestros para su retiro definitivo inmediato",
+   "Formular políticas, planes y programas de prevención basados en datos",
+   "Publicar los nombres de los agresores en medios de prensa nacional",
+   "Distribuir presupuesto extra a las escuelas con más casos reportados"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué plazo tiene el Director Distrital para reportar una denuncia de violencia sexual a la Departamental?",
+  "options": [
+   "72 horas hábiles",
+   "Máximo 48 horas",
+   "Dentro de la misma jornada laboral de manera verbal",
+   "5 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es la función específica de las porteras y porteros respecto al ingreso de personas ajenas?",
+  "options": [
+   "Permitir el ingreso de familiares de los administrativos siempre que firmen un libro",
+   "No pueden recibir visitas de personas ajenas a la institución por ningún motivo para precautelar la seguridad",
+   "Deben acompañar a cada visitante hasta el aula de destino para vigilar su comportamiento",
+   "Registrar a todos los visitantes en un libro de control de acceso"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Según el protocolo, ¿qué acción deben realizar los porteros durante las horas de recreo?",
+  "options": [
+   "Organizar juegos dirigidos para evitar conflictos entre los estudiantes",
+   "Permanecer al cuidado de la puerta de ingreso sin abandonar esta función por ningún motivo",
+   "Realizar la limpieza de los pasillos mientras los estudiantes están en el patio",
+   "Supervisar el comportamiento de los estudiantes en el patio"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿A quién debe reportar un portero si observa una infracción al protocolo por parte de un padre de familia?",
+  "options": [
+   "Al consejo educativo de pueblos originarios de forma directa",
+   "A la Junta Escolar para que tomen medidas en la asamblea",
+   "A la directora o al director de la unidad educativa",
+   "A la Dirección Distrital de manera inmediata"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué está prohibido respecto al ingreso de los estudiantes a la unidad educativa?",
+  "options": [
+   "Permitir el ingreso de estudiantes sin el uniforme completo de la institución",
+   "Restringir el ingreso a las y los estudiantes al aula o a la unidad por llegar fuera del horario establecido",
+   "Exigir que los padres firmen una nota de compromiso cada vez que el niño llegue tarde",
+   "Negar el ingreso a estudiantes sin justificación médica"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué pena establece la normativa penal boliviana para el delito de infanticidio?",
+  "options": [
+   "25 años de prisión con derecho a beneficios penitenciarios tras la mitad de la condena",
+   "30 años de presidio, pero con derecho a indulto si el agresor es el tutor legal",
+   "30 años de presidio, sin derecho a indulto",
+   "20 años de prisión con posibilidad de libertad condicional"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué se considera 'violencia por omisión o negligencia' en el cuidado de la salud de un estudiante?",
+  "options": [
+   "Obligar al estudiante a realizar ejercicios físicos intensos durante la clase de educación física",
+   "Descuidar a los niños en la unidad educativa de forma que esto derive en un accidente o enfermedad",
+   "No permitir que el estudiante salga al baño más de dos veces durante una misma jornada",
+   "Negar la participación del estudiante en actividades extracurriculares"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "El delito de 'proxenetismo' se sanciona con una privación de libertad de:",
+  "options": [
+   "5 a 10 años de presidio",
+   "10 a 15 años de cárcel",
+   "20 a 25 años si la víctima es mayor de edad",
+   "15 a 20 años de privación de libertad"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué instancia debe centralizar la información de denuncias de violencia para enviarla al Ministerio?",
+  "options": [
+   "El psicólogo de la unidad educativa en su informe trimestral",
+   "Las Direcciones Distritales Educativas de su jurisdicción",
+   "El Comité de Niñez y Adolescencia formado por los propios estudiantes",
+   "La Dirección Departamental de manera directa"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es el objeto de la Resolución Ministerial No 0864/2019?",
+  "options": [
+   "Aprobar el protocolo de prevención, actuación y denuncia en casos de violencia física, psicológica y sexual",
+   "Establecer los nuevos montos de las multas por inasistencia a desfiles patrios",
+   "Designar a los nuevos directores departamentales para la gestión 2025",
+   "Regular el uso de tecnología en las aulas de educación primaria"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Si una maestra o maestro incurre en 'malos tratos leves' que no son delito, ¿qué medida correctiva debe aplicar el director?",
+  "options": [
+   "Suspenderlo por 3 días sin goce de haberes de forma directa",
+   "Amonestarlo por escrito e informarle sobre alternativas para el manejo de estrés",
+   "Remitir su expediente al Tribunal Supremo de Justicia Militar para su degradación",
+   "Iniciar un proceso disciplinario formal ante el Tribunal Departamental"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es la definición legal de violencia según el Código Niña, Niño y Adolescente (Ley 548)?",
+  "options": [
+   "Solo el daño físico que requiere más de 5 días de impedimento legal",
+   "Acción u omisión que ocasione daño en la salud física, mental, afectiva o sexual",
+   "Cualquier corrección disciplinaria que cause llanto en el estudiante",
+   "Toda acción que genera conflicto entre dos o más personas en la institución"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿En qué consiste la 'violencia por omisión o negligencia' en la escuela?",
+  "options": [
+   "Prolongar periodos de recreo sin vigilancia o dejar desatendidos a los alumnos",
+   "Olvidar anotar una calificación en el registro oficial de la unidad",
+   "No responder a un saludo cordial de un colega o superior",
+   "Retrasar la entrega de notas trimestrales por más de una semana"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es la sanción penal para el delito de estupro (relación con menores de 14 a 18 años mediante engaño)?",
+  "options": [
+   "10 a 15 años de cárcel",
+   "3 a 6 años de privación de libertad",
+   "30 años sin derecho a indulto por ser menores",
+   "5 a 10 años con posibilidad de libertad condicional"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Si un miembro de la escuela presencia un hecho de violencia, ¿quién puede detener la agresión físicamente?",
+  "options": [
+   "Solo el personal de seguridad o la policía",
+   "Cualquier miembro de la comunidad educativa que identifique la violencia",
+   "Únicamente el Director tras levantar un acta de incidentes",
+   "Solo los porteros por ser personal de seguridad designado"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "En caso de que el agresor sea el Director de la escuela, ¿ante quién se debe presentar la denuncia?",
+  "options": [
+   "Ante el Consejo de Maestros de la misma unidad",
+   "Ante la Dirección Distrital Educativa y la DNA",
+   "Ante el portero para que este sirva como testigo presencial",
+   "Ante el sindicato de maestros para gestión interna"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Quién debe realizar la remisión de la imputación formal al Ministerio para suspender a un docente agresor?",
+  "options": [
+   "El abogado de la víctima de forma independiente",
+   "Las Direcciones Departamentales de Educación",
+   "El director de la unidad educativa donde ocurrió el hecho",
+   "La Fiscalía de manera directa al Ministerio"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué se entiende por violencia psicológica según el Protocolo de Prevención?",
+  "options": [
+   "Actos que buscan desvalorizar y menoscabar la autoestima mediante gritos, insultos o chantajes",
+   "El establecimiento de límites claros y reglas de disciplina en el aula",
+   "La evaluación objetiva del rendimiento académico del estudiante"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Cuál es un indicador de comportamiento de posible violencia sexual en adolescentes?",
+  "options": [
+   "Cumplimiento puntual de todas las tareas escolares",
+   "Participación activa en deportes de contacto físico",
+   "Interés exagerado por conductas sexuales de adultos o conductas sexuales de riesgo"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué constituye violencia por omisión o negligencia en el ámbito educativo?",
+  "options": [
+   "No otorgar una calificación perfecta a un estudiante con necesidades especiales",
+   "Inasistencia e impuntualidad de los maestros dejando desatendidos a los estudiantes",
+   "Prohibir el uso de celulares durante las explicaciones de clase"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "En caso de sospecha de abuso sexual, ¿qué acción está terminantemente PROHIBIDA para el docente?",
+  "options": [
+   "Realizar interrogatorios exhaustivos, pedir detalles de signos en lugares no visibles o enfrentar a la víctima con el agresor",
+   "Informar a la dirección de la unidad educativa sobre las señales observadas",
+   "Escuchar activamente el relato espontáneo de la víctima si esta decide hablar"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Cuál es el plazo máximo para denunciar un hecho de violencia ante la DNA u otra autoridad?",
+  "options": [
+   "12 horas",
+   "24 horas de conocido el hecho",
+   "Al finalizar la semana escolar para no interrumpir las clases"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué instancia debe realizar obligatoriamente el proceso de contención en casos de violencia sexual?",
+  "options": [
+   "El profesor de educación física o el portero",
+   "Personal capacitado de la Defensoría de la Niñez y Adolescencia (DNA) o SLIM",
+   "Únicamente la madre o el padre, sin intervención externa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué es la 'contrarreferencia' en el manejo de casos de violencia?",
+  "options": [
+   "La respuesta de la instancia receptora (DNA, Salud) informando a la escuela sobre las acciones y recomendaciones de seguimiento",
+   "La denuncia que hace el agresor contra el docente que lo reportó",
+   "El proceso de devolver al estudiante a su hogar sin medidas de protección"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "Si un docente observa que un estudiante tiene moretones en brazos pero el niño dice que 'se cayó', ¿qué debe hacer?",
+  "options": [
+   "Aceptar la explicación del niño para no meterse en problemas familiares",
+   "Considerarlo un indicio de posible violencia, registrarlo e informar a la dirección para derivar a la DNA",
+   "Confrontar al padre en la puerta de la escuela gritándole"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "En una reunión de 'contención', si la víctima llora desconsoladamente, ¿qué es lo más adecuado?",
+  "options": [
+   "Abrazarla fuertemente para que sienta afecto físico inmediato",
+   "Brindar apoyo verbal, escuchar sin interrumpir y respetar si desea hablar o no, evitando contacto físico invasivo",
+   "Decirle que 'no es para tanto' y que se calme para seguir la clase"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Cuál es la responsabilidad de los porteros según el Protocolo de Violencia?",
+  "options": [
+   "Vigilar puertas, impedir el ingreso de extraños y reportar riesgos, sin delegar sus funciones a terceros",
+   "Impartir clases de disciplina cuando el maestro falta",
+   "Cobrar multas a los estudiantes que llegan tarde"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Puede un maestro comunicarse individualmente con un alumno por WhatsApp para fines no pedagógicos?",
+  "options": [
+   "Sí, para fortalecer el 'bonding' o lazo afectivo",
+   "No, está prohibido; las comunicaciones deben ser vía dirección o con los padres",
+   "Solo si el alumno es mayor de 15 años"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué debe hacer el director si el agresor de un estudiante es un familiar cercano?",
+  "options": [
+   "Llamar al familiar para que venga a la escuela a 'arreglar' el asunto con el niño",
+   "Denunciar a la DNA y evitar informar al agresor para proteger la integridad de la víctima",
+   "Ignorar el caso ya que la violencia intrafamiliar es un asunto privado del hogar"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "Si se detecta violencia física 'leve' que no constituye delito, ¿qué acción administrativa toma el director?",
+  "options": [
+   "Amonestar por escrito al docente e informarle sobre alternativas para el manejo del estrés",
+   "Expulsar al docente de forma inmediata sin derecho a defensa",
+   "Ignorar el reporte si el docente es su amigo personal"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Quién garantiza que el estudiante víctima continúe su educación durante un proceso judicial?",
+  "options": [
+   "El tribunal de justicia ordinaria exclusivamente",
+   "El director de la unidad educativa, realizando adaptaciones curriculares si hay inasistencias",
+   "El portero de la escuela mediante clases particulares nocturnas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué plazo tiene la dirección para reportar un hecho a la Distrital (Ruta 3)?",
+  "options": [
+   "24 horas",
+   "Máximo 48 horas",
+   "Al finalizar el mes calendario"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué debe hacer un docente si tiene una limitación personal para atender un caso de violencia?",
+  "options": [
+   "Forzarse a atender el caso para demostrar profesionalismo",
+   "Traspasar el caso a quien pueda atenderlo de manera objetiva, priorizando el interés superior del niño",
+   "Ignorar la situación para no revivir su propio trauma"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "En la Ruta 1 (Violencia Física/Psicológica), ¿qué sucede si el agresor es el Director de la escuela?",
+  "options": [
+   "Se debe informar al mismo Director para que se auto-investigue",
+   "Se comunica directamente a la Dirección Distrital Educativa y a la DNA",
+   "Se espera a la asamblea de fin de año"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Cuál es el plazo máximo para que un docente o administrativo denuncie un hecho de violencia sexual conocido?",
+  "options": [
+   "12 horas",
+   "24 horas",
+   "48 horas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué información contiene la 'Contrarreferencia' (variante 2)?",
+  "options": [
+   "Los datos personales del agresor para que la escuela lo denuncie",
+   "Acciones realizadas y recomendaciones de la instancia receptora (DNA/Salud) para proteger a la víctima en la escuela",
+   "El listado de útiles que el niño debe comprar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "En casos de violencia sexual, ¿cuándo se puede realizar una mediación con el agresor?",
+  "options": [
+   "Siempre que la familia esté de acuerdo",
+   "Si el agresor pide perdón públicamente",
+   "NUNCA existe la opción de mediación ni arreglos extrajudiciales"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Quién debe acompañar a un estudiante al centro de salud en caso de emergencia médica por violencia?",
+  "options": [
+   "La máxima autoridad de la unidad educativa o el maestro tutor",
+   "El portero de la escuela",
+   "Cualquier estudiante mayor de edad"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué debe hacer el director si la falta cometida no constituye infracción ni delito según la DNA?",
+  "options": [
+   "Emitir una amonestación escrita al maestro para evitar situaciones similares",
+   "Realizar una fiesta para celebrar la inocencia del docente",
+   "Expulsar al estudiante por falsa denuncia"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Cuál es el objetivo principal del Protocolo de Prevención (2023)?",
+  "options": [
+   "Aumentar las horas de clase de matemáticas",
+   "Definir lineamientos para prevención, actuación y protección en casos de violencia hacia estudiantes por parte de adultos",
+   "Reglamentar el uso de uniformes escolares en Bolivia"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Bajo qué principio se rige el protocolo ELSA?",
+  "options": [
+   "Interés superior del personal administrativo",
+   "Prioridad absoluta y atención preferente a la niñez",
+   "Presunción de culpabilidad inmediata del denunciado",
+   "Confidencialidad total del hecho de violencia"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿En qué consiste la violencia física según el protocolo ELSA?",
+  "options": [
+   "Toda acción intencional que ocasiona daño o sufrimiento físico, sea temporal o permanente",
+   "Únicamente los golpes que requieren hospitalización inmediata",
+   "Cualquier contacto físico accidental durante el recreo",
+   "Solo las agresiones que dejan marcas visibles en el cuerpo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es un ejemplo de violencia por negligencia en el ámbito educativo?",
+  "options": [
+   "Exigir el cumplimiento puntual de las tareas escolares",
+   "Prohibir el uso de celulares durante las horas de clase",
+   "Inasistencia de maestros a sus horas de clase dejando desatendidos a estudiantes",
+   "Aplicar exámenes de alto rigor académico"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "La violencia sexual es considerada un hecho de:",
+  "options": [
+   "Ámbito privado que debe resolverse entre las familias",
+   "Interés público y una vulneración de derechos fundamentales",
+   "Disciplina severa cuando ocurre entre estudiantes de la misma edad",
+   "Competencia exclusiva del Ministerio de Justicia"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es la sanción para la violación de un infante menor de 14 años?",
+  "options": [
+   "20 a 25 años de privación de libertad",
+   "10 a 15 años de cárcel si no hubo violencia física extrema",
+   "30 años solo si el agresor es un maestro o autoridad",
+   "30 años de presidio sin derecho a indulto"
+  ],
+  "answer": 3,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué es el 'Estupro' según la normativa nacional?",
+  "options": [
+   "Relación sexual con menores de 12 años mediante el uso de fuerza",
+   "Acceso carnal con persona de 14 a 18 años mediante seducción o engaño",
+   "El acoso constante a través de redes sociales sin contacto físico",
+   "Cualquier contacto sexual entre adultos y menores de 12 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es una agravante en delitos contra la libertad sexual?",
+  "options": [
+   "Que la víctima sea de sexo masculino",
+   "Que el autor estuviere encargado de la educación de la víctima",
+   "Que el hecho ocurra fuera del horario escolar",
+   "Que el agresor sea mayor de 60 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué debe hacer el Ministerio de Educación anualmente con la información de casos de violencia?",
+  "options": [
+   "Consolidarla para formular políticas, planes y programas de prevención",
+   "Publicar los nombres de los agresores en los periódicos de circulación nacional",
+   "Eliminar los registros para proteger la reputación de las unidades educativas",
+   "Remitirla al Ministerio de Justicia para procesamiento penal"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "En caso de violencia sexual cometida por el personal de la escuela, ¿quién asume los procedimientos?",
+  "options": [
+   "El mismo director de la unidad educativa",
+   "La Dirección Distrital en coordinación con la Departamental",
+   "El consejo de padres de familia de la unidad educativa",
+   "La Fiscalía de manera directa sin intervención educativa"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué es la 'Contención' según el protocolo?",
+  "options": [
+   "El acto de encerrar al agresor en un ambiente seguro de la escuela",
+   "El acto de recibir, acoger y proteger a una persona que requiere ayuda",
+   "Impedir que la noticia del hecho de violencia salga de la escuela",
+   "La suspensión cautelar del presunto agresor"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué NO se debe hacer durante la contención emocional de una víctima?",
+  "options": [
+   "Expresar juicios de valor sobre el agresor (ej. 'ese desgraciado')",
+   "Escuchar sin interrumpir el relato de la víctima",
+   "Garantizar la confidencialidad de la información recibida",
+   "Colocarse al mismo nivel visual del niño"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿A quién debe denunciar la directora si el agresor es un maestro?",
+  "options": [
+   "Únicamente al sindicato de maestros para un proceso interno",
+   "A la Defensoría de la Niñez y Adolescencia o Ministerio Público",
+   "Al portero para que vigile al maestro mientras llega la policía",
+   "A la Junta Escolar para deliberar el caso"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Las denuncias por violencia física en la escuela solo pueden ser recibidas por:",
+  "options": [
+   "El regente o la secretaria de la unidad educativa",
+   "La directora o el director de la unidad educativa",
+   "El representante de los estudiantes (Gobierno Estudiantil)",
+   "Cualquier maestro que presencie el hecho"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué falta es considerada 'Muy Grave' según el Reglamento de Faltas citado en el protocolo?",
+  "options": [
+   "Acoso sexual, estupro o violencia física o psíquica",
+   "Llegar 15 minutos tarde a la formación de la mañana de manera reincidente",
+   "No presentar el plan de trabajo anual en la fecha establecida",
+   "Inasistencia a una reunión de padres de familia"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué adaptación deben hacer los maestros si una víctima de violencia debe ausentarse?",
+  "options": [
+   "No realizar ninguna acción y esperar a que el estudiante repita el año",
+   "Realizar adaptaciones curriculares para compensar los días de inasistencia",
+   "Darle la nota mínima de aprobación sin necesidad de evaluar contenidos",
+   "Solicitar a los padres que contraten un tutor privado"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Si el director de la escuela es el agresor, la denuncia puede ser presentada por:",
+  "options": [
+   "Solo el personal administrativo de mayor rango",
+   "Cualquier maestra, maestro, padre, madre o estudiante",
+   "Únicamente un abogado con poder notariado",
+   "Solo la Dirección Distrital de Educación"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es la función de los porteros en la prevención de violencia?",
+  "options": [
+   "Permanecer en la puerta en horas de ingreso, recreo y salida, sin delegar la función",
+   "Revisar las mochilas de todos los estudiantes buscando objetos prohibidos",
+   "Ayudar a los maestros a aplicar castigos físicos leves si es necesario",
+   "Registrar la entrada y salida de todos los visitantes"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué está prohibido para los maestros en su comunicación con estudiantes?",
+  "options": [
+   "Hablar de temas pedagógicos durante el horario de clase",
+   "Comunicarse de manera individual por redes sociales o WhatsApp para fines no pedagógicos",
+   "Saludar a los estudiantes en los pasillos de la institución",
+   "Organizar grupos de WhatsApp con presencia de padres y dirección"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "La 'Ruta 2' del protocolo se aplica específicamente para casos de:",
+  "options": [
+   "Violencia física entre compañeros de curso",
+   "Violencia sexual cometida contra estudiantes",
+   "Faltas administrativas leves por parte del personal de servicio",
+   "Conflictos entre padres y docentes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Quién debe realizar la contención en casos de violencia sexual según el protocolo?",
+  "options": [
+   "Cualquier maestro que esté disponible en ese momento",
+   "Personal capacitado de la DNA o de los SLIM",
+   "El presidente de la junta escolar de padres de familia",
+   "El secretario o regente de la unidad educativa"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué es un 'Protocolo' según el documento ELSA?",
+  "options": [
+   "Una ley que castiga a los estudiantes indisciplinados",
+   "Un instrumento que define pasos a seguir en una situación específica",
+   "Una lista de útiles escolares obligatorios",
+   "Un reglamento de convivencia para el aula"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "La 'Negligencia' en el ámbito educativo incluye:",
+  "options": [
+   "Exigir el uso correcto del uniforme escolar",
+   "Inasistencia de maestros a clases dejando desatendidos a estudiantes",
+   "Aplicar exámenes de alto rigor académico",
+   "Retrasar la entrega de calificaciones trimestrales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "El protocolo ELSA se rige bajo el principio de:",
+  "options": [
+   "Prioridad absoluta y atención preferente a la niñez",
+   "Presunción de culpabilidad inmediata del denunciado",
+   "Interés superior del personal administrativo antiguo",
+   "Confidencialidad total de los casos de violencia"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "El 'Estupro' consiste en el acceso carnal con una persona de:",
+  "options": [
+   "Menos de 12 años mediante uso de fuerza física",
+   "14 a 18 años mediante el uso de seducción o engaño",
+   "Cualquier edad si el agresor es un familiar lejano",
+   "Menos de 14 años sin importar el método utilizado"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Cuál es la pena máxima para el 'Infanticidio'?",
+  "options": [
+   "15 años de prisión con derecho a indulto",
+   "30 años de presidio sin derecho a indulto",
+   "20 años de cárcel si no hubo violencia física previa",
+   "25 años con posibilidad de libertad condicional"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Se considera agravante en delitos sexuales si el autor:",
+  "options": [
+   "Comete el hecho durante las vacaciones escolares",
+   "Estuviere encargado de la educación de la víctima",
+   "Es de la misma edad que la víctima",
+   "Reside en la misma comunidad que la víctima"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué es la 'Contención' según el protocolo ELSA?",
+  "options": [
+   "Impedir que la noticia del hecho de violencia salga de la escuela",
+   "El acto de recibir, acoger y proteger a una persona que requiere ayuda",
+   "Castigar al agresor en presencia de toda la comunidad educativa",
+   "La suspensión preventiva del presunto agresor"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "En casos de violencia sexual, la contención debe ser realizada por:",
+  "options": [
+   "Cualquier maestro que esté disponible en ese momento",
+   "Personal capacitado de la DNA o de los SLIM",
+   "El regente o la secretaria de la unidad educativa",
+   "El presidente de la Junta Escolar"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Toda persona de la comunidad educativa debe denunciar violencia en un plazo de:",
+  "options": [
+   "48 horas como máximo",
+   "24 horas de conocido el hecho",
+   "5 días hábiles después del suceso",
+   "En la primera reunión de personal"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Si el Director es el presunto agresor, la denuncia se presenta ante:",
+  "options": [
+   "El mismo Director para que él la derive",
+   "La DNA y la Dirección Distrital Educativa",
+   "El sindicato de maestros para un arreglo interno",
+   "El Ministerio de Educación de manera directa"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué está prohibido respecto a la comunicación maestros-estudiantes?",
+  "options": [
+   "Llamadas o mensajes individuales por redes sociales para fines no pedagógicos",
+   "Saludar a los estudiantes en el patio de la escuela",
+   "Dar instrucciones grupales sobre tareas vía WhatsApp con padres presentes",
+   "Enviar comunicados oficiales por correo electrónico institucional"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Las porteras y porteros deben:",
+  "options": [
+   "Permanecer en la puerta durante el ingreso, recreo y salida",
+   "Revisar las pertenencias de todos los padres de familia",
+   "Delegar sus funciones a terceros si deben salir a almorzar",
+   "Acompañar a cada visitante hasta su destino dentro de la escuela"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "La 'Ruta 1' del protocolo se aplica para casos de:",
+  "options": [
+   "Violencia sexual grave",
+   "Violencia física y psicológica",
+   "Faltas administrativas del personal de servicio",
+   "Conflictos entre padres de familia y directores"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "La 'Ruta 2' del protocolo se aplica específicamente para:",
+  "options": [
+   "Conflictos entre padres de familia y directores",
+   "Violencia sexual cometida contra estudiantes",
+   "Casos de bullying leve entre compañeros de curso",
+   "Faltas administrativas graves del personal"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿A quién protege principalmente el protocolo ELSA?",
+  "options": [
+   "A los maestros con más de 20 años de servicio",
+   "A las y los estudiantes (niñas, niños y adolescentes)",
+   "A la reputación de la unidad educativa",
+   "Al personal administrativo de la institución"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué es una falta 'Muy Grave' según el Reglamento de Faltas citado en el protocolo?",
+  "options": [
+   "Perder el registro de notas por descuido personal",
+   "Acoso sexual, estupro o violencia física o psíquica",
+   "Llegar tarde a tres consejos de profesores seguidos",
+   "No asistir a la formación cívica del lunes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Si un hecho de violencia es de conocimiento público, el director debe:",
+  "options": [
+   "Orientar para que se apoye a la víctima sin revictimizarla",
+   "Organizar una asamblea para debatir los detalles del caso",
+   "Divulgar los nombres de los testigos para dar transparencia",
+   "Emitir un comunicado oficial explicando lo sucedido"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "¿Qué debe hacer el Ministerio de Educación con la información anual de violencia?",
+  "options": [
+   "Eliminar los registros para proteger la privacidad",
+   "Consolidarla para formular políticas y programas de prevención",
+   "Publicar un ranking de las escuelas más violentas",
+   "Compartirla con los medios de comunicación nacionales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "En la contención emocional de emergencia, se recomienda:",
+  "options": [
+   "Escuchar sin interrumpir y no expresar juicios de valor",
+   "Abrazar fuertemente a la víctima aunque ella no quiera",
+   "Decirle que 'lo que pasó es pasajero' para que se calme rápido",
+   "Llamar inmediatamente a los padres mientras se escucha al niño"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "El proceso administrativo contra personal por violencia sexual conlleva:",
+  "options": [
+   "Un memorándum de felicitación por su honestidad",
+   "La suspensión de funciones sin goce de haberes tras la imputación",
+   "El traslado inmediato a una oficina central en la capital",
+   "Amonestación escrita y seguimiento por seis meses"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Protocolo de Prevención y Actuación ELSA 2026"
+ },
+ {
+  "question": "Según el Protocolo de Prevención y Actuación ante situaciones de violencia en el ámbito educativo, ¿cuál es el primer paso ante una denuncia de violencia?",
+  "options": [
+   "Investigar personalmente sin informar a nadie",
+   "Recepcionar y registrar la denuncia, garantizando la confidencialidad y seguridad de la víctima",
+   "Derivar directamente a la Policía sin intervención institucional",
+   "Convocar a reunión de todo el personal docente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "El Protocolo de Prevención y Actuación establece que ante una situación de violencia contra un estudiante, el docente debe:",
+  "options": [
+   "Resolver el conflicto directamente sin escalar a otras instancias",
+   "Reportar inmediatamente al Director de la Unidad Educativa y activar el protocolo institucional",
+   "Esperar a que los padres de familia se enteren por sus propios medios",
+   "Ignorar si el estudiante no quiere denunciar formalmente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué establece el Protocolo de Actuación respecto a la confidencialidad en casos de violencia escolar?",
+  "options": [
+   "Toda la información debe hacerse pública para crear conciencia social",
+   "Debe garantizarse la confidencialidad de la víctima, protegiendo su identidad e información personal",
+   "La información puede compartirse con todos los docentes para que estén informados",
+   "Solo el director puede conocer los detalles del caso"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "Según la normativa boliviana vigente, el acoso escolar o 'bullying' debe abordarse:",
+  "options": [
+   "Como un asunto solo entre los estudiantes que no requiere intervención docente",
+   "Mediante protocolos institucionales que incluyen prevención, detección, atención y seguimiento con participación de toda la comunidad educativa",
+   "Solo sancionando al agresor sin acompañamiento a la víctima",
+   "Ignorando los casos leves para no interferir en la dinámica del grupo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué constituye una 'Contrarreferencia' en el sistema de registro de violencia?",
+  "options": [
+   "La apelación del agresor ante el tribunal",
+   "La respuesta de la instancia receptora (DNA, SLIM) sobre las acciones y recomendaciones tomadas",
+   "El informe que el maestro entrega a los padres"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué plazo tiene el director para denunciar ante la DNA en caso de violencia?",
+  "options": [
+   "12 horas",
+   "Máximo 24 horas de conocido el hecho",
+   "48 horas con informe"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ },
+ {
+  "question": "¿Qué debe evitarse absolutamente durante un relato de violencia sexual según el protocolo?",
+  "options": [
+   "Escuchar activamente",
+   "Realizar preguntas adicionales a la víctima o interrogarla para elaborar el informe",
+   "Notificar a la Defensoría"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Protocolo de Prevención y Actuación"
+ }
+]

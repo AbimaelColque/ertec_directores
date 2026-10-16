@@ -1,0 +1,254 @@
+[
+ {
+  "question": "Según los textos pedagógicos de la bibliografía oficial, el aprendizaje significativo se diferencia del memorístico en que:",
+  "options": [
+   "El aprendizaje significativo es más rápido y requiere menos esfuerzo",
+   "El aprendizaje significativo conecta el nuevo conocimiento con los saberes previos del estudiante de forma lógica y duradera",
+   "El aprendizaje memorístico produce comprensión más profunda",
+   "Son el mismo proceso visto desde distintas perspectivas"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "El constructivismo, base teórica del MESCP, sostiene que el conocimiento:",
+  "options": [
+   "Es transmitido pasivamente del docente al estudiante",
+   "Es construido activamente por el sujeto en interacción con su entorno social y cultural",
+   "Existe de forma objetiva e independiente del sujeto que aprende",
+   "Solo puede ser adquirido a través de la instrucción directa del docente"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "Según los textos pedagógicos, la evaluación formativa se distingue de la sumativa porque:",
+  "options": [
+   "La formativa califica y la sumativa no",
+   "La formativa proporciona información durante el proceso para mejorar el aprendizaje; la sumativa certifica logros al final del proceso",
+   "La formativa es más difícil de aplicar en grupos grandes",
+   "La sumativa es cuantitativa y la formativa siempre cualitativa"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "La metacognición, concepto clave en los textos pedagógicos, se refiere a:",
+  "options": [
+   "La capacidad de memorizar gran cantidad de información",
+   "El conocimiento y regulación que tiene el estudiante sobre sus propios procesos de pensamiento y aprendizaje",
+   "El uso de tecnología para potenciar el aprendizaje",
+   "La evaluación del docente por parte de sus estudiantes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "Según los textos pedagógicos de la bibliografía oficial 2026, las estrategias de aprendizaje activo buscan principalmente:",
+  "options": [
+   "Reducir la carga de trabajo del docente en el aula",
+   "Transformar al estudiante de receptor pasivo a constructor activo de su propio conocimiento",
+   "Acelerar la cobertura de contenidos curriculares",
+   "Eliminar la evaluación como proceso pedagógico"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "En el marco de los textos pedagógicos, las inteligencias múltiples de Gardner proponen que:",
+  "options": [
+   "Existe una sola inteligencia general que determina el éxito académico",
+   "Hay diversas formas de inteligencia (lógica, lingüística, musical, espacial, etc.) que deben ser reconocidas en el aula",
+   "La inteligencia es fija desde el nacimiento y no puede desarrollarse",
+   "Solo las inteligencias lógica y lingüística tienen valor en el contexto escolar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "La 'pedagogía por competencias' según los textos pedagógicos oficiales propone:",
+  "options": [
+   "Enseñar solo habilidades técnicas y prácticas desvinculadas del conocimiento teórico",
+   "Integrar conocimientos, habilidades, actitudes y valores para resolver situaciones complejas de la vida real",
+   "Evaluar únicamente los conocimientos conceptuales memorizados",
+   "Separar la teoría de la práctica en todo el proceso educativo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "El 'aprendizaje basado en problemas' (ABP) según los textos pedagógicos se fundamenta en:",
+  "options": [
+   "Memorizar soluciones a problemas tipo del libro de texto",
+   "Partir de un problema real y complejo que moviliza la investigación, el análisis y la construcción colectiva de soluciones",
+   "Que el docente resuelva los problemas mientras los estudiantes observan",
+   "Solo aplicar fórmulas y procedimientos conocidos sin reflexión"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "El 'aprendizaje cooperativo' según los textos pedagógicos se diferencia del trabajo en grupo tradicional porque:",
+  "options": [
+   "Es lo mismo con diferente nombre",
+   "Implica interdependencia positiva, responsabilidad individual, interacción cara a cara y procesamiento grupal del aprendizaje",
+   "Solo requiere sentar a los estudiantes juntos sin estructura pedagógica",
+   "Es exclusivo para estudiantes con dificultades de aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "La 'evaluación por rúbricas' según los textos pedagógicos permite:",
+  "options": [
+   "Reducir el tiempo que el docente dedica a corregir trabajos",
+   "Describir niveles de desempeño con criterios claros y transparentes que orientan tanto la evaluación como el aprendizaje",
+   "Solo comparar estudiantes entre sí para establecer rankings",
+   "Eliminar la subjetividad del docente al evaluar de forma mecánica"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "Según los textos pedagógicos de la bibliografía 2026, el 'pensamiento sistémico' en educación implica:",
+  "options": [
+   "Aprender a usar sistemas informáticos en el aula",
+   "Comprender que los fenómenos educativos son interdependientes y no pueden analizarse de forma aislada",
+   "Solo analizar los resultados numéricos del rendimiento académico",
+   "Aplicar sistemas de evaluación estandarizados sin adaptación"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "La 'didáctica crítica' propone que la enseñanza debe:",
+  "options": [
+   "Transmitir el conocimiento oficial sin cuestionarlo",
+   "Promover el pensamiento crítico, la reflexión sobre la realidad y la participación activa del estudiante como sujeto histórico",
+   "Enfocarse solo en los contenidos técnicos y descartar los contenidos sociales",
+   "Separar el conocimiento del contexto social y político"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "Según los textos pedagógicos, la 'zona de desarrollo próximo' de Vygotsky tiene implicaciones prácticas para el docente porque:",
+  "options": [
+   "Le indica que debe esperar a que el estudiante aprenda solo",
+   "Le señala el nivel de reto apropiado donde el apoyo del docente o pares puede generar el mayor avance en el aprendizaje",
+   "Le permite clasificar a los estudiantes en grupos permanentes por capacidad",
+   "Le indica que todos los estudiantes tienen el mismo potencial de aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Vygotsky"
+ },
+ {
+  "question": "¿Cuál es la diferencia entre 'enseñanza' y 'instrucción' según los textos pedagógicos oficiales?",
+  "options": [
+   "Son sinónimos sin diferencia conceptual",
+   "La enseñanza es un proceso más amplio que incluye valores y formación integral; la instrucción se centra en la transmisión de contenidos específicos",
+   "La instrucción es más completa que la enseñanza",
+   "La enseñanza es solo para primaria y la instrucción para secundaria"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "El 'aprendizaje por indagación' según los textos pedagógicos consiste en:",
+  "options": [
+   "El docente explica y los estudiantes copian la información",
+   "Los estudiantes formulan preguntas, investigan, analizan datos y construyen conclusiones de forma activa",
+   "Solo buscar información en internet sin orientación del docente",
+   "Un método exclusivo para clases de ciencias naturales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "¿Qué es el 'aprendizaje profundo' según los textos pedagógicos, en contraposición al superficial?",
+  "options": [
+   "Aprender durante muchas horas al día sin descanso",
+   "Comprender los principios subyacentes, conectar ideas y aplicar el conocimiento en nuevos contextos",
+   "Memorizar grandes cantidades de información de forma detallada",
+   "Estudiar temas complejos de matemáticas o física únicamente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "La 'evaluación entre pares' o coevaluación en el aula permite principalmente:",
+  "options": [
+   "Reducir el trabajo del docente al delegar la calificación",
+   "Desarrollar el pensamiento crítico, la responsabilidad y la capacidad de dar y recibir retroalimentación constructiva",
+   "Solo comparar el rendimiento entre estudiantes",
+   "Eliminar la evaluación formal del docente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "Según los textos pedagógicos, el 'aprendizaje servicio' combina:",
+  "options": [
+   "El estudio académico con actividades deportivas competitivas",
+   "El aprendizaje curricular con el servicio comunitario, conectando la escuela con la realidad social de forma recíproca",
+   "Solo las materias prácticas con salidas de campo",
+   "La enseñanza en servicio con la formación docente inicial"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "Según los textos pedagógicos, la 'educación para la ciudadanía' tiene como propósito:",
+  "options": [
+   "Enseñar normas de tránsito y reglas de convivencia básica",
+   "Formar personas capaces de participar activa y críticamente en la vida democrática, ejerciendo sus derechos y cumpliendo sus responsabilidades",
+   "Solo enseñar la historia y geografía del país",
+   "Preparar a los estudiantes para el servicio militar obligatorio"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "El concepto de 'andragogia' de Knowles se diferencia de la pedagogía en que:",
+  "options": [
+   "Es un método pedagógico para niños con necesidades especiales",
+   "Se centra en el aprendizaje de adultos, reconociendo su autonomía, experiencia previa y motivación intrínseca como factores centrales",
+   "Es igual a la pedagogía pero aplicada en universidades",
+   "Es solo aplicable en educación a distancia y virtual"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ },
+ {
+  "question": "El 'aprendizaje autorregulado' según los textos pedagógicos consiste en:",
+  "options": [
+   "Que el estudiante estudia solo sin ninguna orientación del docente",
+   "La capacidad del estudiante de planificar, monitorear y evaluar su propio proceso de aprendizaje de forma activa",
+   "Que el docente regula estrictamente todas las actividades del estudiante",
+   "Un método exclusivo para estudiantes universitarios avanzados"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Textos Pedagógicos - Bibliografía Oficial"
+ }
+]

@@ -1,0 +1,546 @@
+[
+ {
+  "question": "En la mediación escolar, ¿cuál es el papel del mediador?",
+  "options": [
+   "Decidir quién tiene la razón y dictar una sanción",
+   "Facilitar el diálogo y la negociación entre las partes como un tercero neutral",
+   "Representar los intereses del director frente a los alumnos",
+   "Actuar como juez y defender al más débil"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "Un buen reglamento escolar debe fundamentarse en:",
+  "options": [
+   "La severidad de las penas para disuadir la mala conducta",
+   "El respeto a la integridad, la dignidad personal y los valores democráticos",
+   "La obediencia ciega a las autoridades sin cuestionamiento",
+   "La antigüedad de los docentes como criterio principal"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué define al 'clima de seguridad' en una escuela?",
+  "options": [
+   "La presencia permanente de guardias armados en la puerta principal",
+   "La ausencia de agresiones, maltrato o vulneración de derechos fundamentales",
+   "Un sistema de cámaras de vigilancia en cada aula y baño",
+   "El cumplimiento estricto del reglamento de ingreso y salida"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "El 'clima de justicia' se refiere específicamente a:",
+  "options": [
+   "La legitimidad y equidad en la aplicación de las reglas y normas básicas",
+   "Que el director siempre le dé la razón a los maestros frente a los alumnos",
+   "La aplicación estricta de la ley penal dentro del recinto escolar",
+   "La imparcialidad en la distribución de recursos materiales del aula"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Cuál es la diferencia entre mediación y arbitraje?",
+  "options": [
+   "En la mediación se elige un ganador, en el arbitraje todos ganan",
+   "En la mediación las partes acuerdan; en el arbitraje un tercero decide por su autoridad",
+   "No hay diferencia, ambos términos son sinónimos legales en educación",
+   "La mediación es formal y el arbitraje es informal"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "En la 'negociación razonada', ¿en qué deben concentrarse las partes?",
+  "options": [
+   "En mantener su posición inicial sin ceder ni un milímetro",
+   "En los intereses y necesidades por encima de las posiciones rígidas",
+   "En encontrar al culpable del conflicto para obligarlo a pedir disculpas",
+   "En lograr que la otra parte reconozca su error públicamente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué es la 'Provención' según la terminología de resolución de conflictos?",
+  "options": [
+   "Castigar un hecho antes de que se convierta en una falta grave",
+   "Anticiparse a los conflictos antes de que estallen mediante el desarrollo de habilidades",
+   "Una forma de arbitraje donde el director decide el futuro del estudiante",
+   "La prevención de la violencia física mediante la vigilancia constante"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué define a las 'Escuelas Pacíficas' según los materiales de apoyo?",
+  "options": [
+   "Instituciones donde no existen conflictos de ningún tipo entre los alumnos",
+   "Centros que inspiran sus proyectos en la Cultura de Paz y procesos participativos",
+   "Unidades educativas que prohíben la entrada de personas con antecedentes penales",
+   "Escuelas donde el director aplica el reglamento de forma estricta y sin excepciones"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "El 'Clima Relacional' se basa principalmente en:",
+  "options": [
+   "La comunicación, el apoyo mutuo y el respeto entre los miembros",
+   "El cumplimiento estricto del horario de entrada y salida",
+   "La calidad de la infraestructura y el mobiliario del aula",
+   "La cantidad de actividades extracurriculares ofrecidas"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Cuál es el papel del mediador en el proceso de resolución de conflictos escolares?",
+  "options": [
+   "Imponer una solución basada en el reglamento de faltas y sanciones",
+   "Facilitar el diálogo entre las partes para que ellas encuentren su propia solución",
+   "Actuar como juez y parte para defender los intereses del más débil",
+   "Reportar el conflicto a la Dirección Distrital para su procesamiento"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "La 'Negociación Razonada' se centra en:",
+  "options": [
+   "Las posiciones rígidas de cada bando para ver quién aguanta más",
+   "Los intereses y necesidades de las partes por encima de sus posiciones",
+   "Encontrar al culpable para que pague los daños materiales causados",
+   "La intervención de una autoridad superior que determine la solución"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "En la resolución de conflictos, la etapa de 'Preparación' implica:",
+  "options": [
+   "Elegir una sanción antes de escuchar a los involucrados",
+   "Saber defender correctamente los intereses propios y negociar de forma cooperativa",
+   "Comprar los materiales necesarios para el taller de convivencia",
+   "Identificar al culpable antes de iniciar el diálogo formal"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "El 'Arbitraje' en el ámbito educativo ocurre cuando:",
+  "options": [
+   "Los alumnos juegan un partido de fútbol para resolver sus diferencias",
+   "Las partes llegan a un acuerdo de forma voluntaria sin ayuda externa",
+   "Las partes someten la solución a un tercero elegido por su autoridad y credibilidad",
+   "El director impone una sanción sin escuchar a ninguna de las partes"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Cuál es una condición necesaria para que la mediación sea efectiva?",
+  "options": [
+   "Que el mediador sea el profesor de la materia con más carga horaria",
+   "Que las partes acepten participar de forma voluntaria y sean honestas",
+   "Que se firme un contrato ante notario público de fe pública",
+   "Que el director apruebe previamente los términos del acuerdo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "El concepto de 'Humanidad Compartida' en la autocompasión nos ayuda a:",
+  "options": [
+   "Reconocer que el error y el sufrimiento son parte de la vida de todos",
+   "Organizar brigadas de limpieza comunitaria en el barrio de la escuela",
+   "Compartir la refacción escolar con los estudiantes que no tienen almuerzo",
+   "Aceptar todas las conductas negativas como parte de la naturaleza humana"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "La técnica BMI (Bueno, Malo, Interesante) tiene como fin:",
+  "options": [
+   "Poner una nota numérica a la conducta del estudiante",
+   "Fomentar la reflexión y el pensamiento crítico sobre una experiencia",
+   "Identificar a los estudiantes con talento extraordinario mediante una encuesta",
+   "Clasificar a los estudiantes en tres grupos según su rendimiento académico"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué niveles de influencia considera el 'Modelo Ecológico' de prevención de la violencia?",
+  "options": [
+   "Solo el nivel escolar y el nivel ministerial",
+   "Nivel docente, nivel administrativo y nivel del alumnado",
+   "Individual, Relacional, Comunitario y Social"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué caracteriza a una 'Escuela Pacífica'?",
+  "options": [
+   "La sinergia de cinco principios: cooperación, comunicación, tolerancia, expresión positiva de emociones y resolución de conflictos",
+   "La ausencia total de conflictos y la prohibición de cualquier discusión entre alumnos",
+   "La aplicación estricta de medidas punitivas y expulsiones inmediatas"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿En qué consiste el 'Clima de Justicia' en un centro educativo?",
+  "options": [
+   "En que el director siempre tenga la razón en todas las disputas",
+   "En el reconocimiento de la legitimidad y equidad de las reglas, aplicadas sin discriminación ni arbitrariedad",
+   "En sancionar de igual manera una falta leve y una falta muy grave para ser equitativos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Cuál es la diferencia fundamental entre Mediación y Arbitraje?",
+  "options": [
+   "El mediador no tiene poder para imponer un resultado y solo facilita la comunicación; el árbitro decide la solución",
+   "El mediador cobra por sus servicios y el árbitro es un voluntario del centro",
+   "El arbitraje es preventivo y la mediación es punitiva"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué propone el concepto de 'Provención' de John Burton?",
+  "options": [
+   "Esperar a que el conflicto estalle para intervenir con fuerza",
+   "Intervenir antes de que el conflicto comience, atacando sus causas estructurales y creando un clima de confianza",
+   "Prohibir cualquier tipo de interacción que pueda generar opiniones divergentes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué es la 'Negociación Razonada' o colaboradora (Método Harvard)?",
+  "options": [
+   "Una táctica para confundir al oponente y lograr que pierda todos sus beneficios",
+   "Buscar soluciones cooperativas del tipo 'yo gano, tú ganas', concentrándose en intereses y no en posiciones",
+   "Un acuerdo donde solo la autoridad escolar decide lo que es mejor para los alumnos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "En un proceso de mediación escolar, ¿qué fase sigue al 'Análisis de los problemas'?",
+  "options": [
+   "Ejecución de la sanción económica",
+   "Elaboración de opciones posibles de manera colaborativa",
+   "Firma inmediata del contrato sin discusión previa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Cuál es el objetivo del 'Clima de Pertenencia'?",
+  "options": [
+   "Lograr la cohesión del grupo y que los miembros de la comunidad se identifiquen con las finalidades del centro",
+   "Obligar a los padres a asistir a todas las reuniones bajo pena de multa",
+   "Asegurar que todos los estudiantes vistan el mismo uniforme de forma idéntica"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué efecto tiene el 'Efecto Pygmalion' en el clima educativo?",
+  "options": [
+   "Que los alumnos con mejores calificaciones siempre sean los mismos",
+   "Que las expectativas positivas de los docentes sobre el éxito de sus alumnos influyan en que obtengan mejores resultados",
+   "Que el docente ignore los problemas de comportamiento para no estresarse"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué busca la revisión curricular con perspectiva de género?",
+  "options": [
+   "Eliminar estereotipos sexistas, visibilizar la aportación de las mujeres y promover el respeto igualitario",
+   "Separar a niños y niñas en aulas distintas para evitar conflictos",
+   "Enseñar materias domésticas exclusivamente a las estudiantes mujeres"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué significa 'Despersonalizar la disputa' en mediación?",
+  "options": [
+   "Separar a las personas del problema para no atacar la dignidad individual",
+   "Tratar a todos como si fueran robots sin sentimientos",
+   "Olvidar los nombres de los implicados para que no haya registro"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué es la 'Tolerancia Cero' en programas de intervención?",
+  "options": [
+   "Aceptar cualquier comportamiento siempre que no haya sangre",
+   "Hacer saber que cualquier acto de indisciplina conlleva una consecuencia inmediata",
+   "No permitir que nadie hable durante las reuniones de maestros"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Cuál es un beneficio de la 'Resiliencia' según el manual de convivencia?",
+  "options": [
+   "Capacidad de sobreponerse con éxito a la adversidad y desarrollar competencia social pese al estrés",
+   "Aprender a golpear más fuerte para que nadie te moleste",
+   "Olvidar todo lo aprendido para empezar de cero cada día"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué es el 'Etnocentrismo' según los valores a cuestionar?",
+  "options": [
+   "Respetar todas las razas por igual",
+   "Considerar la cultura propia como superior a las demás",
+   "Aprender sobre la historia de otros países"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Cuál es el fin primordial de las 'Escuelas Seguras'?",
+  "options": [
+   "Promover el aprendizaje, la conducta social apropiada y la participación de la comunidad",
+   "Instalar cercas eléctricas en todo el perímetro escolar",
+   "Contratar guardias de seguridad armados para las aulas"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿En qué consiste la 'Escolarización de las Emociones' según Goleman?",
+  "options": [
+   "En dar clases de llanto y risa obligatorias",
+   "El aprendizaje de habilidades sociales, comunicativas y control emocional",
+   "En que los maestros pongan notas según el humor del alumno"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué es la 'Violencia Estructural'?",
+  "options": [
+   "Un golpe dado con una viga de construcción",
+   "Aquella generada por la propia organización escolar que deteriora relaciones e impone autoridad arbitraria",
+   "La que ocurre solo durante los desastres naturales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué es el 'Clima de Seguridad' según la guía de convivencia escolar?",
+  "options": [
+   "El orden y tranquilidad necesarios para el proceso de enseñanza-aprendizaje, reduciendo riesgos de maltrato",
+   "La presencia de policías en la puerta de la escuela",
+   "El uso de uniformes blindados para los alumnos"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué define al 'Clima de Justicia' escolar (variante 2)?",
+  "options": [
+   "Que los alumnos sean castigados siempre con rigor",
+   "La legitimidad y equidad de las reglas, aplicadas sin arbitrariedad y valorando el mérito individual",
+   "Que no existan reglas ni normas en el centro"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "En la mediación escolar, ¿qué significa que el mediador sea 'Neutral'?",
+  "options": [
+   "Que no le importe lo que pase en el conflicto",
+   "Que no tiene poder para imponer resultados y mantiene una posición imparcial en las cuestiones éticas",
+   "Que siempre debe dar la razón a la víctima"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Cuál es la primera fase del proceso mediador según la guía de convivencia?",
+  "options": [
+   "Colaboración inicial (acuerdo previo de las partes para colaborar)",
+   "Firma del contrato final",
+   "Castigo preventivo de los implicados"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué propone el método de 'Negociación Razonada' de Harvard (variante 2)?",
+  "options": [
+   "Ganar a toda costa usando la fuerza",
+   "Buscar soluciones cooperativas 'yo gano - tú ganas' centrándose en intereses y no en posiciones",
+   "Dividir el problema a la mitad aunque nadie quede conforme"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué es el 'Efecto Pygmalion' mencionado en el clima escolar (variante 2)?",
+  "options": [
+   "La influencia de las expectativas positivas del docente sobre el éxito académico de sus alumnos",
+   "El miedo de los alumnos a los exámenes orales",
+   "La tendencia de los directores a actuar como reyes"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué caracteriza a los 'Conflictos Intratables' según Mitchell?",
+  "options": [
+   "Que se resuelven en menos de 24 horas",
+   "Que son de gran violencia, larga duración y requieren paciencia y procesos interactivos",
+   "Que no tienen ninguna solución posible"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Cuál es el fin de la etapa de 'Análisis de los problemas' en la mediación?",
+  "options": [
+   "Recoger hechos, identificar necesidades de las partes y determinar prioridades",
+   "Elegir inmediatamente la solución más barata",
+   "Buscar culpables para aplicar sanciones administrativas"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué es la 'Provención' del conflicto (variante 2)?",
+  "options": [
+   "El castigo preventivo antes de que el niño hable",
+   "Intervenir antes de que el conflicto estalle, eliminando causas y mejorando la comunicación",
+   "Prohibir que los alumnos se miren a los ojos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué diferencia a la 'Conciliación' de la 'Mediación'?",
+  "options": [
+   "El conciliador tiene una intervención más activa y propone soluciones posibles; el mediador solo facilita el proceso",
+   "La conciliación es obligatoria y la mediación es voluntaria",
+   "El mediador siempre es un juez y el conciliador es un docente"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué es el 'Clima de Pertenencia' (variante 2)?",
+  "options": [
+   "El grado de cohesión y adhesión de los miembros al proyecto educativo del centro",
+   "El derecho de los alumnos a ser dueños de los pupitres",
+   "La obligación de vivir cerca de la escuela"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué principio de la 'Escuela Pacífica' busca la expresión positiva de las emociones?",
+  "options": [
+   "El principio de competitividad",
+   "La escolarización de las emociones (Goleman)",
+   "El principio de silencio absoluto en el aula"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿A qué se refiere la 'Violencia Estructural' en la escuela (variante 2)?",
+  "options": [
+   "A la caída de techos por falta de mantenimiento",
+   "A la organización escolar que deteriora relaciones e impone autoridad de forma arbitraria",
+   "Al maltrato dado por el personal de limpieza"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "En una negociación razonada, ¿qué se debe hacer con la 'Posición'?",
+  "options": [
+   "Mantenerla firme hasta que el otro ceda",
+   "Separarla de las personas y concentrarse en los intereses y necesidades subyacentes",
+   "Cambiarla cada cinco minutos para confundir al rival"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ },
+ {
+  "question": "¿Qué busca la 'Fase de Generalización' en la planificación de la convivencia?",
+  "options": [
+   "Continuar la aplicación del proyecto en cursos posteriores y compartir resultados con otros centros",
+   "Sancionar a todos los alumnos por igual sin distinción",
+   "Lograr que todos los docentes piensen exactamente lo mismo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Convivencia Escolar y Resolución Pacífica de Conflictos"
+ }
+]

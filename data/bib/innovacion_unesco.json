@@ -1,0 +1,707 @@
+[
+ {
+  "question": "¿Cuál de estas es una de las 'señas de identidad' de las escuelas que innovan?",
+  "options": [
+   "El cumplimiento estricto del horario de 60 minutos por materia para asegurar el orden",
+   "La capacidad de indagación y búsqueda constante de nuevas ideas y propuestas",
+   "La adopción de modelos exitosos de otras escuelas para evitar el riesgo del error",
+   "La adquisición de tecnología de última generación para todas las aulas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué busca la fase de 'Intencionalidad' en el ciclo de la innovación educativa?",
+  "options": [
+   "Que la comunidad se interrogue sobre qué quiere transformar y defina un horizonte",
+   "Identificar los recursos materiales y humanos necesarios para el cambio",
+   "Evaluar los resultados obtenidos tras un año de implementación del proyecto",
+   "Elaborar el cronograma detallado de actividades de la innovación"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Por qué la innovación educativa se considera un 'proceso en espiral'?",
+  "options": [
+   "Porque los errores cometidos obligan a volver siempre al punto de inicio",
+   "Porque es un ciclo cerrado que debe terminarse antes de empezar otro",
+   "Porque cada fase se relaciona con la anterior y genera nuevas reflexiones",
+   "Porque es un proceso caótico y circular que carece de una meta final definida"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "En la innovación, la fase de 'Sistematización' consiste en:",
+  "options": [
+   "Organizar los recursos materiales en el almacén de la escuela",
+   "Registrar la experiencia colectivamente para construir saber y compartirlo",
+   "Planificar cronológicamente las actividades del próximo año",
+   "Evaluar numéricamente si se cumplieron los objetivos del Ministerio"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "En la innovación, la fase de 'Evaluación y Balance' se pregunta principalmente:",
+  "options": [
+   "¿Cuánto dinero se gastó en el proyecto?",
+   "¿Cómo resultó el proceso y qué lecciones se aprendieron?",
+   "¿Quiénes son los culpables de los errores cometidos?",
+   "¿Cuántos maestros participaron activamente en el cambio?"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "Según la UNESCO (2014), la innovación educativa se define técnicamente como:",
+  "options": [
+   "La mera incorporación de tecnologías de la información en los procesos de gestión",
+   "Un acto deliberado y planificado de solución de problemas para lograr calidad",
+   "Un ajuste espontáneo y creativo de los métodos tradicionales ante una crisis escolar",
+   "La adopción de modelos exitosos de otros países para mejorar resultados"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué es la 'autopoiesis' aplicada a la organización escolar?",
+  "options": [
+   "La capacidad de un sistema vivo para reorganizarse y mantenerse abierto",
+   "El proceso de dictar normas desde la dirección hacia los docentes",
+   "Un método de evaluación basado en la creación de poesías y rimas",
+   "El cumplimiento automático de normativas externas impuestas al sistema"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "En la innovación, la 'Identificación de recursos' pregunta:",
+  "options": [
+   "¿Cómo resultó el proceso?",
+   "¿Qué aprendimos de la experiencia?",
+   "¿Con qué contamos?",
+   "¿Qué queremos transformar?"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "Un factor institucional que obstaculiza la innovación es:",
+  "options": [
+   "La formación pedagógica continua y actualizada de todo el equipo docente",
+   "La fuerza del status quo y el peso de la tradición que hace ver lo viejo como natural",
+   "La inversión masiva de presupuesto estatal en laboratorios de ciencias y tecnología",
+   "La participación activa de los padres de familia en los procesos de cambio"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "En la innovación, ¿qué implica 'pasar del lenguaje de los actores al de los autores'?",
+  "options": [
+   "Que los docentes dejen de ejecutar libretos preestablecidos y se conviertan en creadores de su propia acción",
+   "Que los estudiantes escriban sus propios libros de texto en lugar de usar manuales comerciales",
+   "Sustituir las clases magistrales por representaciones teatrales de contenidos históricos",
+   "Que los directores redacten el currículum anual en lugar del Ministerio"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "El fin último de la innovación educativa según la UNESCO es:",
+  "options": [
+   "Un ajuste cosmético para modernizar la fachada y apariencia de las escuelas",
+   "La compra masiva de software y hardware de última generación para todas las aulas",
+   "Una transformación profunda que incide en los aspectos estructurales del sistema",
+   "Mejorar los resultados en las pruebas estandarizadas internacionales"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La calidad educativa, según el enfoque de derechos de UNESCO, se relaciona con:",
+  "options": [
+   "La relevancia, equidad, pertinencia, eficacia y eficiencia del sistema",
+   "El ranking nacional obtenido por los alumnos en pruebas de memorización",
+   "La cantidad de libros de texto físicos que la institución entrega a cada estudiante",
+   "El porcentaje de aprobación en evaluaciones nacionales estandarizadas"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "En la innovación educativa, ¿qué son los 'modelos mentales' que actúan como obstáculos para el cambio?",
+  "options": [
+   "Planos detallados de la disposición física de los bancos dentro de un aula innovadora",
+   "Tests de inteligencia estandarizados para clasificar a los alumnos en grupos homogéneos",
+   "Estructuras de pensamiento internalizadas que condicionan cómo explicamos el mundo",
+   "Esquemas de planificación curricular heredados del sistema educativo anterior"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Cuál es la 'autopoiesis' en el contexto de un sistema escolar innovador?",
+  "options": [
+   "La organización de lo vivo y el carácter abierto del sistema para reorganizarse",
+   "La capacidad de seguir normativas burocráticas de forma automática y rígida",
+   "Un método de evaluación asertiva basado en la creación de rimas y poesías",
+   "El proceso de auto-financiamiento de proyectos innovadores sin apoyo externo"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La fase de 'Evaluación y Balance' en la innovación se pregunta principalmente:",
+  "options": [
+   "¿Cuánto dinero se gastó en el proyecto?",
+   "¿Cómo resultó el proceso y qué lecciones se aprendieron?",
+   "¿Quiénes son los culpables de los errores cometidos?",
+   "¿Cuántos docentes participaron en el proceso de cambio?"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La fase de 'Planificación' en la innovación responde a la pregunta:",
+  "options": [
+   "¿Qué se quiere transformar y por qué?",
+   "¿Cómo lo vamos a hacer?",
+   "¿Con qué contamos?",
+   "¿Qué aprendimos de la experiencia?"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Cuáles son las tres dimensiones de la innovación educativa según los materiales de UNESCO?",
+  "options": [
+   "Tecnológica, administrativa y financiera",
+   "Curricular, pedagógica e institucional",
+   "Individual, grupal y comunitaria",
+   "Normativa, evaluativa y presupuestaria"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Por qué la innovación educativa no puede reducirse a la introducción de tecnología en el aula?",
+  "options": [
+   "Porque la tecnología es demasiado costosa para la mayoría de las escuelas públicas",
+   "Porque la innovación implica transformar las prácticas pedagógicas, las relaciones y la cultura escolar",
+   "Porque el Ministerio de Educación no autoriza el uso de dispositivos electrónicos",
+   "Porque la tecnología solo beneficia a los alumnos con inteligencia lógico-matemática"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué papel cumple la 'reflexión colectiva' en el proceso de innovación escolar?",
+  "options": [
+   "Permite que el director tome mejores decisiones sin consultar a los maestros",
+   "Es el motor que transforma la experiencia individual en conocimiento compartido y construido colectivamente",
+   "Es un requisito administrativo que las escuelas deben cumplir ante la Dirección Distrital",
+   "Permite identificar a los maestros que no están comprometidos con la institución"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué es la 'cultura escolar' y cómo puede obstaculizar la innovación?",
+  "options": [
+   "El conjunto de actividades culturales que la escuela organiza durante el año",
+   "El sistema de valores, creencias y rutinas institucionalizadas que resiste al cambio",
+   "El currículum de educación artística y cultural que el Ministerio prescribe",
+   "Las normas del reglamento interno que regulan la convivencia escolar"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Cuál es la diferencia entre 'cambio' e 'innovación' en el ámbito educativo?",
+  "options": [
+   "Son sinónimos: todo cambio en la escuela es una innovación educativa",
+   "El cambio puede ser superficial o impuesto; la innovación implica una transformación deliberada y profunda",
+   "El cambio es positivo y la innovación puede ser positiva o negativa",
+   "El cambio lo generan los alumnos y la innovación la generan los maestros"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué rol tienen los maestros como 'agentes de cambio' en la innovación educativa?",
+  "options": [
+   "Son ejecutores pasivos de las reformas diseñadas por el Ministerio de Educación",
+   "Son los protagonistas que reflexionan, experimentan y transforman su práctica pedagógica",
+   "Son obstáculos naturales al cambio por su resistencia a nuevas metodologías",
+   "Son evaluadores del impacto de las reformas diseñadas por especialistas externos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué significa que la innovación educativa sea 'contextualizada'?",
+  "options": [
+   "Que debe implementarse primero en las zonas urbanas antes que en las rurales",
+   "Que las estrategias de cambio deben responder a las necesidades y características de cada comunidad educativa",
+   "Que solo puede innovarse en escuelas con acceso a internet y tecnología avanzada",
+   "Que la innovación debe seguir el modelo de países desarrollados exitosos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué es la 'investigación-acción' en el contexto de la innovación educativa?",
+  "options": [
+   "La investigación que realizan los especialistas universitarios en las escuelas como laboratorios",
+   "Un proceso en que los propios docentes investigan su práctica para transformarla reflexivamente",
+   "La aplicación de experimentos científicos en el aula para medir el rendimiento",
+   "La documentación estadística del rendimiento escolar para informes administrativos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Por qué la innovación educativa requiere trabajo colaborativo entre docentes?",
+  "options": [
+   "Porque el Ministerio exige trabajo en equipo como requisito para el ascenso de categoría",
+   "Porque el conocimiento pedagógico se construye mejor en comunidades de aprendizaje profesional",
+   "Porque los maestros individualmente no tienen capacidad para diseñar cambios significativos",
+   "Porque la supervisión mutua garantiza el cumplimiento de los objetivos ministeriales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Cuál es la relación entre la evaluación y la innovación educativa sostenida?",
+  "options": [
+   "La evaluación frena la innovación porque genera presión y estrés en los docentes",
+   "La evaluación continua de los procesos permite ajustar, mejorar y sostener la innovación en el tiempo",
+   "La evaluación solo sirve para medir el rendimiento de los alumnos, no del proceso innovador",
+   "La evaluación es responsabilidad exclusiva de las autoridades externas a la escuela"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "Según la UNESCO, la innovación educativa es:",
+  "options": [
+   "Un acto deliberado y planificado para solucionar problemas y lograr mayor calidad",
+   "Cualquier cambio que ocurra por accidente en la escuela",
+   "La compra masiva de uniformes nuevos"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Cuál es la diferencia entre 'innovación' y 'mejora'?",
+  "options": [
+   "No hay diferencia, son sinónimos",
+   "La mejora es un ajuste; la innovación es una transformación estructural del sentido educativo",
+   "La mejora es para escuelas públicas y la innovación para privadas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué son los 'modelos mentales'?",
+  "options": [
+   "Maquetas de edificios escolares",
+   "Estructuras de pensamiento y creencias que condicionan nuestras acciones sin que nos demos cuenta",
+   "Programas de diseño por computadora"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué papel juega el 'conflicto cognitivo' en el proceso innovador?",
+  "options": [
+   "Es algo que debe ser eliminado de inmediato",
+   "Es necesario para el aprendizaje, aunque genere desequilibrio e incertidumbre inicial",
+   "Es una señal de que la escuela va a cerrar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La 'micropolítica' escolar se refiere a:",
+  "options": [
+   "La política del gobierno nacional",
+   "El uso del poder formal e informal por individuos y grupos para alcanzar sus metas",
+   "El reglamento de disciplina del alumnado"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Cuál es la primera fase del ciclo de innovación educativa?",
+  "options": [
+   "Planificación",
+   "Intencionalidad (¿qué se quiere transformar y por qué?)",
+   "Evaluación final"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "Una escuela que innova considera al docente como:",
+  "options": [
+   "Un simple ejecutor de libretos predefinidos",
+   "Un autor del cambio capaz de reflexionar sobre su propia práctica",
+   "Un vigilante de pasillos"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué significa que la innovación tiene un carácter 'sistémico'?",
+  "options": [
+   "Que solo afecta a los sistemas informáticos",
+   "Que cualquier cambio en un componente repercute en los demás componentes de la escuela",
+   "Que el proceso es automático y no requiere personas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La 'conciencia utópica' mencionada por Freire implica:",
+  "options": [
+   "Soñar con imposibles sin actuar",
+   "Movilizar la voluntad para transformar la realidad educativa corriente",
+   "Leer solo libros de fantasía"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué factor institucional favorece el cambio según Blase y Blase?",
+  "options": [
+   "El liderazgo autoritario y el control estricto",
+   "El liderazgo facilitador y el gobierno compartido",
+   "La falta de reuniones entre profesores"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "El 'status quo' en una institución educativa tiende a:",
+  "options": [
+   "Promover cambios radicales cada semana",
+   "Preservar lo que parece 'natural y adecuado', descartando posibilidades de cambio",
+   "Desaparecer en cuanto llega un nuevo director"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué es la 'sistematización' de una experiencia innovadora?",
+  "options": [
+   "Guardar los papeles en carpetas por orden alfabético",
+   "Un proceso de construcción colectiva de conocimiento a partir de la práctica vivida",
+   "Seguir un manual de instrucciones al pie de la letra"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "En la fase de 'Implementación y desarrollo', la flexibilidad es fundamental para:",
+  "options": [
+   "No hacer nada de lo planeado",
+   "Tomar en consideración los imprevistos y redirigir las acciones mediante la reflexión",
+   "Cambiar de proyecto cada día"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué actitud deben tener los docentes en una escuela innovadora respecto a sus colegas?",
+  "options": [
+   "Trabajar de forma aislada para que nadie copie sus ideas",
+   "Apertura al intercambio y a la discusión pública de sus prácticas",
+   "Competir para ver quién es el mejor"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La innovación educativa busca pasar del aprendizaje pasivo a:",
+  "options": [
+   "Un aprendizaje basado en la interacción y construcción colectiva",
+   "Un aprendizaje basado solo en ver televisión en clase",
+   "Un aprendizaje sin ningún tipo de esfuerzo"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué define a una 'Organización que Aprende'?",
+  "options": [
+   "Una que compra muchos libros cada año",
+   "Una capaz de auto-revisarse, diagnosticar sus fallas y transferir saber a nuevas situaciones",
+   "Una que tiene los alumnos más ricos de la ciudad"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué significa 'autopoiesis' en el contexto de un sistema abierto?",
+  "options": [
+   "Que el sistema se destruye a sí mismo",
+   "La capacidad de organización y reproducción de lo vivo",
+   "Escribir poemas de forma automática"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué promueve el 'liderazgo facilitador' del director?",
+  "options": [
+   "La competencia entre docentes",
+   "El compromiso con decisiones alcanzadas democráticamente y la aceptación de riesgos",
+   "Seguir las órdenes del Ministerio sin cuestionar nada"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué significa 'autopoiesis' aplicado a un sistema escolar innovador?",
+  "options": [
+   "La capacidad de una organización para reproducirse y mantenerse como sistema vivo",
+   "La tendencia de las escuelas a cerrarse al entorno exterior",
+   "El proceso de escribir poesía de forma automática en clase de lengua"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "Según la UNESCO (2014), la innovación educativa es:",
+  "options": [
+   "La compra masiva de computadoras para todas las aulas",
+   "Un acto deliberado y planificado de solución de problemas para lograr mayor calidad",
+   "Cualquier cambio que ocurra por accidente durante el recreo"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué modelo de desarrollo profesional según Marcelo es el más utilizado pero menos valorado?",
+  "options": [
+   "Desarrollo profesional basado en la reflexión",
+   "Cursos de formación tradicionales (centrados en certificados)",
+   "Desarrollo profesional desde la investigación"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "Según Imbernón, ¿en qué consiste la 'investigación o indagativo'?",
+  "options": [
+   "En leer libros de ciencia ficción en la biblioteca",
+   "En investigar en y sobre la acción, integrando teoría y práctica en colaboración",
+   "En buscar en Google respuestas para los exámenes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué caracteriza a un centro educativo 'Dinámico'?",
+  "options": [
+   "Mantenerse en los éxitos pasados sin cambiar nada",
+   "Armonía entre estabilidad y cambio, trabajo en equipo y autoevaluación",
+   "Cambiar de horario escolar todos los días por sorpresa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué significa 'autonomía' en una institución innovadora?",
+  "options": [
+   "No seguir ninguna ley nacional ni reglamento",
+   "La capacidad de recrear y adaptar la normativa externa al contexto propio",
+   "Que cada alumno haga lo que quiera sin profesores"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Cuál es el 'Aprendizaje Mejorado por Tecnología' (TEL)?",
+  "options": [
+   "Sustituir a los profesores por robots",
+   "Proporcionar innovaciones socio-técnicas que mejoren la eficiencia y rentabilidad de las prácticas",
+   "Prohibir el uso de libros de papel"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "¿Qué es el 'aprendizaje de mantenimiento' en una organización?",
+  "options": [
+   "Limpiar los baños de la escuela",
+   "Resolver problemas usando métodos habituales (acumulativo) sin creatividad",
+   "Arreglar los ordenadores rotos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "Según el texto de la UNESCO, el aprendizaje debe ser visto como:",
+  "options": [
+   "Una recepción pasiva de datos",
+   "Una interacción donde el conocimiento se construye entre todos",
+   "Una competencia individual por las notas"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "El documento 'Innovación Educativa - UNESCO' define la innovación educativa como:",
+  "options": [
+   "La incorporación obligatoria de tecnología digital en todas las aulas",
+   "Un cambio intencional y sistémico en los procesos educativos que mejora la calidad y la equidad del aprendizaje",
+   "La mera modificación cosmética de los materiales didácticos",
+   "La importación de modelos educativos de países desarrollados"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "Según la UNESCO, para que una innovación educativa sea sostenible debe:",
+  "options": [
+   "Ser impuesta desde arriba por las autoridades educativas centrales",
+   "Involucrar a los docentes como protagonistas, contar con apoyo institucional y responder a necesidades reales del contexto",
+   "Depender exclusivamente de la tecnología disponible",
+   "Ser replicable exactamente en todos los contextos sin adaptación"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La UNESCO identifica como uno de los principales obstáculos para la innovación educativa:",
+  "options": [
+   "El exceso de motivación de los docentes por cambiar sus prácticas",
+   "La resistencia al cambio, la falta de formación docente y los sistemas de evaluación que no incentivan la innovación",
+   "La participación excesiva de los padres en el proceso educativo",
+   "El exceso de recursos tecnológicos disponibles en las escuelas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La innovación educativa según UNESCO implica necesariamente un cambio en:",
+  "options": [
+   "Solo en los materiales físicos y tecnológicos del aula",
+   "En las concepciones, prácticas pedagógicas y estructuras que afectan los procesos de enseñanza y aprendizaje",
+   "Solo en los documentos curriculares oficiales sin cambio en el aula",
+   "Exclusivamente en la formación inicial de nuevos docentes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La UNESCO reconoce como una práctica innovadora en educación:",
+  "options": [
+   "La masificación de exámenes estandarizados únicos para todos",
+   "El aprendizaje basado en proyectos comunitarios que conectan la escuela con la realidad local",
+   "La enseñanza exclusivamente magistral y expositiva",
+   "La eliminación de la evaluación como proceso pedagógico"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La UNESCO plantea que la educación de calidad debe garantizar:",
+  "options": [
+   "Que todos los estudiantes obtengan las mismas calificaciones",
+   "Aprendizajes relevantes, equitativos, inclusivos y que preparen para la vida y la ciudadanía",
+   "Solo el acceso a la escuela sin considerar lo que aprenden",
+   "Que cada país desarrolle su propio modelo sin criterios comunes"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "El 'pensamiento de diseño' (Design Thinking) aplicado a la educación busca:",
+  "options": [
+   "Enseñar diseño gráfico a los estudiantes",
+   "Un proceso creativo de resolución de problemas que parte de la empatía con el usuario para generar soluciones innovadoras",
+   "Solo diseñar el mobiliario y la infraestructura escolar",
+   "Un método exclusivo para escuelas técnicas y tecnológicas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ },
+ {
+  "question": "La UNESCO identifica como competencias docentes del siglo XXI:",
+  "options": [
+   "Solo el dominio de contenidos de la asignatura que enseña",
+   "Facilitar el aprendizaje, trabajar en equipo, usar TIC, reflexionar críticamente, y adaptarse a contextos cambiantes",
+   "Cumplir el horario y entregar notas a tiempo",
+   "Solo hablar bien y mantener la disciplina en el aula"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Innovación Educativa - UNESCO"
+ }
+]

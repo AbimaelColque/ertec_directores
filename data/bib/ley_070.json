@@ -1,0 +1,109 @@
+[
+ {
+  "question": "¿Qué significa 'Interculturalidad para Vivir Bien'?",
+  "options": [
+   "Que todas las culturas deben abandonar sus tradiciones para seguir una sola norma global",
+   "Convivencia comunitaria sin asimetrías de poder, en equilibrio con los demás y la naturaleza",
+   "Aprender idiomas extranjeros para viajar fuera del país"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 070 - Principios"
+ },
+ {
+  "question": "La Ley de Educación N° 070 'Avelino Siñani - Elizardo Pérez' fue promulgada en:",
+  "options": [
+   "2006",
+   "2008",
+   "2010",
+   "2012"
+  ],
+  "answer": 2,
+  "difficulty": "baja",
+  "fuente": "Ley 070"
+ },
+ {
+  "question": "¿Cuántos subsistemas comprende el Sistema Educativo Plurinacional según la Ley 070?",
+  "options": [
+   "2 subsistemas",
+   "3 subsistemas",
+   "4 subsistemas",
+   "5 subsistemas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 070"
+ },
+ {
+  "question": "Según la Ley 070, la duración mínima del año escolar es:",
+  "options": [
+   "150 días hábiles",
+   "180 días hábiles",
+   "200 días hábiles",
+   "220 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 070"
+ },
+ {
+  "question": "¿Cuál es la escala de calificación vigente en el sistema educativo boliviano según normativa?",
+  "options": [
+   "1 a 5 puntos",
+   "0 a 10 puntos",
+   "0 a 100 puntos",
+   "A, B, C, D, F"
+  ],
+  "answer": 2,
+  "difficulty": "baja",
+  "fuente": "Ley 070 y Resoluciones Ministeriales"
+ },
+ {
+  "question": "El PROFOCOM (Programa de Formación Complementaria) fue creado para:",
+  "options": [
+   "Formar docentes en universidades privadas",
+   "Complementar la formación de maestras y maestros en ejercicio para implementar el MESCP",
+   "Capacitar a directores en gestión administrativa",
+   "Formar técnicos en tecnología educativa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 070 - PROFOCOM"
+ },
+ {
+  "question": "La Ley 070 establece que la educación en Bolivia debe ser 'comunitaria', lo que implica:",
+  "options": [
+   "Que solo se imparte en comunidades rurales alejadas de las ciudades",
+   "La participación activa de la comunidad en la gestión, planificación y desarrollo del proceso educativo",
+   "Que los estudiantes solo aprenden dentro de su comunidad sin salir de ella",
+   "Que cada comunidad tiene un sistema educativo completamente independiente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 070"
+ },
+ {
+  "question": "Según la Ley 070, ¿qué son los Consejos Educativos Sociocomunitarios?",
+  "options": [
+   "Organismos que reemplazan a los directores en la gestión pedagógica",
+   "Instancias de participación comunitaria que apoyan la gestión educativa en las unidades educativas",
+   "Comités exclusivos de padres de familia sin participación docente",
+   "Organismos de control y sanción del desempeño docente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 070"
+ },
+ {
+  "question": "¿Qué establece la normativa boliviana sobre la educación en lenguas indígenas originarias?",
+  "options": [
+   "Es solo optativa en zonas rurales donde hay más del 50% de población indígena",
+   "Es obligatoria en todos los niveles como primera o segunda lengua, según el contexto sociolingüístico de cada región",
+   "Solo aplica en la educación inicial, no en primaria ni secundaria",
+   "Es responsabilidad de los padres de familia, no del sistema educativo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 070"
+ }
+]

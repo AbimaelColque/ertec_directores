@@ -1,0 +1,1580 @@
+[
+ {
+  "question": "¿Cuál es la sanción para una falta disciplinaria calificada como 'muy grave'?",
+  "options": [
+   "Suspensión de funciones sin goce de haber de 15 a 60 días",
+   "Retiro definitivo del ejercicio del Magisterio o destitución del cargo",
+   "Descenso a un cargo inmediatamente inferior al que ocupa",
+   "Traslado obligatorio a zona fronteriza por dos años"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El consumo de cigarrillos o productos de tabaco en ambientes escolares es tipificado como:",
+  "options": [
+   "Falta grave",
+   "Falta leve",
+   "Inmoralidad y vicio",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué autoridad es la encargada de sancionar las faltas leves de un maestro?",
+  "options": [
+   "El Tribunal Disciplinario Departamental",
+   "El Director Distrital de Educación",
+   "La autoridad inmediata superior",
+   "El Ministro de Educación"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál de las siguientes conductas se considera una falta 'grave' según el reglamento?",
+  "options": [
+   "El abandono injustificado de funciones",
+   "La venta o uso indebido de material escolar destinado a la institución",
+   "La suplantación de firmas en documentos oficiales",
+   "La falsificación de certificados de notas"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el plazo para interponer un recurso de apelación tras la notificación de un fallo disciplinario?",
+  "options": [
+   "Tres días",
+   "Cinco días",
+   "Veinticuatro horas",
+   "Diez días hábiles"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La reincidencia voluntaria en faltas leves constituye automáticamente una:",
+  "options": [
+   "Falta grave",
+   "Falta muy grave",
+   "Sanción de retiro definitivo",
+   "Nueva falta leve con doble penalidad"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué tipo de falta es la inasistencia a desfiles o actos cívico-patrióticos oficiales?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "No constituye falta si es por razones ideológicas",
+   "Falta muy grave"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El empleo de castigos corporales o psicológicos contra la dignidad del alumno se tipifica como:",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave",
+   "Conducta no sancionable si no deja marcas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿En qué caso procede la suspensión inmediata antes de comprobar la culpabilidad?",
+  "options": [
+   "Por incurrir en el abandono del lugar de funciones por más de cinco días",
+   "Por la comisión de delitos de agresión y violencia sexual",
+   "Por la malversación de fondos de donativos o cuotas",
+   "Por inasistencia reiterada a desfiles patrios"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Quiénes componen los tribunales disciplinarios encargados de juzgar faltas graves y muy graves?",
+  "options": [
+   "Padres de familia y autoridades distritales",
+   "Miembros de igual o superior jerarquía a la de los encauzados",
+   "Representantes del Ministerio de Justicia y la DNA",
+   "Tres directores elegidos por sorteo nacional"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué tipo de falta es la simulación de enfermedad para obtener licencias con certificados falsos?",
+  "options": [
+   "Falta Grave por engaño a la autoridad",
+   "Falta Muy Grave",
+   "Falta Leve sujeta a descuento de haberes",
+   "Conducta no sancionable administrativamente"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El descuido y abandono de los alumnos durante una excursión escolar se considera:",
+  "options": [
+   "Falta Muy Grave por poner en riesgo la vida de menores",
+   "Falta Grave",
+   "Falta Leve sujeta a amonestación verbal privada",
+   "Inconducta social no sancionable"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el término procesal para remitir una denuncia al Tribunal Disciplinario Departamental?",
+  "options": [
+   "Dentro de las 48 horas",
+   "En un plazo máximo de 24 horas",
+   "Inmediatamente tras la firma del acta por el testigo",
+   "En un plazo máximo de 5 días hábiles"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el plazo máximo para que el tribunal emita un fallo?",
+  "options": [
+   "Tres días hábiles",
+   "Cinco días",
+   "Veinte días calendario",
+   "Treinta días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué sanción se aplica específicamente ante el consumo de cigarrillos en ambientes escolares?",
+  "options": [
+   "Suspensión de 15 a 60 días",
+   "Amonestación o descuento de uno a cinco días de haber",
+   "Retiro definitivo si hay reincidencia en el mismo mes",
+   "Demérito de 5 puntos en el escalafón"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La 'incitación a la huelga' en momentos no permitidos por la ley es calificada como:",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave por sedición",
+   "Ejercicio del derecho a la protesta"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El uso de los alumnos para realizar mandados particulares o servicio doméstico constituye una:",
+  "options": [
+   "Falta grave",
+   "Falta leve",
+   "Inconducta social no sancionable administrativamente",
+   "Falta muy grave"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál de estas conductas es una 'Falta Grave' relacionada con el manejo de recursos?",
+  "options": [
+   "No rendir cuentas de dineros recaudados por kermesses o rifas",
+   "La venta o uso indebido del material sanitario o deportivo destinado a la institución",
+   "La malversación de fondos de donativos externos superiores a un sueldo mínimo",
+   "No presentar el presupuesto anual en la fecha establecida"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La 'subalternización de instancias administrativas a intereses político-partidarios' se tipifica como:",
+  "options": [
+   "Falta grave",
+   "Falta muy grave",
+   "Ejercicio legítimo de la libertad de asociación política",
+   "Falta leve sujeta a amonestación"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué sucede si un tribunal disciplinario impone una sanción sin cumplir las normas procesales?",
+  "options": [
+   "La sanción se reduce a la mitad por principio de equidad",
+   "La sanción se tiene por inexistente",
+   "Debe iniciarse un nuevo proceso contra el tribunal",
+   "Se aplica igualmente pero con apelación automática"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el plazo máximo para notificar con las actuaciones procesales a un encauzado?",
+  "options": [
+   "Tres días hábiles",
+   "48 horas tras el fallo",
+   "24 horas",
+   "5 días calendario"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La 'presentación en la escuela en estado de ebriedad' se clasifica como:",
+  "options": [
+   "Falta Grave por mala imagen institucional",
+   "Falta Muy Grave",
+   "Falta leve si es la primera vez en la gestión",
+   "Conducta sancionada solo si hay menores presentes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿A qué autoridad se debe remitir la apelación de un fallo disciplinario?",
+  "options": [
+   "Al Director Departamental de Educación",
+   "Al Tribunal Nacional, presentándola ante el mismo tribunal que sentenció",
+   "Al Ministerio de Justicia para su revisión legal",
+   "Al Ministro de Educación de manera directa"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué sanción se aplica por la 'falsificación de datos en informaciones oficiales o alteración de certificados'?",
+  "options": [
+   "Suspensión de funciones de 15 a 60 días",
+   "Retiro definitivo del ejercicio del Magisterio o destitución del cargo",
+   "Descenso a una categoría inferior con pérdida de antigüedad",
+   "Demérito de 15 puntos en el escalafón"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La 'subalternización de instancias administrativas a intereses político-partidarios' es una:",
+  "options": [
+   "Falta Grave relacionada con la ética profesional",
+   "Falta Muy Grave",
+   "Conducta permitida siempre que no se realice en horario de clases",
+   "Falta Leve sujeta a amonestación escrita"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "Un maestro que abandona sus funciones por 6 días en una escuela urbana incurre en:",
+  "options": [
+   "Falta Leve por inasistencia injustificada",
+   "Falta Grave",
+   "Retiro automático por abandono de cargo sin proceso",
+   "Falta Muy Grave con destitución inmediata"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿A qué personal se aplica obligatoriamente el Reglamento de Faltas y Sanciones del Magisterio boliviano?",
+  "options": [
+   "Únicamente a los directores de unidades educativas privadas",
+   "Solo al personal docente con más de 20 años de servicio",
+   "A todo el personal comprendido en los artículos 20 y 21 del Reglamento del Escalafón y organismos desconcentrados"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta se considera como 'leve' según el Artículo 9?",
+  "options": [
+   "El hostigamiento o represalias contra padres de familia",
+   "El consumo de cigarrillos o productos del tabaco en ambientes escolares",
+   "La extorsión a los alumnos ofreciendo calificaciones"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál de estas es una 'falta grave' según la normativa boliviana?",
+  "options": [
+   "La no presentación oportuna de registros o listas de calificación",
+   "La suspensión de labores por cumpleaños del director",
+   "El abandono de funciones hasta cinco días en escuelas urbanas sin autorización"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué conducta constituye una 'falta muy grave' según el Artículo 11?",
+  "options": [
+   "El trato descortés o despótico a los dependientes",
+   "La negligencia en el cuidado del mobiliario escolar",
+   "La suplantación de firmas en documentos oficiales o falsificación de datos"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué sanción corresponde a una falta muy grave?",
+  "options": [
+   "Suspensión de funciones de 15 a 60 días sin goce de haber",
+   "Descuento de uno a cinco días de haber",
+   "Retiro definitivo del ejercicio del Magisterio o destitución del cargo"
+  ],
+  "answer": 2,
+  "difficulty": "baja",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Quién tiene la competencia para conocer apelaciones contra fallos de tribunales departamentales?",
+  "options": [
+   "La junta escolar de padres de familia",
+   "El Tribunal Disciplinario Nacional, presidido por el Director General de Educación",
+   "El Director Distrital del municipio donde ocurrió la falta"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿En qué plazo máximo debe remitirse una denuncia al Tribunal Departamental tras ser recibida?",
+  "options": [
+   "24 horas",
+   "48 horas",
+   "5 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el periodo probatorio estándar en un proceso disciplinario docente?",
+  "options": [
+   "20 días prorrogables por razón de distancia",
+   "10 días fijos sin posibilidad de extensión",
+   "Todo el tiempo que dure la gestión escolar"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿En qué plazo debe interponerse el recurso de apelación tras un fallo?",
+  "options": [
+   "24 horas",
+   "48 horas",
+   "Dentro de los tres días siguientes a la notificación"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuándo procede la suspensión inmediata de un trabajador de la educación antes de probar su culpabilidad?",
+  "options": [
+   "En cualquier caso de denuncia verbal por parte de un padre",
+   "Únicamente en los casos de reincidencia voluntaria en faltas graves (inciso a de faltas muy graves)",
+   "Nunca, ya que la presunción de inocencia es absoluta hasta la sentencia"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta comete un docente que utiliza a sus alumnos para servicio doméstico (variante 2)?",
+  "options": [
+   "Falta leve (según Art. 9, inciso g)",
+   "Falta muy grave con destitución inmediata",
+   "No es una falta, es parte de la formación técnica"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué plazo tiene el tribunal de apelación para confirmar o revocar un fallo disciplinario?",
+  "options": [
+   "24 horas",
+   "5 días",
+   "15 días desde la recepción de la apelación"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué es el 'Hostigamiento' en el ámbito escolar según las faltas graves?",
+  "options": [
+   "Pedir que el estudiante entregue su tarea a tiempo",
+   "Represalias contra alumnos por reclamaciones justificadas de sus padres",
+   "Organizar juegos durante el recreo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué es el 'Apercibimiento' en presencia de alumnos?",
+  "options": [
+   "Una falta grave que menoscaba la autoridad o dignidad del subordinado frente a los estudiantes",
+   "Un premio por puntualidad",
+   "Una técnica de enseñanza avanzada para motivar al grupo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta constituye el 'Alquiler de máquinas de la escuela para fines particulares'?",
+  "options": [
+   "Falta grave (Artículo 10, inciso r)",
+   "Falta leve",
+   "No es falta si el dinero se usa para comprar tizas"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuántos días de haber se pueden descontar por una falta leve?",
+  "options": [
+   "Hasta 15 días",
+   "De uno a cinco días",
+   "El sueldo de todo un mes"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta comete un docente que organiza una fiesta con bebidas alcohólicas en la escuela?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es la sanción por reincidencia voluntaria en faltas leves?",
+  "options": [
+   "Amonestación escrita",
+   "Se considera falta grave y se sanciona como tal",
+   "Retiro definitivo inmediato"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué constituye la falta grave tipificada en el inciso 'k' del Artículo 10?",
+  "options": [
+   "El apercibimiento u observación grave a un inferior en presencia de maestros o alumnos que menoscabe su dignidad",
+   "La suplantación de firmas en documentos",
+   "La inasistencia a desfiles cívicos"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿A qué falta corresponde 'no rendir cuentas de dineros recaudados por rifas o kermesses'?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué autoridad preside el Tribunal Disciplinario Nacional?",
+  "options": [
+   "El Director General de Educación",
+   "El Ministro de Justicia",
+   "Un representante de los padres de familia"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Quién designa al Presidente de un Tribunal Disciplinario Departamental?",
+  "options": [
+   "El Director Departamental de Educación en corresponsabilidad con la Federación de Maestros",
+   "El alcalde municipal",
+   "El Consejo Educativo de Pueblos Originarios"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el término para que el imputado presente su apelación tras el fallo?",
+  "options": [
+   "24 horas",
+   "3 días hábiles",
+   "5 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué sucede con una sanción impuesta sin cumplir las normas procesales del reglamento?",
+  "options": [
+   "Sigue vigente por principio de autoridad",
+   "Se tendrá por inexistente",
+   "Se reduce a la mitad automáticamente"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es 'la deserción elevada de alumnos causada por la ineptitud o malos tratos del maestro'?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el plazo para que la autoridad administrativa ejecute un fallo disciplinario tras recibir la Resolución Ministerial?",
+  "options": [
+   "Inmediatamente",
+   "Dentro de los tres días",
+   "Al mes siguiente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta constituye la 'usurpación de funciones' (variante 2)?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuántos miembros componen un tribunal disciplinario y cuáles son sus cargos?",
+  "options": [
+   "Tres: un Presidente, un Fiscal Promotor y un Secretario-Actuario",
+   "Dos: un Juez y un testigo",
+   "Cinco: representantes de todos los estamentos escolares"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué requisito deben cumplir los miembros de los tribunales respecto a los encauzados?",
+  "options": [
+   "Deben ser de menor jerarquía para evitar favoritismos",
+   "Deben ser de igual o superior jerarquía a la de los encauzados",
+   "Deben ser ajenos al sector educativo fiscal"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuándo procede la excusa o recusación de un miembro del tribunal?",
+  "options": [
+   "Cuando exista parentesco consanguíneo hasta el cuarto grado o vínculo espiritual",
+   "Cuando el miembro del tribunal no tenga el título de abogado",
+   "Siempre que el acusado lo solicite sin necesidad de prueba"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es 'la presentación en el centro de trabajo en estado de ebriedad'?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿A quién se aplica el Reglamento de Faltas y Sanciones?",
+  "options": [
+   "A todo el personal comprendido en los artículos 20 y 21 del Escalafón Nacional",
+   "Solamente a los maestros normalistas con más de 10 años de servicio",
+   "A los estudiantes y padres de familia que cometan actos de indisciplina",
+   "Solo al personal directivo y administrativo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué es una falta leve según el reglamento?",
+  "options": [
+   "El abandono de funciones por más de 10 días",
+   "El consumo de cigarrillos en ambientes escolares",
+   "La extorsión a los alumnos ofreciendo mejores notas",
+   "La falsificación de certificados oficiales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La reincidencia voluntaria en faltas leves se tipifica como:",
+  "options": [
+   "Falta Muy Grave con retiro definitivo",
+   "Falta Grave",
+   "Una nueva falta leve con el doble de sanción económica",
+   "Suspensión automática por 30 días"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es una sanción para faltas leves?",
+  "options": [
+   "Amonestación escrita o descuento de 1 a 5 días de haber",
+   "Suspensión de funciones por 90 días sin goce de pagos",
+   "Descenso inmediato a la última categoría del escalafón",
+   "Traslado obligatorio a zona fronteriza"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué tipo de falta es la 'extorsión a los alumnos ofreciendo calificaciones'?",
+  "options": [
+   "Falta Leve",
+   "Falta Muy Grave",
+   "Falta Grave",
+   "Conducta no sancionable si no hay pruebas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El 'empleo de castigos corporales contra la dignidad del alumno' es una:",
+  "options": [
+   "Falta Grave",
+   "Falta Leve",
+   "Acción permitida si los padres dan su consentimiento escrito",
+   "Falta Muy Grave"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es la sanción para una falta muy grave?",
+  "options": [
+   "Traslado a una zona fronteriza por dos años",
+   "Retiro definitivo del ejercicio del Magisterio o destitución",
+   "Suspensión de 15 a 60 días sin goce de haberes",
+   "Descenso inmediato a la última categoría del escalafón"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué autoridad sanciona las faltas leves?",
+  "options": [
+   "El Tribunal Disciplinario Departamental",
+   "El Ministro de Educación mediante resolución",
+   "La autoridad inmediata superior",
+   "El Director Nacional de Educación"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cómo se conforman los Tribunales Disciplinarios?",
+  "options": [
+   "Un Presidente, un Fiscal Promotor y un Secretario-Actuario",
+   "Tres maestros elegidos por voto secreto de los estudiantes",
+   "Dos abogados externos y un representante de la Iglesia Católica",
+   "El Director Distrital y dos maestros de la escuela"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el término para interponer el recurso de apelación?",
+  "options": [
+   "10 días hábiles",
+   "24 horas después de la notificación",
+   "Dentro de los tres días de la sentencia",
+   "5 días hábiles improrrogables"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué sucede con una sanción impuesta sin cumplir las normas procesales?",
+  "options": [
+   "Se tendrá por inexistente",
+   "Debe ser convalidada por el Tribunal Nacional inmediatamente",
+   "Se aplica de todas formas pero con la mitad de la pena",
+   "Se suspende hasta que se regularice el proceso"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La 'instigación inmoral a los alumnos' se castiga con demérito de:",
+  "options": [
+   "1 a 5 puntos en el escalafón",
+   "1 a 15 puntos en el escalafón",
+   "Retiro del bono de antigüedad por un año",
+   "Suspensión sin goce de haberes por 30 días"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta se considera Muy Grave relacionada con documentos oficiales?",
+  "options": [
+   "Falsificación de datos en informaciones oficiales o alteración de certificados",
+   "No entregar el registro de notas en la fecha exacta solicitada",
+   "Perder una libreta escolar por descuido personal",
+   "Presentar informes pedagógicos con retraso"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es un motivo de falta grave relacionado con el alcohol?",
+  "options": [
+   "Beber fuera del horario de trabajo en un domicilio privado",
+   "Organización o asistencia a fiestas con uso de bebidas alcohólicas en el establecimiento",
+   "Mencionar el uso de alcohol en una clase de biología",
+   "Comentar sobre bebidas alcohólicas en redes sociales personales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué periodo probatorio tiene el proceso disciplinario?",
+  "options": [
+   "20 días prorrogables por razón de distancia",
+   "5 días improrrogables para presentación de pruebas",
+   "1 año escolar completo",
+   "10 días hábiles sin prórroga"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Quién preside el Tribunal Disciplinario Nacional?",
+  "options": [
+   "El Ministro de Educación",
+   "El Director General de Educación",
+   "El Jefe del Departamento de Personal",
+   "El Director Departamental de Educación"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La 'usurpación de funciones' es tipificada como:",
+  "options": [
+   "Falta Grave",
+   "Falta Leve",
+   "Falta Muy Grave",
+   "Conducta no sancionable si no hay denuncia formal"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué sanción administrativa conlleva la 'invitación al uso de sustancias peligrosas'?",
+  "options": [
+   "Suspensión de 30 días",
+   "Traslado de lugar de trabajo a una zona alejada",
+   "Retiro definitivo del ejercicio del Magisterio",
+   "Descenso de dos categorías en el escalafón"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "En caso de denuncia verbal, ¿qué debe hacer el funcionario?",
+  "options": [
+   "Sentar un acta de la denuncia",
+   "Decirle al denunciante que regrese cuando la traiga por escrito",
+   "Ignorarla hasta que existan pruebas físicas",
+   "Derivarla directamente al Ministerio Público"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el término para que el tribunal dicte el fallo?",
+  "options": [
+   "24 horas",
+   "5 días",
+   "30 días calendario",
+   "10 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El consumo de cigarrillos en ambientes escolares es una:",
+  "options": [
+   "Falta Grave con suspensión",
+   "Falta Leve",
+   "Acción permitida solo en la sala de profesores",
+   "Falta Muy Grave con retiro definitivo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La 'Usurpación de funciones' se tipifica como:",
+  "options": [
+   "Falta Grave",
+   "Falta Leve",
+   "Falta Muy Grave con retiro definitivo",
+   "Conducta no sancionable sin denuncia formal"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es la sanción para las 'Faltas Leves'?",
+  "options": [
+   "Descenso de categoría inmediata",
+   "Amonestación escrita o descuento de 1 a 5 días de haber",
+   "Suspensión de un año sin goce de sueldo",
+   "Traslado a zona rural por un ciclo escolar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es la sanción para las 'Faltas Muy Graves'?",
+  "options": [
+   "Retiro definitivo del ejercicio del Magisterio o destitución",
+   "Multa del 50% del sueldo por tres meses",
+   "Traslado a una zona fronteriza por cinco años",
+   "Suspensión de 60 días sin goce de haberes"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "Organizar fiestas con alcohol en el establecimiento es una:",
+  "options": [
+   "Falta Leve si es fuera de horario de clases",
+   "Falta Grave",
+   "Tradición que no conlleva sanción administrativa",
+   "Falta Muy Grave si hay menores presentes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La falsificación de datos en informaciones oficiales es una:",
+  "options": [
+   "Falta Grave",
+   "Falta Muy Grave",
+   "Falta Leve que solo requiere una llamada de atención",
+   "Conducta sancionada solo penalmente, no administrativamente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El abandono de funciones por 5 días en escuelas urbanas es una:",
+  "options": [
+   "Falta Grave",
+   "Falta Leve",
+   "Causa de ascenso automático por valentía",
+   "Falta Muy Grave con retiro automático"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La 'Indisciplina manifiesta' hacia órdenes superiores es una:",
+  "options": [
+   "Falta Leve",
+   "Falta Grave",
+   "Falta Muy Grave",
+   "Conducta tolerada si es la primera vez"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La extorsión a los alumnos ofreciendo calificaciones es una:",
+  "options": [
+   "Falta Leve",
+   "Falta Grave",
+   "Falta Muy Grave que no requiere proceso previo",
+   "Conducta sancionada solo si hay denuncia escrita"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El empleo de castigos corporales contra la dignidad del alumno es:",
+  "options": [
+   "Falta Grave",
+   "Falta Leve si el golpe no deja moretones",
+   "Obligación del maestro según el antiguo código",
+   "Falta Muy Grave con retiro definitivo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "Los Tribunales Disciplinarios se componen de:",
+  "options": [
+   "Tres directores elegidos por sorteo nacional",
+   "Un Presidente, un Fiscal Promotor y un Secretario-Actuario",
+   "Dos abogados externos y un representante de la iglesia",
+   "El Director Distrital y dos maestros titulares"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Quién sanciona las 'Faltas Leves' de manera directa?",
+  "options": [
+   "El Tribunal Disciplinario Departamental",
+   "La autoridad inmediata superior",
+   "El Ministro de Educación únicamente",
+   "El Director Nacional de Educación"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El término para interponer el recurso de apelación es de:",
+  "options": [
+   "10 días hábiles",
+   "Dentro de los tres días de la sentencia",
+   "24 horas improrrogables",
+   "5 días calendario"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El tribunal de apelación debe confirmar o revocar el fallo en:",
+  "options": [
+   "5 días calendario",
+   "15 días",
+   "30 días hábiles",
+   "10 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "La 'Invitación al uso de sustancias peligrosas' se considera:",
+  "options": [
+   "Falta Leve",
+   "Falta Muy Grave",
+   "Falta Grave",
+   "Conducta no tipificada en el reglamento"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué es la 'Presunción de Inocencia' en el reglamento?",
+  "options": [
+   "El deber del maestro de probar que es bueno cada mes",
+   "Se presume la inocencia del encauzado mientras no se pruebe su culpabilidad",
+   "Que los niños nunca mienten en un proceso disciplinario",
+   "Que el director siempre debe dar el beneficio de la duda al acusado"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "Se tendrá por 'Sanción Inexistente' a toda sanción impuesta:",
+  "options": [
+   "Si no está escrita con tinta de color rojo",
+   "Sin el cumplimiento de las normas procesales del reglamento",
+   "Por un director que no tenga título de maestría",
+   "Sin la firma del representante sindical"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿En qué plazo se debe remitir la denuncia al Tribunal Departamental?",
+  "options": [
+   "En 10 días tras recibirla",
+   "Dentro de las 48 horas de recibida",
+   "Inmediatamente en la primera hora de trabajo",
+   "En un plazo máximo de 5 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El periodo probatorio del proceso disciplinario dura:",
+  "options": [
+   "10 días sin prórroga",
+   "20 días, prorrogables por razón de distancia",
+   "Un año escolar completo",
+   "30 días calendario improrrogables"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El 'Abandono injustificado de funciones' en su forma simple es:",
+  "options": [
+   "Falta Leve",
+   "Falta Grave",
+   "Falta Muy Grave",
+   "Motivo de destitución inmediata"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "El Reglamento de Faltas y Sanciones clasifica las faltas docentes en:",
+  "options": [
+   "Leves, graves y muy graves",
+   "Menores, medianas y mayores",
+   "Tipo A, Tipo B y Tipo C",
+   "Administrativas, pedagógicas y conductuales"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones"
+ },
+ {
+  "question": "Según el Reglamento de Faltas y Sanciones, el abandono injustificado del cargo por más de 3 días continuos se clasifica como falta:",
+  "options": [
+   "Leve, con amonestación verbal",
+   "Grave, con descuento de haberes",
+   "Muy grave, que puede ameritar destitución",
+   "Administrativa menor, con llamada de atención escrita"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones"
+ },
+ {
+  "question": "¿Cuál es la sanción para una falta leve según el Reglamento de Faltas y Sanciones del magisterio boliviano?",
+  "options": [
+   "Descuento de haberes por 30 días",
+   "Suspensión temporal del cargo",
+   "Amonestación escrita con registro en el file personal",
+   "Destitución del cargo docente"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones"
+ },
+ {
+  "question": "Según el Reglamento de Faltas y Sanciones, el acoso sexual cometido por un docente hacia un estudiante se clasifica como:",
+  "options": [
+   "Falta leve con amonestación escrita",
+   "Falta grave con suspensión de 30 días",
+   "Falta muy grave que puede llevar a la destitución inmediata y proceso penal",
+   "Una infracción administrativa sin consecuencias penales"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones"
+ },
+ {
+  "question": "El Reglamento de Faltas y Sanciones establece que la inasistencia injustificada a reuniones de padres convocadas por la dirección es:",
+  "options": [
+   "No es considerada falta según el reglamento vigente",
+   "Una falta leve que se registra en el file personal del docente",
+   "Una falta grave con descuento de haberes",
+   "Una falta muy grave que puede llevar a sumario"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones"
+ },
+ {
+  "question": "¿Qué plazo perentorio establece el Artículo 24 para la remisión de una denuncia al Tribunal Departamental una vez recibida por la autoridad?",
+  "options": [
+   "24 horas hábiles",
+   "Dentro de las 48 horas de recibida",
+   "72 horas calendario"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el término legal exacto para interponer un recurso de apelación de alzada tras un fallo de primera instancia?",
+  "options": [
+   "24 horas después de la notificación",
+   "48 horas incluyendo la fundamentación",
+   "3 días, incluyendo obligatoriamente la exposición de agravios"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Bajo qué circunstancia específica el Artículo 6 permite la suspensión inmediata del cargo antes de probarse la culpabilidad?",
+  "options": [
+   "En cualquier caso de falta grave que involucre fondos económicos",
+   "Únicamente en los casos de faltas muy graves tipificados en el inciso 'a' del artículo 11",
+   "Cuando la denuncia es presentada por el Ministerio Público en materia penal"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cómo se define jurídicamente una sanción disciplinaria impuesta sin el cumplimiento de las normas procesales del reglamento?",
+  "options": [
+   "Como sanción nula de pleno derecho",
+   "Se tendrá por inexistente según el Artículo 14",
+   "Debe ser convalidada por una Resolución Ministerial posterior"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Quién tiene la potestad legal de designar al Fiscal Promotor del Tribunal Nacional?",
+  "options": [
+   "El Director General de Educación",
+   "El Ministro de Educación y Cultura en corresponsabilidad con la Confederación de Trabajadores",
+   "El Consejo Nacional de Disciplina tras terna aprobada"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué tipo de falta es la 'inexistencia o alteración de comprobantes de gastos con fondos del establecimiento'?",
+  "options": [
+   "Falta leve por descuido administrativo",
+   "Falta grave por malversación de fondos",
+   "Falta muy grave según el inciso 'c' del Artículo 11"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el periodo máximo de suspensión de funciones sin goce de haber establecido para las faltas graves?",
+  "options": [
+   "De 10 a 30 días",
+   "De 15 a 60 días",
+   "Hasta 90 días calendario"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿En qué plazo debe el Tribunal de Apelación confirmar o revocar el fallo tras recibir la apelación?",
+  "options": [
+   "5 días hábiles",
+   "10 días calendario",
+   "En el término de 15 días"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta se tipifica por la 'subalternización de las instancias administrativas a intereses político-partidarios'?",
+  "options": [
+   "Falta leve por indisciplina",
+   "Falta grave por usurpación de funciones",
+   "Falta muy grave según el inciso 'll' del Artículo 11"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿A quién corresponde sancionar directamente las 'faltas leves' en el magisterio?",
+  "options": [
+   "Al Tribunal Disciplinario Departamental",
+   "A la autoridad inmediata superior",
+   "Al Consejo Técnico de la Unidad Educativa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué autoridad preside el Tribunal Disciplinario Departamental?",
+  "options": [
+   "El Director Distrital",
+   "Un Presidente designado por el Director Departamental (Urbano o Rural)",
+   "El Jefe de la Unidad Jurídica de la DDE"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿En qué tiempo deben ejecutarse los fallos disciplinarios tras recibir la Resolución Ministerial?",
+  "options": [
+   "Inmediatamente",
+   "Dentro de tres días de la recepción",
+   "72 horas hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el término para remitir obrados para la revisión o apelación ante el Tribunal Nacional?",
+  "options": [
+   "24 horas",
+   "48 horas después del término de apelación",
+   "3 días hábiles"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta se tipifica por la 'venta de pruebas de exámenes y cobros por inscripción'?",
+  "options": [
+   "Falta grave por exacciones",
+   "Falta muy grave según el inciso 'd' del Artículo 11",
+   "Delito penal de estafa"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta comete quien utiliza a los alumnos en servicios domésticos o particulares?",
+  "options": [
+   "Falta grave",
+   "Falta leve según el inciso 'h' del Artículo 9",
+   "Falta muy grave por explotación infantil"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es el 'alquiler de locales escolares para fines particulares'?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué sucede si un director no rinde cuentas de dineros de kermesses?",
+  "options": [
+   "Se le amonesta por escrito",
+   "Es falta grave",
+   "Es falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el término legal para la citación del imputado?",
+  "options": [
+   "12 horas",
+   "24 horas",
+   "48 horas"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Quién emite la Resolución Ministerial con calidad de cosa juzgada?",
+  "options": [
+   "El Tribunal Nacional directamente",
+   "El Ministerio de Educación tras el fallo del Tribunal Nacional",
+   "El Presidente de la República"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es la 'ineficiente labor manifiesta en la gestión administrativa'?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuántos días de suspensión corresponden a una falta grave (rango máximo)?",
+  "options": [
+   "30 días",
+   "60 días",
+   "90 días"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es la 'obtención de renuncias en blanco'?",
+  "options": [
+   "Falta grave",
+   "Falta muy grave",
+   "Coacción administrativa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el término para remitir obrados para apelación tras vencer el plazo de interposición?",
+  "options": [
+   "24 horas",
+   "48 horas",
+   "72 horas"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Bajo qué grado de parentesco procede la recusación de un miembro del tribunal?",
+  "options": [
+   "Segundo grado",
+   "Cuarto grado de consanguinidad",
+   "Sexto grado"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es el 'descuido de alumnos en excursiones'?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Cuál es el plazo para dictar el fallo tras el periodo probatorio?",
+  "options": [
+   "3 días",
+   "5 días",
+   "15 días"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es el 'cobro de haberes sin prestación de servicios'?",
+  "options": [
+   "Falta grave",
+   "Falta muy grave",
+   "Estafa al Estado"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Dónde tiene su sede el Tribunal Disciplinario Nacional?",
+  "options": [
+   "En cada capital de departamento",
+   "En la ciudad de La Paz",
+   "En el Ministerio de Justicia"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué sanción tiene el 'descuento de haber' por falta leve (rango)?",
+  "options": [
+   "1 a 3 días",
+   "1 a 5 días",
+   "10% del haber mensual"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es la 'reincidencia voluntaria en faltas leves'?",
+  "options": [
+   "Falta leve agravada",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es la 'organización de bandas delincuenciales'?",
+  "options": [
+   "Falta grave",
+   "Falta muy grave",
+   "Delito penal solamente"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es la 'participación en compra-venta de útiles con librerías'?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es la 'venta de pruebas de exámenes' (variante 2)?",
+  "options": [
+   "Falta grave",
+   "Falta muy grave",
+   "Delito de estafa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es el 'uso indebido de títulos o sellos oficiales'?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ },
+ {
+  "question": "¿Qué falta es la 'usurpación de funciones'?",
+  "options": [
+   "Falta leve",
+   "Falta grave",
+   "Falta muy grave"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Reglamento de Faltas y Sanciones RS 212414"
+ }
+]

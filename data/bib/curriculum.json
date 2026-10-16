@@ -1,0 +1,1188 @@
+[
+ {
+  "question": "Según Gimeno Sacristán, el 'abismo teleológico' del currículum se refiere a:",
+  "options": [
+   "La profundidad de los saberes científicos que el alumno no logra alcanzar por falta de bases",
+   "El tiempo que transcurre entre el diseño de una ley educativa y su implementación en el aula",
+   "La distancia existente entre el discurso de los ideales educativos y la realidad de la práctica pedagógica",
+   "La diferencia entre el currículum formal y el currículum oculto en las escuelas"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué es la 'transposición pragmática' en el ámbito del currículum?",
+  "options": [
+   "La traducción de los objetivos generales de las leyes a un lenguaje comprensible para los padres",
+   "El proceso de convertir los saberes científicos en saberes escolares asimilables (Comenio)",
+   "La conversión del plan de estudios en experiencias, tareas y actividades reales de clase",
+   "La adaptación del currículum oficial a las necesidades locales de cada municipio"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es la 'primera limitación' que impone el libro de texto como objeto pedagógico?",
+  "options": [
+   "Su alto costo económico que genera desigualdad social en el acceso a la cultura",
+   "Obliga a acudir al archivo de la experiencia de otros de forma vicaria",
+   "Su estructura rígida que impide al docente cambiar el orden de los temas",
+   "La ausencia de imágenes que dificulta la comprensión visual"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué significa que la escuela secundaria sea 'comprensiva'?",
+  "options": [
+   "Que el profesor debe comprender y perdonar los retrasos en las entregas de tareas",
+   "Mantener a todos los alumnos juntos bajo un currículum común sin segregarlos por capacidades",
+   "Evaluar a cada alumno según su propio nivel de esfuerzo y no por estándares comunes",
+   "Ofrecer materias opcionales según las capacidades de cada estudiante"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "El 'currículum oculto' según Jackson produce aprendizajes como:",
+  "options": [
+   "Resolver ecuaciones de segundo grado y algoritmos",
+   "Aprender a vivir en una masa, a esperar y a obedecer al poder",
+   "Identificar la flora y fauna de la región geográfica propia",
+   "Desarrollar habilidades de liderazgo democrático"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿Cuál es el 'currículum formal'?",
+  "options": [
+   "El plan de estudios propuesto e impuesto por la administración educativa",
+   "El conjunto de tareas que los alumnos realizan diariamente en el aula",
+   "Las normas de comportamiento que no están escritas pero se cumplen",
+   "El conjunto de saberes que el maestro decide enseñar por iniciativa propia"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cómo se define el 'currículum real' según Perrenoud?",
+  "options": [
+   "El conjunto de objetivos y competencias básicas regulados en la Ley Orgánica",
+   "Un trabajo negociado y una confrontación de estrategias entre maestro y alumnos",
+   "La selección de contenidos que los especialistas consideran cultos y valiosos",
+   "El currículum oficial aplicado de forma fiel en todas las aulas del país"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "Según Perrenoud, un 'inadaptado escolar' es aquel alumno que:",
+  "options": [
+   "A los 10 años no domina la lecto-escritura, lo que le impide comprender lo que se espera de él",
+   "Muestra una conducta rebelde y cuestiona constantemente la autoridad del docente",
+   "No logra integrarse socialmente con sus compañeros debido a su timidez extrema",
+   "Obtiene calificaciones inferiores a la media en más de tres materias"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿Qué es la 'transposición didáctica' según el análisis del currículum?",
+  "options": [
+   "El proceso de llevar los libros de texto de la biblioteca al aula",
+   "La elaboración de la cultura para que sea asimilable por receptores determinados",
+   "La traducción literal de las leyes educativas a reglamentos internos",
+   "La adaptación del currículum oficial a los estándares internacionales"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué es la 'micropolítica' en las escuelas?",
+  "options": [
+   "La política nacional que se enseña a los niños pequeños",
+   "El uso del poder formal e informal para alcanzar metas individuales o grupales",
+   "La organización de los desfiles escolares y actos cívicos",
+   "El proceso de elección del consejo estudiantil por voto secreto"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "La 'sospecha epistémica' a los docentes sugiere que:",
+  "options": [
+   "Los alumnos siempre intentan engañar en las pruebas",
+   "La enseñanza no garantiza mecánicamente el aprendizaje",
+   "El conocimiento científico es siempre una construcción política",
+   "Los libros de texto contienen errores que deben ser verificados"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "El 'conocimiento escolar' se define como:",
+  "options": [
+   "Una copia exacta y simplificada de la cultura académica de los especialistas",
+   "Una construcción peculiar modelada por los usos y el contexto de la institución",
+   "El conjunto de saberes vulgares que el niño adquiere fuera de la escuela",
+   "Los contenidos del currículum formal aplicados fielmente en el aula"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es el principal 'pecado por omisión' de un maestro en la gestión del currículum real?",
+  "options": [
+   "No seguir el orden de los capítulos del libro de texto",
+   "Privilegiar deliberadamente ciertos contenidos y dejar otros fuera por falta de tiempo",
+   "Permitir que los alumnos hablen durante la clase magistral",
+   "No entregar las planificaciones en la fecha establecida por la dirección"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿Qué es el 'oficio de alumno' según Perrenoud?",
+  "options": [
+   "La vocación por las ciencias que muestran los alumnos con altas capacidades",
+   "El aprendizaje de las reglas del juego para sobrevivir en la institución escolar",
+   "La formación técnica en talleres para insertarse en el mercado laboral",
+   "El conjunto de hábitos de estudio que el alumno desarrolla en casa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "En el 'oficio de alumno', aprender la 'paciencia' significa:",
+  "options": [
+   "Desarrollar la virtud de esperar el turno de palabra en debates",
+   "Acostumbrarse al aburrimiento, la espera y la pasividad como algo inevitable",
+   "Persistir en la resolución de problemas matemáticos muy largos",
+   "Tolerar las diferencias de opinión con los compañeros de clase"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "La metáfora de la 'comedia dell'arte' aplicada a la enseñanza sugiere que:",
+  "options": [
+   "El maestro realiza variaciones libres sobre temas o programas que le son impuestos",
+   "Los alumnos deben actuar como personajes de ficción para aprender historia",
+   "La educación es una farsa social donde nadie adquiere conocimientos reales",
+   "Los docentes deben seguir el currículum oficial sin ninguna adaptación"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "Según Gimeno Sacristán, el currículum actúa como un 'regulador de personas' principalmente porque:",
+  "options": [
+   "Dicta el código de vestimenta y comportamiento moral de los alumnos",
+   "Asocia contenidos y niveles de requerimiento a la edad, definiendo la 'progresión' normal",
+   "Obliga a los docentes a presentar informes administrativos semanales",
+   "Establece los estándares mínimos de aprendizaje para cada nivel educativo"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "La idea de la 'escuela a la medida del niño' de Claparède propone:",
+  "options": [
+   "Que los alumnos deben diseñar y confeccionar su propio uniforme escolar",
+   "Adaptar el tratamiento pedagógico a las capacidades y aptitudes individuales",
+   "Construir edificios escolares cuyas aulas sean proporcionales al tamaño del niño",
+   "Permitir que los estudiantes elijan sus propios horarios y materias"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Rafael Feito señala que es un 'fraude de ley' en la educación secundaria:",
+  "options": [
+   "El uso de fotocopias y materiales piratas en lugar de libros de texto originales",
+   "Dividir las matemáticas en nivel A y B en 4º de la ESO para separar alumnos",
+   "Permitir que los alumnos de zonas rurales salgan antes del horario oficial",
+   "Aplicar evaluaciones distintas según el nivel socioeconómico de los estudiantes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es la limitación 'monopolista' del libro de texto en el aula?",
+  "options": [
+   "Que suele ser la única fuente de información disponible para el estudiante",
+   "Que es el único material que el Ministerio de Educación permite usar legalmente",
+   "Que contiene la verdad científica absoluta y final sobre todos los temas del saber",
+   "Que su costo impide que todos los estudiantes tengan acceso igualitario"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "El fracaso escolar es definido como:",
+  "options": [
+   "Una falta innata de capacidad cognitiva en ciertos grupos sociales",
+   "El resultado de que los alumnos no estudian lo suficiente en casa",
+   "Una consecuencia del funcionamiento de la escuela y su falta de acogida a lo diverso",
+   "Un problema de origen genético e irreversible presente en sectores populares"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "En el aprendizaje por competencias, ¿qué significa que un conocimiento sea 'transferible'?",
+  "options": [
+   "Que se puede copiar de un cuaderno a otro con facilidad",
+   "Que puede aplicarse eficazmente en situaciones novedosas e inesperadas",
+   "Que el docente puede pasárselo al alumno mediante el dictado",
+   "Que puede ser evaluado por otros docentes de la misma área"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Según el Proyecto Educativo Nacional al 2021 (Perú), el Objetivo Estratégico 3 es:",
+  "options": [
+   "Oportunidades y resultados educativos de igual calidad para todos",
+   "Maestros bien preparados que ejercen profesionalmente la docencia",
+   "Una gestión descentralizada, democrática y financiada con equidad",
+   "Estudiantes que logran aprendizajes pertinentes y de calidad"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "La 'transposición didáctica' según Comenio consiste en:",
+  "options": [
+   "Elaborar la cultura para que sea asimilable por receptores determinados",
+   "El arte de enseñar a muy pocos alumnos las cosas más difíciles del saber",
+   "Traducir el currículum del latín clásico a las lenguas vernáculas o vulgares",
+   "Adaptar los libros de texto a las características regionales de cada escuela"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "La característica esencial de la 'escolaridad obligatoria comprensiva' es:",
+  "options": [
+   "Agrupar a los alumnos en aulas diferentes según su nivel de cociente intelectual",
+   "Permitir que cada estudiante elija estudiar únicamente lo que logra comprender",
+   "Mantener a todos los alumnos juntos bajo un currículum común sin segregarlos",
+   "Ofrecer tres niveles de dificultad distintos dentro de la misma aula"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué busca medir específicamente el informe PISA en contraste con la evaluación tradicional?",
+  "options": [
+   "La memorización exacta de datos fácticos y fechas históricas",
+   "La capacidad de aplicar conocimientos a situaciones complejas y reales",
+   "El nivel de disciplina y cumplimiento de las tareas para casa",
+   "La cantidad de contenidos cubiertos durante el año escolar"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Jackson identifica tres características del currículum oculto que los alumnos aprenden para sobrevivir:",
+  "options": [
+   "Libertad de cátedra, competitividad extrema y búsqueda de la excelencia individual",
+   "Creatividad divergente, innovación constante y pensamiento crítico autónomo",
+   "Multitud (vivir en masa), elogio (ser juzgado) y poder (obedecer a la autoridad)",
+   "Cooperación, respeto mutuo y responsabilidad social compartida"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿Por qué se dice que el currículum actúa como un 'regulador de personas'?",
+  "options": [
+   "Porque establece el color y tipo de uniforme obligatorio para todos los estudiantes",
+   "Porque asocia contenidos y niveles de requerimiento a la edad del sujeto",
+   "Porque prohíbe el uso de dispositivos electrónicos personales durante el horario lectivo",
+   "Porque determina el número máximo de estudiantes por aula en cada nivel"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "El principio de 'sospecha epistémica' invita al docente a:",
+  "options": [
+   "Sospechar que todos los manuales escolares contienen errores científicos graves",
+   "Creer que los estudiantes siempre intentarán engañarlo durante las evaluaciones",
+   "Entender que el hecho de enseñar no garantiza que el otro esté aprendiendo",
+   "Desconfiar de las reformas educativas impuestas por el Ministerio"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "Históricamente, el 'trivium' estaba compuesto por las disciplinas literarias de:",
+  "options": [
+   "Música, Astronomía y Geometría",
+   "Aritmética, Álgebra y Cálculo Diferencial",
+   "Gramática, Dialéctica y Retórica",
+   "Historia, Geografía y Ciencias Naturales"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Un diseño curricular 'centrado en el aula' debe tomar decisiones basadas en:",
+  "options": [
+   "Las tendencias mundiales de la economía globalizada",
+   "Los sujetos reales (alumnos) y su contexto sociocultural específico",
+   "La cantidad de páginas que tiene el libro de texto oficial",
+   "Los resultados de las últimas pruebas estandarizadas internacionales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es la principal diferencia entre la evaluación PISA y la evaluación tradicional española?",
+  "options": [
+   "PISA califica el comportamiento, mientras que la tradicional califica solo el intelecto",
+   "PISA evalúa la aplicación de saberes a la vida real; la tradicional suele ser fáctica y memorística",
+   "PISA se realiza de forma oral y la tradicional se basa exclusivamente en tests escritos",
+   "PISA es anónima mientras que la evaluación tradicional identifica a cada estudiante"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es la diferencia entre el currículum 'prescrito' y el currículum 'procesado' según Sacristán?",
+  "options": [
+   "El prescrito es lo que aprenden los alumnos; el procesado es lo que planifica el maestro",
+   "El prescrito es el diseño oficial normativo; el procesado es la interpretación que hace el docente de ese diseño",
+   "El prescrito incluye solo matemáticas y lengua; el procesado incluye todas las materias",
+   "El prescrito es antiguo y obsoleto; el procesado es la versión actualizada del currículo"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué entiende Perrenoud por 'trabajo escolar' en el contexto del oficio de alumno?",
+  "options": [
+   "Las tareas domésticas que los alumnos realizan fuera del horario escolar",
+   "Un conjunto de tareas fragmentadas, repetitivas, supervisadas y descontextualizadas de la vida real",
+   "La investigación científica autónoma que los alumnos desarrollan por iniciativa propia",
+   "Las actividades extracurriculares que complementan la formación académica formal"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿Qué critica Sacristán sobre el uso exclusivo del libro de texto como recurso pedagógico?",
+  "options": [
+   "Que es demasiado costoso y los alumnos de bajos recursos no pueden acceder a él",
+   "Que monopoliza el currículum, limita la experiencia directa y vicaria del alumno",
+   "Que no incluye contenidos actualizados sobre tecnología e innovación",
+   "Que su estructura visual no es compatible con el estilo de aprendizaje kinestésico"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cómo define Gimeno Sacristán la función social del currículum?",
+  "options": [
+   "Como un instrumento para transmitir la cultura y los valores de una sociedad a las nuevas generaciones",
+   "Como un manual técnico para planificar las clases de manera eficiente y ordenada",
+   "Como una herramienta para medir el rendimiento de los maestros ante las autoridades educativas",
+   "Como un documento administrativo que organiza los horarios y recursos de la escuela"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué implica el concepto de 'currículum como ámbito de estudio' según la teoría curricular?",
+  "options": [
+   "Que el currículum solo puede ser diseñado por especialistas universitarios",
+   "Que el currículum es un campo de investigación y reflexión sobre qué enseñar, cómo y para qué",
+   "Que los docentes deben estudiar el currículum para memorizarlo y aplicarlo fielmente",
+   "Que el currículum es un objeto estático que no puede ser modificado por los docentes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿En qué consiste la 'racionalidad técnica' criticada en el diseño curricular tradicional?",
+  "options": [
+   "En el uso excesivo de tecnología digital en las aulas a expensas de las relaciones humanas",
+   "En concebir el currículum como un producto técnico con objetivos medibles, ignorando su dimensión social y cultural",
+   "En la racionalización del tiempo escolar para maximizar el contenido impartido por hora",
+   "En el uso exclusivo de pruebas objetivas para evaluar el rendimiento académico"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué papel juega el 'contexto' en el diseño curricular según el enfoque crítico?",
+  "options": [
+   "El contexto es irrelevante porque el currículum debe ser universal y aplicable en cualquier lugar",
+   "El contexto social, cultural y económico determina la pertinencia y relevancia del currículum",
+   "El contexto solo importa en zonas rurales pero no en las escuelas urbanas",
+   "El contexto afecta solo al currículo oculto, no al formal ni al prescrito"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es la crítica principal de Philip Jackson al concepto de 'aprendizaje escolar'?",
+  "options": [
+   "Que los maestros no están suficientemente preparados para transmitir el conocimiento",
+   "Que la escuela enseña muchas cosas no intencionadas a través del currículum oculto",
+   "Que los libros de texto son demasiado difíciles para la mayoría de los estudiantes",
+   "Que las evaluaciones no miden adecuadamente los conocimientos adquiridos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "Según Perrenoud, ¿por qué el fracaso escolar no puede atribuirse exclusivamente al alumno?",
+  "options": [
+   "Porque los maestros son los únicos responsables del rendimiento académico",
+   "Porque la escuela como institución genera las condiciones que producen el fracaso",
+   "Porque los padres son los principales responsables del aprendizaje de sus hijos",
+   "Porque el sistema económico impide que todos los niños tengan las mismas oportunidades"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿Cuál es el 'currículum en acción' según la teoría curricular de Sacristán?",
+  "options": [
+   "El currículum que se publica en el Diario Oficial del Estado",
+   "Lo que realmente ocurre en el aula cuando el maestro implementa su planificación",
+   "El currículum que los alumnos aprenden de forma autónoma en casa",
+   "El currículum que los especialistas debaten en congresos académicos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué consecuencias tiene el 'abismo teleológico' para la práctica docente cotidiana?",
+  "options": [
+   "Que los maestros deben memorizar todos los objetivos del currículum formal",
+   "Que existe una brecha permanente entre los ideales educativos y lo que realmente se logra en el aula",
+   "Que los estudiantes no comprenden el propósito de lo que estudian en la escuela",
+   "Que el Ministerio debe revisar y actualizar el currículum cada cinco años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué significa que el currículum sea un 'territorio en disputa'?",
+  "options": [
+   "Que diferentes grupos sociales y políticos pugnan por definir qué conocimientos y valores se enseñan",
+   "Que los maestros y los directores siempre están en conflicto sobre los contenidos a enseñar",
+   "Que los alumnos rechazan los contenidos impuestos y proponen su propio currículum",
+   "Que existe una competencia entre libros de texto de diferentes editoriales"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cómo se relaciona el currículum oculto con la reproducción de desigualdades sociales?",
+  "options": [
+   "El currículum oculto siempre genera igualdad porque trata a todos los alumnos por igual",
+   "Transmite normas, valores y formas de comportamiento que favorecen a ciertos grupos sociales sobre otros",
+   "El currículum oculto es neutral y no tiene ningún impacto en la estructura social",
+   "El currículum oculto solo afecta a los alumnos de bajos recursos económicos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿Qué es el 'pensamiento crítico' y cómo se desarrolla en el contexto escolar?",
+  "options": [
+   "La capacidad de memorizar y reproducir los argumentos del maestro de forma precisa",
+   "La habilidad de analizar, evaluar y cuestionar información para construir juicios fundamentados",
+   "La disposición a obedecer las normas del reglamento escolar sin cuestionarlas",
+   "La velocidad para responder preguntas de opción múltiple en evaluaciones estandarizadas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué implica el concepto de 'aprendizaje significativo' de Ausubel para la práctica docente?",
+  "options": [
+   "Que el aprendizaje ocurre solo cuando el contenido tiene relevancia emocional para el alumno",
+   "Que el nuevo conocimiento se conecta con los saberes previos del alumno de forma no arbitraria ni literal",
+   "Que el maestro debe usar ejemplos de la vida cotidiana en cada clase para motivar",
+   "Que el aprendizaje significativo solo es posible en contextos de aprendizaje cooperativo"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué es el 'andamiaje' pedagógico y cuándo debe retirarse?",
+  "options": [
+   "La decoración del aula con materiales didácticos visuales que apoyan el aprendizaje",
+   "El apoyo temporal que el docente ofrece al alumno y que debe reducirse a medida que el alumno gana autonomía",
+   "La estructura rígida del currículum formal que organiza los contenidos por niveles",
+   "Los recursos materiales que el Estado provee a las escuelas para el aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué es el 'aprendizaje cooperativo' y cuáles son sus condiciones básicas para ser efectivo?",
+  "options": [
+   "Un método donde el más inteligente del grupo hace el trabajo y los demás observan",
+   "Una estrategia donde los alumnos trabajan juntos con interdependencia positiva, responsabilidad individual y habilidades sociales",
+   "Un sistema donde los alumnos se evalúan mutuamente para sustituir la evaluación del maestro",
+   "Una técnica donde el maestro divide el contenido en partes iguales para cada alumno"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué plantea la 'pedagogía crítica' de Paulo Freire sobre el rol del docente?",
+  "options": [
+   "El docente es un técnico que transmite conocimientos de forma neutral y objetiva",
+   "El docente debe ser un intelectual transformador que problematiza la realidad con los alumnos en lugar de 'depositar' conocimiento",
+   "El docente es un evaluador objetivo que mide el rendimiento sin involucrarse emocionalmente",
+   "El docente debe seguir el currículum prescrito sin cuestionarlo para garantizar la calidad"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿Cuál es la visión del constructivismo sobre el rol del alumno en el aprendizaje?",
+  "options": [
+   "El alumno es un receptor pasivo que asimila el conocimiento transmitido por el maestro",
+   "El alumno construye activamente su conocimiento a través de la interacción con el entorno y los otros",
+   "El alumno solo aprende cuando recibe instrucción directa del maestro certificado",
+   "El alumno debe adaptarse al ritmo del grupo para no retrasar el avance del currículo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cómo define Goodlad el 'currículum básico'?",
+  "options": [
+   "Los contenidos que los padres consideran importantes para sus hijos",
+   "Una especificación de los campos estimados esenciales para todos los estudiantes",
+   "El conjunto de materias optativas de libre elección"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Según Apple, ¿cuál es una de las principales críticas al currículum básico obligatorio?",
+  "options": [
+   "Que es demasiado corto y fácil para los alumnos",
+   "Que impone una supuesta 'cultura común' que es en realidad una imposición neoconservadora",
+   "Que no incluye suficientes horas de educación física"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué implica la 'interdisciplinariedad' en el diseño curricular?",
+  "options": [
+   "Que cada profesor se especialice solo en su propia materia",
+   "La relación de conocimientos de distintas materias para construir un conocimiento nuevo y relevante",
+   "Eliminar todas las materias para enseñar solo valores morales"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Etimológicamente, ¿qué significaba 'currículum' en su origen romano?",
+  "options": [
+   "Un libro de leyes",
+   "El camino o carrera de honores (cursus honorum)",
+   "El registro de impuestos"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué función unificadora cumple el currículum según Gimeno Sacristán?",
+  "options": [
+   "Actúa como una partitura que articula episodios aislados de acciones",
+   "Obliga a todos los alumnos a vestir el mismo uniforme",
+   "Elimina la necesidad de que existan profesores especialistas"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es el riesgo de la 'escuela graduada' respecto a la diversidad?",
+  "options": [
+   "Que permite que cada niño aprenda a su propio ritmo sin límites",
+   "Que establece una norma de progreso lineal que etiqueta como 'anormal' a quien se desvía del ritmo estándar",
+   "Que es demasiado económica y baja la calidad"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué es el 'currículum oculto' según Philippe Perrenoud?",
+  "options": [
+   "Los planes de estudio que la administración no publica",
+   "Los aprendizajes derivados de las rutinas y normas de la vida escolar no explicitados",
+   "Las materias que solo se enseñan en escuelas privadas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿A qué se refiere la 'balcanización curricular' mencionada por Rafael Feito?",
+  "options": [
+   "A la enseñanza de la historia de los países balcánicos",
+   "A la fragmentación del conocimiento en asignaturas aisladas e inconexas",
+   "Al proceso de descentralización de los centros escolares"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Feito Alonso"
+ },
+ {
+  "question": "Según el texto, ¿cuál es el 'monopolio' que ostenta el libro de texto en las aulas?",
+  "options": [
+   "Es la única herramienta legal permitida",
+   "Es la fuente de información prácticamente exclusiva, mediadora de la cultura en clase",
+   "Es el que decide los salarios de los profesores"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué caracteriza a la 'escuela comprensiva'?",
+  "options": [
+   "La separación de alumnos por niveles de capacidad desde los 6 años",
+   "El mantenimiento de todos los alumnos juntos con un currículum común, evitando la segregación temprana",
+   "La enseñanza basada únicamente en la memorización de catecismos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué es el 'currículum real' en comparación con el formal?",
+  "options": [
+   "El que aparece exclusivamente en el Boletín Oficial del Estado",
+   "El que se lleva a cabo de verdad en la práctica escolar cotidiana ante sucesos inesperados",
+   "El que los alumnos estudian solos en su casa sin ayuda del docente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué implica la 'socialización homogeneizadora' de la escuela?",
+  "options": [
+   "Fomentar que cada alumno sea totalmente distinto a los demás",
+   "Compartir rasgos de pensamiento, valores y reglas comunes con otros",
+   "Eliminar las materias de ciencias para enseñar solo artes"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Según Rafael Feito, ¿cuál es la principal función de los exámenes tradicionales hoy en día?",
+  "options": [
+   "Fomentar la creatividad del alumnado",
+   "Actuar como mecanismos para librarse de los alumnos menos 'académicos'",
+   "Ayudar a que todos los niños sean felices"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Feito Alonso"
+ },
+ {
+  "question": "¿Qué sugiere el concepto de 'intermediación didáctica'?",
+  "options": [
+   "Que el conocimiento científico debe pasar directamente al alumno sin cambios",
+   "Que la cultura debe ser elaborada y transformada para ser asimilable por los estudiantes",
+   "Que el profesor debe ser sustituido por una máquina"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "En la escuela, ¿qué significa aprender el 'oficio de alumno'?",
+  "options": [
+   "Estudiar para ser profesor en el futuro",
+   "Adquirir los saberes, reglas y actitudes necesarios para sobrevivir y funcionar en la organización escolar",
+   "Aprender una técnica manual como carpintería o albañilería"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿Qué problema plantea Gimeno sobre la evaluación de la calidad educativa?",
+  "options": [
+   "Que es imposible medir nada en educación",
+   "Que los fines educativos más profundos (solidaridad, autonomía) no son fácilmente cuantificables",
+   "Que se gasta demasiado dinero en papel para los exámenes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es la 'miseria' del libro de texto según Gimeno?",
+  "options": [
+   "Que es muy caro para las familias",
+   "Que reduce y depaupera la cultura al ser el único mediador, limitando otras fuentes de experiencia",
+   "Que las cubiertas no son lo suficientemente coloridas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "La 'pedagogía de la complejidad' busca que:",
+  "options": [
+   "Los exámenes sean tan difíciles que nadie pueda aprobar",
+   "Las tareas sean retadoras y atractivas para todos sin obligar a todos a hacer lo mismo",
+   "Se enseñe física cuántica en la educación infantil"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué define al 'ámbito político' del currículum?",
+  "options": [
+   "La selección de la cultura escolar y los objetivos generales del sistema",
+   "La elección del color de las paredes del centro",
+   "El control de la asistencia de los padres a las reuniones"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es el significado de la 'originalidad' en el entorno escolar según Stuart Mill?",
+  "options": [
+   "Es el valor más premiado por todos los profesores tradicionales",
+   "Es algo que los seres vulgares (o la norma escolar) no pueden comprender ni tolerar",
+   "Es la capacidad de copiar exactamente lo que dice el libro"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "El 'currículum formal' se puede comparar metafóricamente con:",
+  "options": [
+   "La música que se ejecuta en vivo",
+   "La trama o la partitura de una obra",
+   "El público que asiste al concierto"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "En la 'pedagogía por objetivos', Gimeno critica la obsesión por:",
+  "options": [
+   "El bienestar del alumno",
+   "La eficiencia y la medición de conductas observables",
+   "El uso de cuentos en clase"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Según Gimeno Sacristán, ¿qué función paradójica cumple el currículum?",
+  "options": [
+   "Unifica la enseñanza pero refuerza las fronteras entre asignaturas",
+   "Da libertad total al profesor pero limita el aprendizaje del alumno",
+   "Es un plan de estudios secreto que solo conocen los directores"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué riesgo conlleva la 'escuela graduada' respecto al progreso de los alumnos?",
+  "options": [
+   "Que permite que todos los niños sean genios al mismo tiempo",
+   "Que establece un ritmo normalizado que etiqueta como 'anormal' a quien se desvía",
+   "Que elimina la necesidad de realizar exámenes y evaluaciones"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué es el 'currículum oculto' según Philippe Perrenoud (segunda variante)?",
+  "options": [
+   "Los libros que están prohibidos por la administración escolar",
+   "Las lecciones que los profesores enseñan fuera del horario oficial",
+   "Aprendizajes derivados de rutinas y normas de la vida escolar no explicitados"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "¿A qué se refiere Rafael Feito con la 'balcanización curricular' (variante 2)?",
+  "options": [
+   "Al estudio exclusivo de la geografía europea",
+   "A la fragmentación del conocimiento en asignaturas aisladas e inconexas",
+   "Al proceso de descentralización administrativa de los centros"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Feito Alonso"
+ },
+ {
+  "question": "¿Qué caracteriza a la 'escuela comprensiva' (variante 2)?",
+  "options": [
+   "Mantener a todos los alumnos juntos con un currículum común el mayor tiempo posible",
+   "Separar a los alumnos por su coeficiente intelectual desde los 6 años",
+   "Ofrecer solo materias artísticas para que todos comprendan el mundo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Según Rafael Feito, ¿en qué consiste aprender el 'oficio de alumno'?",
+  "options": [
+   "Estudiar para ser un futuro profesor universitario",
+   "Adquirir las reglas y actitudes necesarias para funcionar en la organización escolar",
+   "Aprender una técnica manual como carpintería o costura dentro del aula"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Feito Alonso"
+ },
+ {
+  "question": "¿Qué implica la 'intermediación didáctica' en la enseñanza (variante 2)?",
+  "options": [
+   "Que el docente no debe intervenir para que el niño aprenda solo",
+   "Que la cultura científica debe ser transformada para ser asimilable por los estudiantes",
+   "Que los padres deben ser los únicos mediadores del conocimiento"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Cuál es el problema de la 'pedagogía por objetivos' según Gimeno?",
+  "options": [
+   "La obsesión por la eficiencia y la medición de conductas observables",
+   "Que no plantea metas claras para los estudiantes distraídos",
+   "Que es demasiado cara de implementar en países en desarrollo"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué propone la 'globalización curricular' inspirada en Decroly?",
+  "options": [
+   "Que todas las escuelas del mundo usen el mismo libro de texto",
+   "Organizar el conocimiento en 'centros de interés' basados en necesidades infantiles",
+   "Estudiar solo temas relacionados con la economía global"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿A qué se refiere la 'inseguridad lingüística' según Alain Bentolila?",
+  "options": [
+   "Al miedo a hablar en un idioma extranjero como el inglés",
+   "A la incapacidad de expresar con precisión el pensamiento propio, lo que genera exclusión",
+   "A no saber escribir correctamente en una computadora"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué caracteriza a una 'pedagogía de la complejidad' (variante 2)?",
+  "options": [
+   "Tareas que son atractivas y retadoras para todos sin obligar a todos a hacer lo mismo",
+   "Exámenes tan difíciles que solo el 1% de los alumnos pueda aprobar",
+   "El uso de lenguajes técnicos que los niños no puedan comprender inicialmente"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué función cumple la 'asamblea' en la educación infantil?",
+  "options": [
+   "Es un espacio para que los niños elijan al director de la escuela",
+   "Es un escenario para verbalizar experiencias, sentimientos y procesos de aprendizaje",
+   "Es un momento de silencio absoluto para que los niños duerman"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Según el informe PISA, ¿qué se evalúa primordialmente?",
+  "options": [
+   "La memorización exacta de fechas históricas nacionales",
+   "El modo en que el alumnado aplica conocimientos a situaciones concretas y novedosas",
+   "La caligrafía y ortografía en papel pergamino"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué implica el 'vocacionalismo' en los currícula actuales?",
+  "options": [
+   "Fomentar la libre expresión artística por encima de todo",
+   "Seleccionar contenidos por su valor de aplicación utilitaria en el mercado laboral",
+   "Obligar a todos los niños a ser médicos o ingenieros"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "¿Qué es un 'abismo teleológico' mencionado en el texto curricular?",
+  "options": [
+   "La profundidad de los contenidos científicos modernos",
+   "La distancia entre el proyecto educativo ideal (discurso) y la realidad de la práctica",
+   "El tiempo que tarda un alumno en terminar la universidad"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "La 'inseguridad lingüística' puede llevar a los jóvenes a:",
+  "options": [
+   "Hablar perfectamente tres idiomas",
+   "El aislamiento en guetos sociales y posiblemente a la violencia",
+   "Ser mejores en matemáticas"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán et al."
+ },
+ {
+  "question": "Según José Gimeno Sacristán en 'Diseño, Desarrollo e Innovación del Currículum', el currículo es principalmente:",
+  "options": [
+   "Solo el listado de materias y contenidos a enseñar",
+   "Una construcción cultural compleja que incluye intenciones educativas, prácticas pedagógicas y experiencias de aprendizaje",
+   "El reglamento interno de la institución educativa",
+   "El manual de evaluación que usa el docente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán"
+ },
+ {
+  "question": "Rafael Feito Alonso, en el texto sobre currículo, plantea que la innovación curricular debe partir de:",
+  "options": [
+   "La imposición vertical de reformas desde el Ministerio sin consulta",
+   "La reflexión crítica de los docentes sobre su práctica y el contexto social de los estudiantes",
+   "La importación de modelos educativos extranjeros exitosos",
+   "La reducción de contenidos para facilitar el trabajo docente"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Feito Alonso"
+ },
+ {
+  "question": "Philippe Perrenoud, en relación al desarrollo curricular, propone que el docente debe ser:",
+  "options": [
+   "Un ejecutor fiel del currículo oficial sin adaptaciones",
+   "Un profesional reflexivo capaz de adaptar y recrear el currículo según las necesidades del contexto",
+   "Un técnico que aplica metodologías estándar sin variación",
+   "Un administrador de contenidos prediseñados por expertos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Perrenoud"
+ },
+ {
+  "question": "María Clemente Linuesa, en su trabajo sobre el currículo, enfatiza la importancia de:",
+  "options": [
+   "Separar la teoría curricular de la práctica docente cotidiana",
+   "La coherencia entre los fundamentos teóricos del currículo y las prácticas pedagógicas reales en el aula",
+   "Aplicar el mismo currículo sin adaptación en todos los contextos",
+   "Priorizar los contenidos académicos sobre las competencias prácticas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Linuesa"
+ },
+ {
+  "question": "Sacristán plantea que el 'currículo prescrito' se diferencia del 'currículo real' en que:",
+  "options": [
+   "Son idénticos cuando los docentes cumplen bien su función",
+   "El prescrito es lo que oficialmente se establece; el real es lo que efectivamente ocurre en el aula según las decisiones docentes",
+   "El currículo real siempre es inferior en calidad al prescrito",
+   "El currículo prescrito solo existe en documentos sin aplicación práctica"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Diseño, Desarrollo e Innovación del Currículum - Sacristán"
+ },
+ {
+  "question": "Según Sacristán, el 'currículo moldeado por los profesores' se refiere a:",
+  "options": [
+   "El currículo que diseñan los profesores desde cero sin guía oficial",
+   "La interpretación y adaptación que hace el docente del currículo prescrito según su contexto y criterio profesional",
+   "El currículo que aplican los profesores sin ninguna modificación",
+   "El currículo exclusivo de las escuelas privadas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Sacristán - Diseño Curricular"
+ },
+ {
+  "question": "Según Perrenoud, las 'competencias docentes' son:",
+  "options": [
+   "Solo el dominio de los contenidos de la asignatura que enseña",
+   "Combinaciones de saberes, habilidades y actitudes que permiten al docente actuar eficazmente ante situaciones complejas de enseñanza",
+   "Las calificaciones y títulos académicos obtenidos por el docente",
+   "El conocimiento de las normas y reglamentos educativos vigentes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Diseño Curricular - Perrenoud"
+ },
+ {
+  "question": "Según Feito Alonso, la innovación curricular en Bolivia debe considerar especialmente:",
+  "options": [
+   "La importación directa de modelos curriculares europeos sin adaptación",
+   "El contexto pluricultural, las cosmovisiones de los pueblos originarios y las necesidades productivas de cada región",
+   "Solo los contenidos tecnológicos y científicos universales",
+   "La eliminación de contenidos culturales locales para garantizar competitividad global"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Feito Alonso - Diseño Curricular"
+ },
+ {
+  "question": "Según Clemente Linuesa, la lectura en el desarrollo curricular es:",
+  "options": [
+   "Un proceso mecánico de decodificación de símbolos gráficos",
+   "Un proceso complejo de construcción de significados que requiere competencias lingüísticas, cognitivas y culturales articuladas",
+   "Solo una habilidad básica que se desarrolla en los primeros años y no requiere trabajo posterior",
+   "Un proceso exclusivamente individual que no admite apoyo social"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Clemente Linuesa - Diseño Curricular"
+ },
+ {
+  "question": "Según Sacristán, el 'currículo como texto' implica:",
+  "options": [
+   "Que el currículo solo existe en los libros de texto oficiales",
+   "Que el currículo puede leerse e interpretarse de múltiples maneras según el contexto cultural y social",
+   "Que todos los docentes deben aplicar el currículo de forma idéntica",
+   "Que el currículo es un documento inmutable que no puede modificarse"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Sacristán - Diseño Curricular"
+ },
+ {
+  "question": "Según Perrenoud, la 'práctica reflexiva' del docente implica:",
+  "options": [
+   "Reflexionar sobre el contenido de los libros de texto",
+   "Analizar críticamente la propia práctica docente para mejorarla de forma sistemática y continua",
+   "Solo reflexionar al final del año escolar",
+   "Escribir un diario personal sin relacionarlo con la práctica pedagógica"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Perrenoud - Diseño Curricular"
+ },
+ {
+  "question": "Feito Alonso señala que el fracaso escolar tiene como causas principales:",
+  "options": [
+   "Exclusivamente la falta de inteligencia del estudiante",
+   "Una combinación de factores socioeconómicos, pedagógicos e institucionales; no es responsabilidad exclusiva del estudiante",
+   "Solo la irresponsabilidad de los padres de familia",
+   "Únicamente la mala formación de los docentes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Feito Alonso - Diseño Curricular"
+ },
+ {
+  "question": "Según Clemente Linuesa, la comprensión lectora requiere:",
+  "options": [
+   "Solo la decodificación correcta de las letras y palabras del texto",
+   "La activación de conocimientos previos, inferencias, monitoreo de la comprensión y uso de estrategias metacognitivas",
+   "Únicamente leer en voz alta con buena pronunciación",
+   "Solo velocidad lectora medida en palabras por minuto"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Clemente Linuesa - Diseño Curricular"
+ }
+]

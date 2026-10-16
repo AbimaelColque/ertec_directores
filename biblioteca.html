@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="theme-color" content="#0B1126">
+  <title>ERTEC · Biblioteca</title>
+  <link rel="stylesheet" href="css/style.css">
+    <style>
+    /* ── TOPBAR ── */
+    .topbar{display:flex;align-items:center;gap:12px;padding:16px 16px 12px;position:sticky;top:0;z-index:100;background:var(--bg);border-bottom:1px solid var(--border);}
+    .btn-back{width:36px;height:36px;background:var(--bg-card);border:1.5px solid var(--border);border-radius:10px;display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:16px;flex-shrink:0;transition:var(--ease);}
+    .btn-back:active{transform:scale(.92);}
+    .topbar-title{font-family:var(--f-head);font-size:18px;font-weight:900;color:var(--text);letter-spacing:-.3px;}
+    .topbar-sub{font-size:11px;color:var(--text-sub);}
+
+    /* ── HERO BIBLIOTECA ── */
+    .bib-hero{background:var(--negro);padding:20px 16px 24px;position:relative;overflow:hidden;}
+    .bib-hero::after{content:'';position:absolute;top:-60px;right:-60px;width:220px;height:220px;background:radial-gradient(circle,rgba(0,120,255,.25) 0%,transparent 68%);pointer-events:none;}
+    .bib-hero::before{content:'';position:absolute;bottom:-40px;left:-40px;width:180px;height:180px;background:radial-gradient(circle,rgba(109,94,245,.15) 0%,transparent 68%);pointer-events:none;}
+    .bib-hero-tag{display:inline-flex;align-items:center;gap:6px;background:rgba(0,120,255,.18);border:1px solid rgba(0,120,255,.35);color:#5599FF;font-size:11px;font-weight:800;padding:4px 12px;border-radius:20px;letter-spacing:.8px;text-transform:uppercase;margin-bottom:12px;}
+    .bib-hero-title{font-family:var(--f-head);font-size:24px;font-weight:900;color:#fff;line-height:1.2;margin-bottom:8px;letter-spacing:-.4px;}
+    .bib-hero-title em{color:#4499FF;font-style:normal;}
+    .bib-hero-desc{font-size:13px;color:rgba(255,255,255,.45);line-height:1.55;}
+    .bib-pills{display:flex;gap:7px;flex-wrap:wrap;margin-top:14px;}
+    .bib-pill{display:flex;align-items:center;gap:5px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.1);padding:5px 12px;border-radius:20px;font-size:12px;color:rgba(255,255,255,.55);}
+    .bib-pill strong{color:#fff;}
+
+    /* ── TABS ── */
+    .tabs-wrap{padding:16px 16px 0;position:sticky;top:65px;z-index:90;background:var(--bg);padding-bottom:0;}
+    .tabs{display:flex;gap:6px;overflow-x:auto;padding-bottom:12px;scrollbar-width:none;}
+    .tabs::-webkit-scrollbar{display:none;}
+    .tab-btn{flex-shrink:0;padding:8px 16px;border-radius:20px;font-size:13px;font-weight:700;border:1.5px solid var(--border);background:var(--bg-card);color:var(--text-sub);cursor:pointer;transition:var(--ease);white-space:nowrap;}
+    .tab-btn.active{background:var(--rojo);border-color:var(--rojo);color:#fff;}
+    .tab-btn:active{transform:scale(.95);}
+
+    /* ── SECCIÓN ── */
+    .sec{padding:16px 16px 0;}
+    .sec-header{display:flex;align-items:center;gap:10px;margin-bottom:14px;}
+    .sec-ico{width:38px;height:38px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;}
+    /* container for header text */
+    .sec-hd-text{ }
+    .sec-hd-title{font-size:15px;font-weight:800;color:var(--text);line-height:1;}
+    .sec-hd-sub{font-size:11px;color:var(--text-sub);margin-top:3px;}
+
+    /* ── CARD DE DOCUMENTO ── */
+    .doc-card{background:var(--bg-card);border:1.5px solid var(--border);border-radius:16px;margin-bottom:12px;overflow:hidden;transition:var(--ease);}
+    .doc-card.open .doc-body{display:block;}
+    .doc-card.open .doc-chevron{transform:rotate(180deg);}
+    .doc-head{display:flex;align-items:center;gap:12px;padding:14px 15px;cursor:pointer;-webkit-tap-highlight-color:transparent;}
+    .doc-head:active{background:rgba(255,255,255,.03);}
+    .doc-ico{width:44px;height:44px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0;}
+    .doc-info{flex:1;min-width:0;}
+    .doc-title{font-size:14px;font-weight:800;color:var(--text);line-height:1.3;margin-bottom:3px;}
+    .doc-meta{font-size:11px;color:var(--text-sub);}
+    .doc-chevron{font-size:14px;color:var(--text-sub);transition:transform .3s ease;flex-shrink:0;}
+    .doc-body{display:none;border-top:1px solid var(--border);padding:15px;}
+
+    /* ── BTN DESCARGAR DOC ── */
+    .btn-download{display:flex;align-items:center;gap:10px;background:rgba(0,120,255,.1);border:1.5px solid rgba(0,120,255,.3);border-radius:12px;padding:12px 15px;text-decoration:none;margin-bottom:15px;transition:var(--ease);}
+    .btn-download:active{transform:scale(.97);}
+    .btn-dl-ico{width:36px;height:36px;background:rgba(0,120,255,.2);border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:17px;flex-shrink:0;}
+    .btn-dl-text{flex:1;}
+    .btn-dl-label{font-size:13px;font-weight:700;color:#4499FF;display:block;}
+    .btn-dl-sub{font-size:11px;color:rgba(68,153,255,.6);}
+    .btn-dl-arrow{font-size:16px;color:#4499FF;}
+
+    /* ── DIVIDER AUDIOS ── */
+    .audio-divider{display:flex;align-items:center;gap:8px;margin-bottom:12px;}
+    .audio-divider-line{flex:1;height:1px;background:var(--border);}
+    .audio-divider-label{font-size:11px;font-weight:800;color:var(--text-sub);text-transform:uppercase;letter-spacing:.7px;white-space:nowrap;}
+
+    /* ── CARD AUDIO ── */
+    .audio-card{display:flex;align-items:center;gap:11px;background:var(--bg);border:1.5px solid var(--border);border-radius:12px;padding:12px 13px;margin-bottom:8px;text-decoration:none;transition:var(--ease);cursor:pointer;}
+    .audio-card:active{transform:scale(.97);}
+    .audio-card:hover{border-color:rgba(20,184,166,.4);}
+    .audio-ico{width:40px;height:40px;border-radius:10px;background:rgba(20,184,166,.15);border:1.5px solid rgba(20,184,166,.3);display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;}
+    .audio-info{flex:1;min-width:0;}
+    .audio-title{font-size:13px;font-weight:700;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+    .audio-sub{font-size:11px;color:var(--text-sub);margin-top:2px;}
+    .audio-badge{font-size:10px;font-weight:700;background:rgba(20,184,166,.15);border:1px solid rgba(20,184,166,.3);color:#2DD4BF;padding:3px 8px;border-radius:6px;white-space:nowrap;flex-shrink:0;}
+    /* próximamente */
+    .audio-card.soon{opacity:.45;cursor:default;}
+    .audio-card.soon .audio-badge{background:rgba(255,255,255,.06);border-color:var(--border);color:var(--text-sub);}
+
+    /* ── CARD VIDEO ── */
+    .video-card{display:flex;align-items:center;gap:11px;background:var(--bg);border:1.5px solid var(--border);border-radius:12px;padding:12px 13px;margin-bottom:8px;text-decoration:none;transition:var(--ease);}
+    .video-card:active{transform:scale(.97);}
+    .video-card:hover{border-color:rgba(255,0,0,.4);}
+    .video-thumb{width:60px;height:44px;border-radius:8px;background:rgba(255,0,0,.12);border:1.5px solid rgba(255,0,0,.25);display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;overflow:hidden;}
+    .video-thumb img{width:100%;height:100%;object-fit:cover;border-radius:6px;}
+    .video-info{flex:1;min-width:0;}
+    .video-title{font-size:13px;font-weight:700;color:var(--text);line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+    .video-sub{font-size:11px;color:var(--text-sub);margin-top:3px;}
+    .video-play{width:32px;height:32px;background:#FF0000;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:13px;flex-shrink:0;}
+    .video-card.soon{opacity:.45;cursor:default;}
+
+    /* ── CANAL BANNER ── */
+    .canal-banner{background:linear-gradient(135deg,#1a0000 0%,#2a0808 100%);border:1.5px solid rgba(255,0,0,.25);border-radius:14px;padding:16px;display:flex;align-items:center;gap:13px;text-decoration:none;margin-bottom:16px;transition:var(--ease);}
+    .canal-banner:active{transform:scale(.98);}
+    .canal-ico{width:48px;height:48px;border-radius:12px;background:#FF0000;display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;box-shadow:0 6px 16px rgba(255,0,0,.35);}
+    .canal-info{flex:1;}
+    .canal-name{font-size:15px;font-weight:800;color:#fff;margin-bottom:3px;}
+    .canal-sub{font-size:12px;color:rgba(255,255,255,.45);}
+    .canal-arrow{font-size:18px;color:rgba(255,100,100,.7);}
+
+    /* ── TAG PRONTO ── */
+    .tag-soon{display:inline-flex;align-items:center;gap:4px;background:rgba(255,200,0,.1);border:1px solid rgba(255,200,0,.25);color:#FFCC44;font-size:10px;font-weight:700;padding:3px 9px;border-radius:6px;letter-spacing:.5px;}
+
+    /* ── EMPTY STATE ── */
+    .empty-state{text-align:center;padding:28px 16px;}
+    .empty-state-ico{font-size:40px;margin-bottom:10px;}
+    .empty-state p{font-size:13px;color:var(--text-sub);line-height:1.55;}
+
+    /* ── FOOTER ── */
+    .bib-footer{padding:16px 16px 40px;text-align:center;}
+    .bib-footer p{font-size:12px;color:var(--text-sub);line-height:1.6;}
+  </style>
+</head>
+<body>
+<div id="loader"><div class="loader-icon">📚</div><div class="loader-ring"></div><div class="loader-txt">Cargando biblioteca…</div></div>
+
+<!-- TOPBAR -->
+<div class="topbar">
+  <div class="btn-back" onclick="history.back()">←</div>
+  <div>
+    <div class="topbar-title">Biblioteca ERTEC</div>
+    <div class="topbar-sub">Institucionalización 2027-2029</div>
+  </div>
+</div>
+
+<!-- HERO -->
+<div class="bib-hero">
+  <div class="bib-hero-tag">📚 Material de Estudio</div>
+  <div class="bib-hero-title">Toda la bibliografía<br>en un <em>solo lugar</em></div>
+  <div class="bib-hero-desc">Descargá los documentos oficiales, escuchá los audioresúmenes por capítulo y mirá los videos explicativos. Todo lo que necesitás para la institucionalización 2027-2029.</div>
+  <div class="bib-pills">
+    <div class="bib-pill">🎓 <strong>Institucionalización 2027-2029</strong></div>
+    <div class="bib-pill">📄 Documentos oficiales</div>
+    <div class="bib-pill">🎧 Audios por capítulo</div>
+    <div class="bib-pill">▶️ Videos explicativos</div>
+  </div>
+</div>
+
+<!-- TABS -->
+<div class="tabs-wrap">
+  <div class="tabs" id="tabs">
+    <button class="tab-btn active" data-tab="pedagogia">📘 Pedagógico</button>
+    <button class="tab-btn" data-tab="normativa">⚖️ Normativa</button>
+    <button class="tab-btn" data-tab="administrativos">🗂️ Administrativos</button>
+    <button class="tab-btn" data-tab="videos">▶️ Videos</button>
+  </div>
+</div>
+
+<!-- ================================================================
+     PESTAÑA: PEDAGÓGICO
+================================================================ -->
+<div id="tab-pedagogia" class="tab-content">
+  <div class="sec" style="margin-top:16px;">
+    <div class="sec-header">
+      <div class="sec-ico" style="background:rgba(0,120,255,.15);">📘</div>
+      <div class="sec-hd-text">
+        <div class="sec-hd-title">Textos Pedagógicos</div>
+        <div class="sec-hd-sub">Bibliografía pedagógica</div>
+      </div>
+    </div>
+
+    <!-- ── DOC 1: Neurociencia ── -->
+    <div class="doc-card" id="doc-neuro">
+      <div class="doc-head" onclick="toggleDoc('doc-neuro')">
+        <div class="doc-ico" style="background:rgba(0,200,150,.12);">🧠</div>
+        <div class="doc-info">
+          <div class="doc-title">Neurociencia y Neuroaprendizaje</div>
+          <div class="doc-meta">Marilina Rotger · 4 capítulos</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="ENLACE_DRIVE_DOC_NEUROCIENCIA" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">Neurociencia y Neuroaprendizaje — Rotger</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_NEURO_CAP1" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 1 · El cerebro y el aprendizaje</div>
+            <div class="audio-sub">Sistema SARA · Circuito DAS · Uptime/Downtime</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_NEURO_CAP2" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 2 · Neuroplasticidad y memoria</div>
+            <div class="audio-sub">PLP · Poda neuronal · Tipos de memoria</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_NEURO_CAP3" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 3 · Emociones y aprendizaje</div>
+            <div class="audio-sub">Secuestro amigdalar · Aula con cerebro · Neuro-acciones</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_NEURO_CAP4" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 4 · Estrategias neurodidácticas</div>
+            <div class="audio-sub">Técnicas evaluativas · Panel de la emoción · Palabras positivas</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- ── DOC 2: Currículum ── -->
+    <div class="doc-card" id="doc-curriculum">
+      <div class="doc-head" onclick="toggleDoc('doc-curriculum')">
+        <div class="doc-ico" style="background:rgba(100,80,255,.12);">📐</div>
+        <div class="doc-info">
+          <div class="doc-title">Diseño, Desarrollo e Innovación del Currículum</div>
+          <div class="doc-meta">Sacristán · Feito · Perrenoud · Clemente · 5 capítulos</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="https://drive.google.com/file/d/1n6oidum60ZgW5L2ZSvLqXJhwYVhyI5cw/view?usp=drive_link" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">Diseño, Desarrollo e Innovación del Currículum</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="https://drive.google.com/file/d/1kOh9U9Ef71n3ZAU4OaYDh9dXROR6LtVk/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 1</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1fnSlUtLErxcDke3YUhpm8ln6Pao8wLaD/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 2 </div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1pxhJRv8Lgot7Dnq95vyZUpjww_E3gZ9y/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 3 </div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1keVg-UVpELsKX0Bzgi3HpGX2tDVvxXE6/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 4</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1XjjlbNPzQI-JrEKBzJbhkcbvrQ7QefLQ/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 5 </div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1WoJ4rtRa25cczlslT9SN87xJp_-DX3vU/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 6 </div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- ── DOC 3: Estilos de Aprendizaje ── -->
+    <div class="doc-card" id="doc-estilos">
+      <div class="doc-head" onclick="toggleDoc('doc-estilos')">
+        <div class="doc-ico" style="background:rgba(255,160,0,.12);">🎨</div>
+        <div class="doc-info">
+          <div class="doc-title">Estilos de Aprendizaje y Métodos de Enseñanza</div>
+          <div class="doc-meta">José Manuel Sáez López · 3 capítulos</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="ENLACE_DRIVE_DOC_ESTILOS" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">Estilos de Aprendizaje y Métodos de Enseñanza</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_ESTILOS_CAP1" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 1 · Inteligencias Múltiples de Gardner</div>
+            <div class="audio-sub">8 inteligencias · Intrapersonal vs Interpersonal · Naturalista</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_ESTILOS_CAP2" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 2 · Modelo de Kolb</div>
+            <div class="audio-sub">Divergente · Convergente · Asimilador · Acomodador</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_ESTILOS_CAP3" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 3 · Aprendizaje superficial vs profundo</div>
+            <div class="audio-sub">Entwistle · Taxonomía de Bloom · Metacognición</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- ── DOC 4: Innovación UNESCO ── -->
+    <div class="doc-card" id="doc-innovacion">
+      <div class="doc-head" onclick="toggleDoc('doc-innovacion')">
+        <div class="doc-ico" style="background:rgba(0,200,100,.12);">🚀</div>
+        <div class="doc-info">
+          <div class="doc-title">Innovación Educativa</div>
+          <div class="doc-meta">UNESCO · 3 capítulos</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="ENLACE_DRIVE_DOC_INNOVACION" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">Innovación Educativa — UNESCO 2014</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_INNOV_CAP1" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 1 · Concepto de innovación educativa</div>
+            <div class="audio-sub">Definición UNESCO · Cambio vs innovación · Autopoiesis</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_INNOV_CAP2" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 2 · Ciclo de la innovación</div>
+            <div class="audio-sub">Intencionalidad · Planificación · Sistematización · Evaluación</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card soon">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capítulo 3 · Escuelas que innovan</div>
+            <div class="audio-sub">Señas de identidad · Obstáculos · Agentes de cambio</div>
+          </div>
+          <span class="audio-badge">Pronto</span>
+        </a>
+      </div>
+    </div>
+  </div><!-- /sec -->
+</div><!-- /tab-pedagogia -->
+
+<!-- ================================================================
+     PESTAÑA: NORMATIVA
+================================================================ -->
+<div id="tab-normativa" class="tab-content" style="display:none;">
+  <div class="sec" style="margin-top:16px;">
+    <div class="sec-header">
+      <div class="sec-ico" style="background:rgba(0,200,100,.12);">⚖️</div>
+      <div class="sec-hd-text">
+        <div class="sec-hd-title">Normativa y Leyes</div>
+        <div class="sec-hd-sub">Bibliografía normativa</div>
+      </div>
+    </div>
+
+    <!-- DS 4688 Escalafón -->
+    <div class="doc-card" id="doc-escalafon">
+      <div class="doc-head" onclick="toggleDoc('doc-escalafon')">
+        <div class="doc-ico" style="background:rgba(109,94,245,.12);">📋</div>
+        <div class="doc-info">
+          <div class="doc-title">Reglamento del Escalafón Nacional</div>
+          <div class="doc-meta">D.S. 04688 · Categorías · Méritos · Inamovilidad</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="https://drive.google.com/file/d/1E6nORGZ9A9C0eeyQFWRBRbWaxq3cEEDz/view" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">D.S. 04688 — Escalafón Nacional del Servicio de Educación</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="https://drive.google.com/file/d/17FgFf0ejY7k8caiS05ErXKoiyBb16Qou/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO1</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1auSBmS99MYv7cLIFq6nLp1y9q582zsI8/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO2</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1fvtGpB2HgHE8aL1zfCEICHSO18Uq9RSX/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO3</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1g1E5C_vwuOcpQuqRgPSKixbp2j4XzXnK/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO4</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1_WA-gT609ZbrYHKiatCSTEuO83-zLvn4/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO5</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1iPtS_4qWdEpWoAADEJt-8GR8yCbK6ukl/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO6</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1vvi_Y8IUJets-ZpXT1GNfammRe9e1u_L/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO7</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1KVey5wsgMnpxB2Lqzi5eKi4J2P25Pewu/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO8</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/132_-xEhpdcAvItQ6JuqsTElV83dvGD0N/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO9</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1B-KIg-BOon2YjQI0l-eBJW7KGoJLrHbk/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO10</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1EUdGttCfH-tqK7tf106LaEHo5x_0wR6s/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO11</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1emtumu9sYDk45_uBGyTJKGCIdV7ReMDa/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO12</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Faltas y Sanciones -->
+    <div class="doc-card" id="doc-faltas">
+      <div class="doc-head" onclick="toggleDoc('doc-faltas')">
+        <div class="doc-ico" style="background:rgba(255,100,0,.12);">⚠️</div>
+        <div class="doc-info">
+          <div class="doc-title">Reglamento de Faltas y Sanciones</div>
+          <div class="doc-meta">R.S. 212414 · Faltas leve/grave/muy grave</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="https://drive.google.com/file/d/1wAXX5ayqFCMryP9W40lVHXHyyAjEy-Ye/view" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">R.S. 212414 — Reglamento de Faltas y Sanciones</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="https://drive.google.com/file/d/1v7bJHIV06hDI2Okn4sETKCl22Z-y7rMQ/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 1</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1x97zT2Itroy_qITpE4HE_Z0LMkc3H-eD/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 2</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1gHYH1F7PhEHtObogUqPWwn8ggPfgns8t/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 3</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1KaOT75EDyen_ykHNPeIjK1Fyka60I7B2/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 4</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1LqAGvjG-xjFkD8h_MbG5PGlo4UdaNT8m/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 5</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1eDLVRw9KaJDc3b84Otxlk33HK385OjEM/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 6</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1-Y_DuUd5WNwXLM__c0vKIm_-kRGiVBIy/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 7</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/12rZF5pqrkijdYVz1c32GUjo5oN72UNQf/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 8</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Ley 223 -->
+    <div class="doc-card" id="doc-ley223">
+      <div class="doc-head" onclick="toggleDoc('doc-ley223')">
+        <div class="doc-ico" style="background:rgba(0,180,200,.12);">♿</div>
+        <div class="doc-info">
+          <div class="doc-title">Ley 223 — Personas con Discapacidad</div>
+          <div class="doc-meta">Ley General · CONALPEDIS · Inclusión</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="https://drive.google.com/file/d/1slIxb21snSNqJlkUu0_Row_L6-ylYJyT/view" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">Ley 223 — Ley General para Personas con Discapacidad</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="https://drive.google.com/file/d/1nNw5Ha2bNUV6TY5Doa0WAhCIwMTPspf4/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 1</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1NGwBc7NnASY_bCV7PQp4RBaxx2s1zeW1/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 2</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1nlV0qBcvEyiyMH-bWJcRXo0SdU2NYCN6/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 3</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1FBAhRPm6T6_0IEpFmsrEGIgeOM3EFH_-/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Capitulo 4</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Educación Inclusiva -->
+    <div class="doc-card" id="doc-inclusiva">
+      <div class="doc-head" onclick="toggleDoc('doc-inclusiva')">
+        <div class="doc-ico" style="background:rgba(100,200,50,.12);">🌱</div>
+        <div class="doc-info">
+          <div class="doc-title">Educación Inclusiva — Modalidad Indirecta</div>
+          <div class="doc-meta">R.M. 0069/2025 · Maestros de apoyo · Trayectoria educativa</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="https://drive.google.com/file/d/1Ak3S1TXajOGSfg8LQjEBsMeGAXvB0jlA/view" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">R.M. 0069/2025 — Fortalecimiento de la Educación Inclusiva</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="https://drive.google.com/file/d/1AiFU6z0an8IOSZoMPZWJcHZiXEwQILcb/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 1</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1LRuspvZ0CPA5WZ_iY_ZTHwdNoYQJ1bNS/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 2</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1LcQrpyWBlffwKlAjxH7_H2X2dCh_qz_H/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 3</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/17jdOpp5zeMVjPwCZe1LO5Uxi2CgiP2rt/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 4</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/19zMHRrb1NgnHSJZmnBQWCjvoOboBD_GR/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 5</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1AM9FWFMmu2mnBfHUEygx2JXAfLUYOnYl/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 6</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/11PhJTTjXHv_cM5mA5jGuHZhQrQzZCXUE/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 7</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/18i8dNvzHxbdAtIhWhbbRkldmzZtvqj9N/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 8</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1soWp2RPWTKBCEllpZBdY9cVP1xndhB2D/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 9</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1hYvlFC3G89bTlFYHbWDf9JZZzfatm2G9/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 10</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Protocolo ELSA -->
+    <div class="doc-card" id="doc-elsa">
+      <div class="doc-head" onclick="toggleDoc('doc-elsa')">
+        <div class="doc-ico" style="background:rgba(255,50,100,.12);">🛡️</div>
+        <div class="doc-info">
+          <div class="doc-title">Protocolo de Prevención y Actuación ELSA 2026</div>
+          <div class="doc-meta">R.M. 0864/2019 · Violencia escolar · Rutas de acción</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="https://drive.google.com/file/d/1inHf-40ju8ABuWTNGu3sQeTjrbyejKP5/view" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">Protocolo ELSA 2026 — Prevención y Actuación ante Violencia</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="https://drive.google.com/file/d/1i5zljAp9zHptQPKKfq7qOblTgYodJ0k_/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 1</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1DB7MCxBevt9OAWNR_J1SFRXx_3wzn3ld/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 2</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1gOKc8P58IimLJ_lp-DsCIfg2BZjhTc9_/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">CAPITULO 3</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Violencia Intrafamiliar -->
+    <div class="doc-card" id="doc-violencia">
+      <div class="doc-head" onclick="toggleDoc('doc-violencia')">
+        <div class="doc-ico" style="background:rgba(255,180,0,.12);">👁️</div>
+        <div class="doc-info">
+          <div class="doc-title">Guía de Identificación de Violencia Intrafamiliar</div>
+          <div class="doc-meta">Señales de alerta · Modelo ecológico · Roles del maestro</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="https://drive.google.com/file/d/1uVJ5idWJAzMaeNghQhtIdPmlHLFjBkI2/view" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">Guía para la Identificación y Denuncia de Violencia Intrafamiliar</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="https://drive.google.com/file/d/1RSUBS0oZvbO3j6o8yQiV85naJX40NKmG/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Parte 1</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1QBj0goOkA9NxwDKsgaUXmzr5LongmnJR/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Parte 2</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card" href="https://drive.google.com/file/d/1kJtAclWDm5eLs5DILLgX-mLkJPM2mM7L/view?usp=drive_link" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Parte 3</div>
+            <div class="audio-sub"></div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div><!-- /tab-normativa -->
+
+<!-- ================================================================
+     PESTAÑA: ADMINISTRATIVOS
+================================================================ -->
+<div id="tab-administrativos" class="tab-content" style="display:none;">
+  <div class="sec" style="margin-top:16px;">
+    <div class="sec-header">
+      <div class="sec-ico" style="background:rgba(136,85,255,.12);">🗂️</div>
+      <div class="sec-hd-text">
+        <div class="sec-hd-title">Área Administrativa</div>
+        <div class="sec-hd-sub">Bibliografía administrativa</div>
+      </div>
+    </div>
+
+    <!-- Resolución de Problemas -->
+    <div class="doc-card" id="doc-problemas">
+      <div class="doc-head" onclick="toggleDoc('doc-problemas')">
+        <div class="doc-ico" style="background:rgba(0,180,255,.12);">🧩</div>
+        <div class="doc-info">
+          <div class="doc-title">Manual de Resolución de Problemas</div>
+          <div class="doc-meta">SEP / UNICEF · 5 pasos · Lluvia de ideas · Pros y contras</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="ENLACE_DRIVE_DOC_PROBLEMAS" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">Manual de Resolución de Problemas — SEP/UNICEF</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_PROB_CAP1" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Parte única · Los 5 pasos de resolución</div>
+            <div class="audio-sub">Identificar · Analizar · Generar · Elegir · Evaluar</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Convivencia Escolar -->
+    <div class="doc-card" id="doc-convivencia">
+      <div class="doc-head" onclick="toggleDoc('doc-convivencia')">
+        <div class="doc-ico" style="background:rgba(0,220,120,.12);">🤝</div>
+        <div class="doc-info">
+          <div class="doc-title">Convivencia Escolar y Resolución Pacífica de Conflictos</div>
+          <div class="doc-meta">Mediación · Arbitraje · Provención · Escuelas pacíficas</div>
+        </div>
+        <span class="doc-chevron">▼</span>
+      </div>
+      <div class="doc-body">
+        <a class="btn-download" href="ENLACE_DRIVE_DOC_CONVIVENCIA" target="_blank">
+          <div class="btn-dl-ico">📄</div>
+          <div class="btn-dl-text">
+            <span class="btn-dl-label">Descargar documento PDF</span>
+            <span class="btn-dl-sub">Convivencia Escolar y Resolución Pacífica de Conflictos</span>
+          </div>
+          <span class="btn-dl-arrow">↓</span>
+        </a>
+        <div class="audio-divider"><div class="audio-divider-line"></div><div class="audio-divider-label">🎧 Audioresúmenes</div><div class="audio-divider-line"></div></div>
+        <a class="audio-card" href="ENLACE_DRIVE_AUDIO_CONV_CAP1" target="_blank">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Parte 1 · Clima escolar y tipos de conflicto</div>
+            <div class="audio-sub">Clima seguridad · Clima justicia · Clima relacional</div>
+          </div>
+          <span class="audio-badge">▶ Escuchar</span>
+        </a>
+        <a class="audio-card soon">
+          <div class="audio-ico">🎧</div>
+          <div class="audio-info">
+            <div class="audio-title">Parte 2 · Mediación, arbitraje y negociación</div>
+            <div class="audio-sub">Diferencias clave · Proceso de mediación · BMI</div>
+          </div>
+          <span class="audio-badge">Pronto</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div><!-- /tab-administrativos -->
+
+<!-- ================================================================
+     PESTAÑA: VIDEOS
+================================================================ -->
+<div id="tab-videos" class="tab-content" style="display:none;">
+  <div class="sec" style="margin-top:16px;">
+    <div class="sec-header">
+      <div class="sec-ico" style="background:rgba(255,0,0,.12);">▶️</div>
+      <div class="sec-hd-text">
+        <div class="sec-hd-title">Videos Explicativos</div>
+        <div class="sec-hd-sub">Canal YouTube de ERTEC · Clases de repaso</div>
+      </div>
+    </div>
+
+    <!-- Banner canal -->
+    <a class="canal-banner" href="https://www.youtube.com/@ER_TEC" target="_blank" rel="noopener noreferrer">
+      <div class="canal-ico">▶</div>
+      <div class="canal-info">
+        <div class="canal-name">Canal ERTEC en YouTube</div>
+        <div class="canal-sub">Suscribite para no perderte los nuevos videos</div>
+      </div>
+      <span class="canal-arrow">→</span>
+    </a>
+
+    <a class="video-card" href="https://youtu.be/cxGKYwvlTt8?si=Z0suyKW7Q8FXXQVH" target="_blank">
+      <div class="video-thumb">▶</div>
+      <div class="video-info">
+        <div class="video-title">Crea tu (PDC) Plan de Desarrollo Curricular Fácil y Rápido</div>
+        <div class="video-sub">Inteligencia artificial · duración: 14:03</div>
+      </div>
+      <div class="video-play">▶</div>
+    </a>
+
+    <a class="video-card" href="https://youtu.be/jd200hwbpjM?si=TWFPHHW-WL9Ns85i" target="_blank">
+      <div class="video-thumb">▶</div>
+      <div class="video-info">
+        <div class="video-title">Cómo Crear Material Para Tu Examen De Ascenso En Minutos</div>
+        <div class="video-sub">Inteligencia Artificial · duración: 18:23</div>
+      </div>
+      <div class="video-play">▶</div>
+    </a>
+
+    <a class="video-card" href="https://www.youtube.com/watch?v=aVrc8a6imQs&t=2s" target="_blank">
+      <div class="video-thumb">▶</div>
+      <div class="video-info">
+        <div class="video-title">Crea Sopas de Letras y Crucigramas y Mas GRATIS con IA</div>
+        <div class="video-sub">Inteligencia Artificial · duración: 12:20</div>
+      </div>
+      <div class="video-play">▶</div>
+    </a>
+
+    <a class="video-card" href="https://youtu.be/S5gSi8t1SY4?si=hL2kjD0zEbwGHui_" target="_blank">
+      <div class="video-thumb">▶</div>
+      <div class="video-info">
+        <div class="video-title">Transforma tus Clases con Esta Pizarra Digital Gratuita</div>
+        <div class="video-sub">Inteligencia Artificial · duración: 12:27</div>
+      </div>
+      <div class="video-play">▶</div>
+    </a>
+
+    <a class="video-card" href="https://youtu.be/C6ul9QfjnbM?si=RMNQJbVBG_bqoluN" target="_blank">
+      <div class="video-thumb">▶</div>
+      <div class="video-info">
+        <div class="video-title">Crear Canciones Profesionales con IA en Minutos | Suno AI Gratis 2026</div>
+        <div class="video-sub">Inteligencia Artificial · duración: 18:20</div>
+      </div>
+      <div class="video-play">▶</div>
+    </a>
+
+    <!-- Videos pronto -->
+    <div class="audio-divider" style="margin-top:8px;"><div class="audio-divider-line"></div><div class="audio-divider-label">🔜 Próximamente</div><div class="audio-divider-line"></div></div>
+    <a class="video-card soon">
+      <div class="video-thumb">▶</div>
+      <div class="video-info">
+        <div class="video-title">Más videos en camino…</div>
+        <div class="video-sub">Suscribite al canal para saber cuándo salen</div>
+      </div>
+      <div class="video-play" style="background:#333;">▶</div>
+    </a>
+  </div>
+
+  <div class="bib-footer">
+    <p>🎓 Los videos son un regalo de ERTEC para ayudarte a prepararte mejor.<br>Compartí el canal con otros docentes.</p>
+  </div>
+</div><!-- /tab-videos -->
+
+<div style="height:40px;"></div>
+
+<script src="js/storage.js"></script>
+<script src="js/fx.js"></script>
+<script>
+// ── Autenticación y tema ──
+window.addEventListener('DOMContentLoaded', () => {
+  if (!requireAuth('login.html')) return;
+  applyTheme(); FX.ripples(); FX.nav('book'); FX.leave();
+  hideLoader();
+});
+
+// ── Tabs ──
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(c => c.style.display = 'none');
+    btn.classList.add('active');
+    document.getElementById('tab-' + btn.dataset.tab).style.display = 'block';
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  });
+});
+
+// ── Abrir/cerrar documento (acordeón) ──
+function toggleDoc(id) {
+  const card = document.getElementById(id);
+  const wasOpen = card.classList.contains('open');
+  // Cerrar todos
+  document.querySelectorAll('.doc-card').forEach(c => c.classList.remove('open'));
+  // Abrir el clickeado si estaba cerrado
+  if (!wasOpen) {
+    card.classList.add('open');
+    // Scroll suave al card abierto
+    setTimeout(() => {
+      card.scrollIntoView({behavior: 'smooth', block: 'start'});
+    }, 100);
+  }
+}
+
+// ── Clicks en audio-card.soon: no navegar ──
+document.querySelectorAll('.audio-card.soon, .video-card.soon').forEach(el => {
+  el.addEventListener('click', e => e.preventDefault());
+});
+</script>
+</body>
+</html>

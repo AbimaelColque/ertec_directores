@@ -1,0 +1,1107 @@
+[
+ {
+  "question": "¿Qué establece el reglamento 2025 sobre la matriculación de estudiantes con discapacidad intelectual?",
+  "options": [
+   "No pueden inscribirse si no presentan un certificado de rehabilitación",
+   "Pueden inscribirse con una diferencia de hasta 24 meses respecto a sus pares en nivel inicial",
+   "Es obligatorio que se inscriban solo en centros de educación especial",
+   "Deben rendir un examen de admisión especial antes de matricularse"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "La Modalidad Indirecta de educación inclusiva se refiere a:",
+  "options": [
+   "El apoyo técnico pedagógico brindado por maestros de apoyo a estudiantes en el aula regular",
+   "La educación impartida exclusivamente en centros de salud",
+   "Clases virtuales para estudiantes que no pueden salir de sus hogares",
+   "La enseñanza a distancia mediante materiales enviados por correo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la función del 'Maestro de Apoyo Educativo'?",
+  "options": [
+   "Hacer la tarea de los estudiantes con discapacidad para facilitar su promoción",
+   "Desarrollar procesos de apoyo técnico pedagógico y sensibilización en la comunidad educativa",
+   "Reemplazar al maestro de aula regular cuando hay un estudiante con discapacidad",
+   "Evaluar a los estudiantes con discapacidad en lugar del maestro regular"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué documento es decisivo para proyectar el recorrido educativo de un estudiante con discapacidad intelectual?",
+  "options": [
+   "Título de bachiller del padre o tutor",
+   "Informe de Evaluación Integral realizado por Equipos Multidisciplinarios",
+   "Acta de compromiso de la Junta Escolar",
+   "Certificado médico de discapacidad emitido por el SEDES"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la relación máxima de estudiantes por ítem completo para maestro de apoyo en discapacidad auditiva?",
+  "options": [
+   "Más de 10 estudiantes",
+   "Más de 4 estudiantes",
+   "Un solo estudiante por maestro",
+   "Más de 20 estudiantes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "La carga horaria mensual de apoyo para discapacidad auditiva es de:",
+  "options": [
+   "8 horas mensuales promedio",
+   "12 horas mensuales promedio",
+   "4 horas mensuales promedio",
+   "6 horas mensuales promedio"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "Un ítem completo de maestro de apoyo en discapacidad visual atiende a:",
+  "options": [
+   "Más de 5 estudiantes",
+   "Más de 15 estudiantes",
+   "Solo 2 estudiantes por aula regular",
+   "Más de 10 estudiantes"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "La carga horaria mensual de apoyo para un estudiante con discapacidad visual es de:",
+  "options": [
+   "4 horas mensuales promedio",
+   "12 horas mensuales promedio",
+   "8 horas mensuales promedio",
+   "6 horas mensuales promedio"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "En el área de dificultades específicas de aprendizaje, el maestro de apoyo con ítem completo atiende a:",
+  "options": [
+   "Más de 10 estudiantes",
+   "Más de 20 estudiantes",
+   "Menos de 5 estudiantes por turno",
+   "Más de 4 estudiantes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "El maestro de apoyo para el área de talento extraordinario tiene una relación docente-estudiante de:",
+  "options": [
+   "Más de 15 estudiantes por ítem completo",
+   "No más de 5 estudiantes",
+   "Más de 25 estudiantes por ítem",
+   "Exactamente 10 estudiantes por turno"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "El instrumento de planificación operativa del maestro de apoyo en coordinación con el de aula se llama:",
+  "options": [
+   "Currículo Base de Educación Especial",
+   "Plan de Apoyo Técnico Pedagógico",
+   "Informe de Evaluación Integral Multidisciplinaria",
+   "Trayectoria Educativa del Estudiante"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "Los estudiantes con discapacidad pueden matricularse de forma simultánea en:",
+  "options": [
+   "Dos unidades educativas regulares diferentes para mayor apoyo",
+   "Educación Especial y Educación Regular o Alternativa con el mismo RUDE",
+   "El sistema escolar boliviano y el sistema de salud privado únicamente",
+   "Dos modalidades de educación regular en diferentes turnos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "En nivel inicial, un niño con discapacidad intelectual puede inscribirse con una diferencia de edad de hasta:",
+  "options": [
+   "12 meses respecto a sus pares sin discapacidad",
+   "24 meses respecto a la edad establecida para sus pares",
+   "36 meses, siempre que el maestro de aula lo autorice",
+   "No hay límite si cuenta con evaluación multidisciplinaria"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "Si un estudiante con discapacidad se traslada de escuela, la unidad de origen tiene la obligación de:",
+  "options": [
+   "Eliminar los registros físicos para proteger la confidencialidad",
+   "Remitir el archivo de trayectoria educativa a la institución destinataria",
+   "Entregar los documentos solo si no existen deudas de pensiones",
+   "Retener los documentos hasta recibir solicitud oficial de la nueva institución"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué instrumento permite vincular a los Centros de Educación Especial con las Unidades Educativas Inclusivas?",
+  "options": [
+   "El RUDE de inscripción simultánea",
+   "El Plan de Apoyo Técnico Pedagógico",
+   "El examen de idoneidad para maestros interinos",
+   "El Informe de Evaluación Multidisciplinaria"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "El apoyo educativo en modalidad indirecta puede extenderse interdistritalmente si:",
+  "options": [
+   "El maestro de apoyo tiene un vehículo propio para el traslado",
+   "Existe inexistencia de Centros de Educación Especial en el Municipio correspondiente",
+   "El director distrital autoriza un pago extra por viáticos al maestro",
+   "El padre de familia solicita formalmente el apoyo interdistrital"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué es la 'Evaluación Multidisciplinaria' en el contexto de educación inclusiva?",
+  "options": [
+   "Un examen trimestral que dan todos los estudiantes con discapacidad",
+   "Proceso de análisis por especialistas para determinar el recorrido educativo pertinente",
+   "Una encuesta que llenan los padres sobre el comportamiento del hijo",
+   "Un test de cociente intelectual aplicado por el maestro de aula"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la carga horaria mensual de apoyo para un estudiante con discapacidad intelectual?",
+  "options": [
+   "12 horas mensuales",
+   "8 horas mensuales",
+   "4 horas mensuales promedio",
+   "6 horas mensuales"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuántos estudiantes atiende un maestro de apoyo en el área de Dificultades Específicas de Aprendizaje por ítem completo?",
+  "options": [
+   "Más de 10 estudiantes",
+   "Más de 20 estudiantes",
+   "Exactamente 4 estudiantes",
+   "Más de 15 estudiantes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "La relación docente-estudiante para el área de Discapacidad Auditiva es de:",
+  "options": [
+   "Más de 4 estudiantes por ítem",
+   "Más de 15 estudiantes por ítem",
+   "No hay límite si el maestro domina la lengua de señas",
+   "Exactamente 6 estudiantes por turno"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué documento deben presentar los estudiantes con discapacidad para inscribirse en educación regular?",
+  "options": [
+   "Certificado de nacimiento de los padres únicamente",
+   "Informe de Evaluación Integral Multidisciplinario",
+   "Carnet de discapacidad grave o muy grave con vigencia de 10 años",
+   "Certificado médico del SEDES con código de discapacidad"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "La 'Modalidad Indirecta' de educación especial se realiza a través de:",
+  "options": [
+   "Maestros de aula regular que dan clases particulares los fines de semana",
+   "Maestros de apoyo que asesoran pedagógicamente a la comunidad educativa",
+   "El envío de materiales por correo electrónico sin asistencia presencial",
+   "Clases virtuales sincrónicas con especialistas del Ministerio"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué sucede si un maestro de apoyo no puede cubrir su radio de acción por falta de centros en su municipio?",
+  "options": [
+   "Se suspende el servicio hasta que el Estado construya un nuevo centro",
+   "Se puede extender el alcance territorial de forma intermunicipal o interdistrital",
+   "El estudiante debe ser trasladado obligatoriamente a la capital del departamento",
+   "El maestro debe autofinanciarse el traslado hasta el municipio correspondiente"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la función del 'Plan de Apoyo Técnico Pedagógico'?",
+  "options": [
+   "Conjunto de acciones operativas para garantizar la equiparación de condiciones",
+   "Un contrato de pago entre el padre de familia y el maestro de apoyo",
+   "Una lista de todas las deficiencias físicas del estudiante",
+   "El documento de planificación curricular del maestro de aula regular"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Quién es el responsable de solicitar la eliminación de barreras arquitectónicas en la escuela?",
+  "options": [
+   "Los padres de familia mediante cuotas extraordinarias",
+   "Las Instituciones Educativas a los Gobiernos Subnacionales (Alcaldías)",
+   "El maestro de apoyo con su propio presupuesto de aula",
+   "El CONALPEDIS mediante resolución de su directorio"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "Un maestro de apoyo para estudiantes con Discapacidad Intelectual debe brindar apoyo:",
+  "options": [
+   "Individualizado con una carga de 4 horas mensuales promedio",
+   "Grupal con una carga de 12 horas semanales obligatorias",
+   "Solo durante los exámenes finales de cada trimestre",
+   "Diario con sesiones de 2 horas por estudiante"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "En el área de Talento Extraordinario, el maestro de apoyo atiende a:",
+  "options": [
+   "Más de 15 estudiantes por ítem completo",
+   "Exactamente 4 estudiantes destacados por curso",
+   "No hay una relación establecida porque no se requiere apoyo mensualizado",
+   "Más de 10 estudiantes por ítem completo"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué sucede si un estudiante con discapacidad se traslada a una unidad educativa privada?",
+  "options": [
+   "La unidad de origen se queda con el archivo para evitar la fuga de datos",
+   "La unidad de origen debe remitir el archivo de trayectoria educativa a la institución destinataria",
+   "El estudiante pierde su antigüedad en el sistema inclusivo de modalidad indirecta",
+   "La unidad privada debe solicitar nuevo proceso de evaluación multidisciplinaria"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué es la 'Modalidad Indirecta' en la educación especial boliviana?",
+  "options": [
+   "Enviar a todos los estudiantes con discapacidad a centros especializados lejos de su comunidad",
+   "La inclusión de personas con discapacidad en el SEP, sensibilizando a la comunidad y brindando apoyo técnico pedagógico",
+   "Un sistema de educación virtual exclusivo para estudiantes con talento extraordinario"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es el requisito de matriculación para estudiantes con discapacidad según el Reglamento de 2025?",
+  "options": [
+   "Matricularse simultáneamente en el Centro de Educación Especial y en la institución educativa regular con el mismo RUDE",
+   "Presentar un certificado médico de curación total de la discapacidad",
+   "Inscribirse únicamente en el ámbito de Educación Especial por al menos dos años previos"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué diferencia de edad se permite para la inscripción de estudiantes con Discapacidad Intelectual en Educación Inicial y Primaria?",
+  "options": [
+   "Máximo 12 meses respecto a sus pares",
+   "Hasta 24 meses respecto a la edad establecida para sus pares, con informe multidisciplinario",
+   "No hay límite de edad, pueden inscribirse en cualquier momento"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la relación maestro de apoyo-estudiante recomendada para Discapacidad Visual?",
+  "options": [
+   "Un maestro por cada 20 estudiantes",
+   "Un maestro por cada 15 estudiantes",
+   "Más de 5 estudiantes por ítem completo (promedio 12 horas mensuales individualizadas)"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué competencia específica debe tener un maestro de apoyo en el área de Discapacidad Auditiva?",
+  "options": [
+   "Dominio avanzado del sistema Braille y macrotipo",
+   "Alto nivel de conocimiento y manejo de la Lengua de Señas Boliviana (LSB)",
+   "Capacidad de diagnosticar enfermedades neurológicas complejas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Quiénes son los responsables de la detección de señales de alerta en estudiantes con Talento Extraordinario?",
+  "options": [
+   "Únicamente los psicólogos del Ministerio de Salud",
+   "Las maestras y maestros de aula mediante la Comisión Técnica Pedagógica",
+   "Los padres de familia a través de denuncias públicas"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué busca el 'Diseño Plural para los Aprendizajes'?",
+  "options": [
+   "Generar condiciones educativas que alcancen a todos los estudiantes en la mayor medida posible, sin excluir ayudas técnicas",
+   "Crear un currículo paralelo y secreto solo para estudiantes destacados",
+   "Estandarizar la enseñanza para que todos aprendan exactamente al mismo ritmo"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la carga horaria individualizada promedio mensual para un maestro de apoyo en Discapacidad Intelectual?",
+  "options": [
+   "12 horas",
+   "8 horas",
+   "4 horas"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la función del 'Equipo Multidisciplinario' en educación especial?",
+  "options": [
+   "Organizar eventos deportivos y festivales de danza",
+   "Realizar la evaluación integral (psicológica, pedagógica) para determinar el recorrido educativo más pertinente",
+   "Supervisar que los maestros lleguen temprano a la unidad educativa"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué es la 'Comunicación Alternativa y Aumentativa'?",
+  "options": [
+   "Hablar más fuerte para que los estudiantes escuchen mejor",
+   "Sistemas lingüísticos (como LSB o Braille) que facilitan el aprendizaje de estudiantes con discapacidad",
+   "Usar altavoces en todos los pasillos de la escuela"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué documento es vital para proyectar el recorrido educativo de un estudiante con discapacidad intelectual?",
+  "options": [
+   "Su acta de bautismo",
+   "El Informe de Evaluación Integral realizado por equipos multidisciplinarios",
+   "Una carta de recomendación de su vecino"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué documento es imprescindible para que un estudiante con Discapacidad Intelectual curse Educación Regular?",
+  "options": [
+   "Carnet de discapacidad vigente únicamente",
+   "Informe de Evaluación Integral realizado por Equipos Multidisciplinarios",
+   "Una carta de compromiso de los padres"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la relación de estudiantes por ítem completo para un maestro de apoyo en Discapacidad Auditiva?",
+  "options": [
+   "Más de 4 estudiantes",
+   "Exactamente 10 estudiantes",
+   "No se define una cantidad"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué carga horaria individualizada promedio mensual corresponde a un maestro de apoyo en Discapacidad Visual?",
+  "options": [
+   "4 horas",
+   "8 horas",
+   "12 horas"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "En el área de Talento Extraordinario, ¿cuál es la relación de estudiantes por ítem completo?",
+  "options": [
+   "Más de 5 estudiantes",
+   "Más de 15 estudiantes",
+   "No aplica carga horaria"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿A qué se refiere el término 'Tiflología' mencionado en el perfil del maestro de apoyo visual?",
+  "options": [
+   "El estudio y técnicas aplicables a la educación de personas ciegas o con baja visión",
+   "El uso de lenguajes de señas avanzados",
+   "La reparación de audífonos medicados"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué instancia es responsable de la detección temprana de señales de alerta en estudiantes de nivel inicial y primaria?",
+  "options": [
+   "El Centro de Salud local",
+   "Las maestras y maestros de aula",
+   "Únicamente los psicólogos del Centro de Educación Especial"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué sucede con el RUDE de un estudiante que se inscribe simultáneamente en Educación Especial y Regular?",
+  "options": [
+   "Se mantiene el mismo Código de Registro Único de Estudiante",
+   "Se le asignan dos códigos diferentes para cada subsistema",
+   "El código de Educación Especial anula al de Educación Regular"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la finalidad principal del 'Diseño Plural para los Aprendizajes' (variante 2)?",
+  "options": [
+   "Separar a los estudiantes por niveles de inteligencia",
+   "Generar condiciones educativas que alcancen a todos en la mayor medida posible basándose en la inclusión",
+   "Crear exámenes específicos para estudiantes con discapacidad"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es el objeto del 'Reglamento para el Fortalecimiento de la Educación Inclusiva'?",
+  "options": [
+   "Garantizar acceso, permanencia y conclusión de procesos educativos de estudiantes con discapacidad o talento",
+   "Crear escuelas exclusivas donde solo asistan niños con discapacidad intelectual",
+   "Exonerar a los estudiantes con discapacidad de cumplir con las tareas escolares",
+   "Establecer cuotas de inscripción para estudiantes con necesidades especiales"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué es el 'Diseño Plural para los Aprendizajes'?",
+  "options": [
+   "Un software educativo para niños con dificultades auditivas",
+   "Orientaciones para el desarrollo del currículo que alcanzan a todos los estudiantes",
+   "Un examen especial que solo rinden los estudiantes con talento extraordinario",
+   "Un plan de becas exclusivo para estudiantes con discapacidad visual"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué estudiantes pueden inscribirse con una diferencia de hasta 24 meses respecto a sus pares?",
+  "options": [
+   "Estudiantes con discapacidad intelectual en Educación Inicial y Primaria",
+   "Todos los estudiantes que vivan en zonas rurales alejadas",
+   "Únicamente estudiantes con talento extraordinario",
+   "Estudiantes con discapacidad física-motora en todos los niveles"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la relación docente-estudiante para un maestro de apoyo en discapacidad auditiva?",
+  "options": [
+   "1 maestro por cada 20 estudiantes",
+   "Más de 4 estudiantes por ítem completo",
+   "No hay límite, depende de la voluntad del maestro",
+   "1 maestro por cada 10 estudiantes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿De quién dependen directamente los maestros de apoyo de la Modalidad Indirecta?",
+  "options": [
+   "Del Centro de Educación Especial (CEE)",
+   "Directamente del Ministerio de Justicia",
+   "De la junta de vecinos de la zona escolar",
+   "Del Director de la Unidad Educativa regular"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué es la 'Trayectoria Educativa'?",
+  "options": [
+   "El tiempo que tarda un maestro en llegar de su casa a la escuela",
+   "El historial secuencial y cronológico del recorrido educativo del estudiante",
+   "Una lista de los colegios donde ha trabajado un maestro",
+   "El plan de estudios personalizado elaborado por el maestro de apoyo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es una función del Maestro de Apoyo para discapacidad visual?",
+  "options": [
+   "Transcripción del Sistema Braille a tinta o viceversa y adaptación de materiales",
+   "Comprar los lentes para todos los estudiantes de la unidad educativa",
+   "Dar clases de gimnasia rítmica a los estudiantes ciegos",
+   "Reemplazar al maestro de aula cuando hay un estudiante con discapacidad visual"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué es la 'Evaluación Multidisciplinaria'?",
+  "options": [
+   "Un examen de ingreso para maestros de apoyo",
+   "Proceso de análisis especializado para estudiantes con sospecha de discapacidad o talento",
+   "Una reunión de padres de familia para evaluar el mobiliario escolar",
+   "El examen anual de idoneidad para directores"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuándo entra en vigencia el Reglamento de Educación Inclusiva?",
+  "options": [
+   "A partir de la emisión de la Resolución Ministerial de aprobación",
+   "En la gestión escolar del año 2030",
+   "Solo cuando todas las escuelas tengan rampas de acceso",
+   "Al finalizar el año escolar en curso"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "El objeto del Reglamento de Educación Inclusiva (2025) es:",
+  "options": [
+   "Garantizar acceso y conclusión de procesos educativos para discapacidad o talento",
+   "Crear centros donde se excluya a niños con autismo de la escuela regular",
+   "Cobrar tasas adicionales por el uso de rampas en las escuelas",
+   "Establecer cuotas máximas de estudiantes con discapacidad por aula"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "La 'Trayectoria Educativa' se define como:",
+  "options": [
+   "El camino físico que recorre el estudiante a la escuela",
+   "Historial secuencial y cronológico del recorrido educativo del estudiante",
+   "Una lista de los directores que ha tenido una escuela",
+   "El plan curricular adaptado para cada estudiante con discapacidad"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "Estudiantes con discapacidad intelectual pueden inscribirse con diferencia de edad de:",
+  "options": [
+   "Hasta 12 meses respecto a sus pares",
+   "Hasta 24 meses",
+   "No hay límite de edad para la inscripción inicial",
+   "Hasta 36 meses con autorización del maestro de aula"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "El 'Diseño Plural para los Aprendizajes' es para:",
+  "options": [
+   "Solamente estudiantes con ceguera total",
+   "Orientaciones curriculares que alcanzan a todos los estudiantes",
+   "Un software privativo que deben comprar los padres",
+   "Exclusivamente estudiantes con talento extraordinario"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "El maestro de apoyo en discapacidad auditiva debe dominar obligatoriamente:",
+  "options": [
+   "El idioma inglés técnico",
+   "La Lengua de Señas Boliviana (LSB)",
+   "El sistema de lectura rápida",
+   "El sistema Braille en su versión auditiva"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "Relación docente-estudiante para apoyo en discapacidad visual:",
+  "options": [
+   "1 maestro por cada 50 estudiantes",
+   "Más de 5 estudiantes por ítem completo",
+   "No existe límite, el maestro atiende a todos los que pueda",
+   "1 maestro por cada 10 estudiantes como máximo"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿De quién dependen los maestros de apoyo de la Modalidad Indirecta?",
+  "options": [
+   "Del consejo de padres de familia",
+   "Del Centro de Educación Especial (CEE)",
+   "Del Ministerio de Economía",
+   "Del Director de la unidad educativa regular"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "Una condición para la interpretación de LSB en aula es:",
+  "options": [
+   "Usar muchas joyas llamativas para atraer la atención",
+   "Vestimenta adecuada, peinado recogido y sin distractores",
+   "Escuchar música con audífonos mientras se interpreta",
+   "Moverse constantemente por el aula para mantener la atención"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuándo entra en vigencia el nuevo Reglamento de Educación Inclusiva?",
+  "options": [
+   "En el año escolar 2030",
+   "A partir de la emisión de la Resolución Ministerial de aprobación",
+   "Después de que se construyan rampas en todo el país",
+   "Al completarse la capacitación de todos los maestros de apoyo"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "El Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP - Modalidad Indirecta tiene como propósito:",
+  "options": [
+   "Crear un sistema educativo paralelo exclusivo para estudiantes con discapacidad",
+   "Normar la atención educativa inclusiva de estudiantes con discapacidad en unidades educativas regulares con apoyo especializado",
+   "Establecer cuotas de estudiantes con discapacidad por escuela",
+   "Solo regular el acceso de estudiantes con discapacidad visual"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Reglamento Educación Inclusiva SEP - Modalidad Indirecta"
+ },
+ {
+  "question": "Según el Reglamento de Educación Inclusiva, el Centro de Recursos Pedagógicos (CERP) tiene como función:",
+  "options": [
+   "Atender exclusivamente a estudiantes en centros especializados separados",
+   "Brindar apoyo pedagógico especializado a docentes y estudiantes con discapacidad incluidos en el sistema regular",
+   "Reemplazar a las unidades educativas regulares en zonas rurales",
+   "Solo capacitar a docentes en lenguas de señas"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Reglamento Educación Inclusiva SEP - Modalidad Indirecta"
+ },
+ {
+  "question": "¿Cuál es el ratio técnico de atención (estudiantes por ítem completo) establecido para el área de 'Discapacidad Visual'?",
+  "options": [
+   "Más de 10 estudiantes",
+   "Más de 5 estudiantes por ítem completo",
+   "Exactamente 8 estudiantes para garantizar el uso del Braille"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué carga horaria individualizada promedio mensual corresponde a un estudiante con 'Discapacidad Auditiva' en la modalidad indirecta?",
+  "options": [
+   "4 horas mensuales",
+   "8 horas mensuales promedio",
+   "12 horas mensuales promedio"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es el límite de diferencia de edad permitido para inscribir a un estudiante con discapacidad intelectual en Primaria Regular?",
+  "options": [
+   "12 meses respecto a la edad normativa",
+   "Hasta 24 meses, previa presentación del informe de evaluación multidisciplinaria",
+   "No hay límite de edad siempre que tenga carnet de discapacidad"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿De quién dependen administrativamente los maestros de apoyo de la Modalidad Indirecta en los Subsistemas Regular y Alternativa?",
+  "options": [
+   "De la Dirección Distrital de Educación",
+   "Directamente del Centro de Educación Especial (CEE)",
+   "De la Unidad Educativa inclusiva donde prestan el servicio"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué énfasis de atención educativa se aplica para estudiantes de 4to a 6to de primaria con dificultades en el aprendizaje?",
+  "options": [
+   "Sentido preventivo inicial",
+   "Sentido reeducativo",
+   "Sentido de aceleración curricular"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué documento es definido como decisivo para proyectar el recorrido educativo más pertinente de un estudiante con discapacidad intelectual?",
+  "options": [
+   "El RUDE técnico de discapacidad",
+   "El Informe de Evaluación Integral realizado por Equipos Multidisciplinarios",
+   "La solicitud de matriculación de los padres ante la DDE"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la relación maestro de apoyo/estudiante para el área de 'Dificultades Específicas en el Aprendizaje'?",
+  "options": [
+   "Más de 15 estudiantes",
+   "Más de 20 estudiantes por ítem completo",
+   "Entre 10 y 15 estudiantes dependiendo del grado"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué carga horaria individualizada promedio mensual recibe un estudiante con 'Discapacidad Intelectual'?",
+  "options": [
+   "2 horas mensuales",
+   "4 horas mensuales promedio",
+   "6 horas mensuales"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué es la 'Trayectoria Educativa' según el Artículo 4 del reglamento de inclusión?",
+  "options": [
+   "Un examen de nivelación psicopedagógica",
+   "El historial secuencial, cronológico e individual del recorrido educativo registrado en un Archivo Personal",
+   "El plan de estudios adaptado por el maestro de aula"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Bajo qué presupuesto se encuentran los maestros de apoyo en el Subsistema de Educación Superior?",
+  "options": [
+   "Tesoro General de la Nación (TGN)",
+   "Bajo el techo presupuestario de la planilla de las Instituciones de Educación Superior correspondientes",
+   "Presupuesto del Viceministerio de Educación Alternativa y Especial"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es el ratio técnico de atención para el área de 'Talento Extraordinario'?",
+  "options": [
+   "Más de 10 estudiantes",
+   "Más de 15 estudiantes por ítem completo",
+   "No tiene ratio definido por ser atención personalizada"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué carga horaria individualizada recibe un estudiante con 'Dificultades Específicas en el Aprendizaje'?",
+  "options": [
+   "2 horas mensuales",
+   "4 horas mensuales promedio",
+   "8 horas mensuales"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿En qué grados se aplica el apoyo con sentido 'preventivo' para dificultades de aprendizaje?",
+  "options": [
+   "1ro, 2do y 3ro de primaria Comunitaria Vocacional",
+   "Solo en el nivel inicial",
+   "De 1ro a 6to de primaria"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Quién es responsable de detectar señales de alerta de Talento Extraordinario en Educación Regular?",
+  "options": [
+   "El psicólogo del Centro de Educación Especial",
+   "Maestras y maestros de aula mediante la Comisión Técnica Pedagógica",
+   "La Dirección Distrital tras reporte de padres"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es el objetivo específico de la interpretación de LSB en aula según el reglamento de inclusión?",
+  "options": [
+   "Traducir palabra por palabra lo que dice el maestro",
+   "Evitar la 'traducción literal' o español señado buscando claridad y precisión",
+   "Enseñar español a los estudiantes sordos durante la clase"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué dependencia administrativa tienen los maestros de apoyo que trabajan en unidades privadas?",
+  "options": [
+   "Dependen del Centro de Educación Especial fiscal más cercano",
+   "Están a cargo y bajo responsabilidad de la propia institución educativa privada",
+   "Dependen directamente de la Dirección Departamental"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿A quién corresponde la tuición de revisar y actualizar el reglamento de educación inclusiva?",
+  "options": [
+   "Al Ministro de Educación personalmente",
+   "Al Ministerio de Educación a través del Viceministerio de Educación Alternativa y Especial",
+   "A la Comisión Nacional del Escalafón"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la carga horaria individualizada para un estudiante con Discapacidad Visual?",
+  "options": [
+   "8 horas mensuales",
+   "12 horas mensuales promedio",
+   "16 horas mensuales"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la relación maestro/estudiante para el área de Talento Extraordinario?",
+  "options": [
+   "1 maestro por cada 10",
+   "Más de 15 estudiantes por ítem completo",
+   "20 estudiantes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿De quién dependen los maestros de apoyo en Educación Regular/Alternativa?",
+  "options": [
+   "De la Dirección Distrital",
+   "Directamente del Centro de Educación Especial (CEE)",
+   "De la Unidad Educativa donde trabajan"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿En qué grados de primaria el apoyo tiene un sentido 'preventivo'?",
+  "options": [
+   "Nivel Inicial solamente",
+   "1ro, 2do y 3ro de Primaria",
+   "1ro a 6to de Primaria"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es la relación maestro/estudiante para Discapacidad Auditiva?",
+  "options": [
+   "Más de 2 estudiantes",
+   "Más de 4 estudiantes por ítem",
+   "8 estudiantes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Quién es responsable de la dotación de mobiliario adecuado en educación inclusiva?",
+  "options": [
+   "Ministerio de Educación",
+   "Gobiernos Autónomos Municipales",
+   "Los padres de familia"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué carga horaria mensual corresponde a Discapacidad Auditiva?",
+  "options": [
+   "4 horas",
+   "8 horas mensuales promedio",
+   "12 horas"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Bajo qué presupuesto están los maestros de apoyo de Educación Superior?",
+  "options": [
+   "Tesoro General de la Nación",
+   "Bajo el techo presupuestario de la Institución de Educación Superior",
+   "Fondo de la DDE"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Cuál es el objetivo específico de la interpretación de LSB en aula (variante 2)?",
+  "options": [
+   "Eliminar barreras evitando la 'traducción literal' o español señado",
+   "Enseñar gramática castellana al sordo",
+   "Traducir palabra por palabra lo que dice el maestro"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Quién detecta inicialmente las señales de alerta de Talento Extraordinario?",
+  "options": [
+   "Las maestras y maestros de aula de Educación Regular",
+   "El psicólogo del CEE",
+   "La junta escolar"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué relación maestro/estudiante rige para Dificultades de Aprendizaje?",
+  "options": [
+   "15 estudiantes",
+   "Más de 20 estudiantes por ítem",
+   "30 estudiantes"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ },
+ {
+  "question": "¿Qué es la 'diferenciación pedagógica' y por qué es necesaria en aulas diversas?",
+  "options": [
+   "La aplicación de pruebas de diferente dificultad según el nivel socioeconómico del alumno",
+   "El ajuste de contenidos, procesos y productos de aprendizaje para responder a la diversidad de necesidades del aula",
+   "La separación de alumnos en grupos homogéneos para facilitar la enseñanza del docente",
+   "La reducción de contenidos para alumnos con dificultades de aprendizaje"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Educación Inclusiva RM 0069/2025"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "question": "¿Qué establece la Ley N° 348 (Ley Integral para Garantizar a las Mujeres una Vida Libre de Violencia) respecto al ámbito educativo?",
+  "options": [
+   "Solo aplica al entorno familiar y doméstico, no al educativo",
+   "Obliga a las instituciones educativas a implementar medidas de prevención, detección y atención de la violencia contra las mujeres",
+   "Regula únicamente la violencia física en espacios públicos",
+   "Solo aplica a mujeres mayores de 18 años"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 348 - Vida Libre de Violencia"
+ },
+ {
+  "question": "La Ley 348 define el 'feminicidio' como:",
+  "options": [
+   "Cualquier homicidio donde la víctima sea mujer",
+   "El asesinato de una mujer por razones de género, en el contexto de relaciones de poder desiguales",
+   "Solo el asesinato de mujeres por sus parejas sentimentales",
+   "La muerte accidental de una mujer en el hogar"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Ley 348 - Vida Libre de Violencia"
+ },
+ {
+  "question": "Según la Ley 348, la violencia psicológica incluye:",
+  "options": [
+   "Solo el daño emocional que deja secuelas diagnosticadas clínicamente",
+   "Acciones de intimidación, humillación, manipulación, chantaje, aislamiento y control que generan daño emocional",
+   "Solo las amenazas verbales explícitas",
+   "Únicamente los casos de acoso laboral documentados"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 348 - Vida Libre de Violencia"
+ },
+ {
+  "question": "La Ley 348 establece que las instituciones educativas tienen la obligación de:",
+  "options": [
+   "Solo denunciar casos de violencia si el director lo considera necesario",
+   "Implementar protocolos de prevención, atención y derivación de casos de violencia contra la mujer y la familia",
+   "Solo informar a los padres de familia sobre casos de violencia",
+   "Resolver internamente todos los casos sin intervención de autoridades externas"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 348 - Vida Libre de Violencia"
+ },
+ {
+  "question": "La Ley 348 establece que el Estado boliviano debe garantizar a las mujeres víctimas de violencia:",
+  "options": [
+   "Solo asistencia médica de emergencia",
+   "Protección inmediata, acceso a la justicia, atención integral (psicológica, legal, social) y medidas de reparación",
+   "Solo orientación legal sin otras formas de apoyo",
+   "Solo la persecución penal del agresor sin apoyo a la víctima"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Ley 348 - Vida Libre de Violencia"
+ }
+]

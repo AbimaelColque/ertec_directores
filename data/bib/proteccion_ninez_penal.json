@@ -1,0 +1,244 @@
+[
+ {
+  "question": "¿Cómo define la Ley 548 la violencia contra la niñez y adolescencia?",
+  "options": [
+   "Solo como agresiones físicas que dejen marcas visibles de más de 10 días de impedimento",
+   "Acción u omisión que ocasione privaciones, lesiones, daños, sufrimientos o desarrollo deficiente",
+   "Conflictos naturales entre pares que no requieren intervención de adultos"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Ley 548 - Código Niña Niño Adolescente"
+ },
+ {
+  "question": "¿Qué establece el Decreto Supremo 1320 respecto a personal imputado por violencia sexual?",
+  "options": [
+   "Será trasladado a otra unidad educativa mientras dure la investigación",
+   "Será suspendido de sus funciones sin goce de haberes mientras dure el proceso penal",
+   "Recibirá una amonestación verbal y continuará en aula bajo vigilancia"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "DS 1320 - Violencia Sexual"
+ },
+ {
+  "question": "¿Qué busca el principio de 'Prioridad Absoluta' en la niñez?",
+  "options": [
+   "Preeminencia de derechos y primacía en recibir protección y socorro en cualquier circunstancia",
+   "Que los niños siempre sean los primeros en la fila del almuerzo",
+   "Que los docentes no tengan derechos frente a los reclamos de los niños"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Ley 548 - Código Niña Niño Adolescente"
+ },
+ {
+  "question": "¿Cuál es la pena máxima por 'Infanticidio' en Bolivia (según Ley 548)?",
+  "options": [
+   "15 años",
+   "20 años",
+   "30 años sin derecho a indulto"
+  ],
+  "answer": 2,
+  "difficulty": "alta",
+  "fuente": "Ley 548 - Código Niña Niño Adolescente"
+ },
+ {
+  "question": "¿Cuál es la pena máxima por el delito de 'Violación de infante, niña, niño o adolescente' en Bolivia?",
+  "options": [
+   "15 a 20 años",
+   "20 a 25 años (hasta 30 años sin indulto con agravantes)",
+   "10 años fijos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Código Penal Boliviano"
+ },
+ {
+  "question": "¿Qué define al 'Abuso Sexual' en el Código Penal boliviano frente a la violación?",
+  "options": [
+   "Actos sexuales no constitutivos de penetración o acceso carnal",
+   "Actos que siempre implican penetración con objetos",
+   "Delitos que solo ocurren entre adultos"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Código Penal Boliviano"
+ },
+ {
+  "question": "¿Qué agravante suma 5 años a la pena de violación según el Art. 310 del Código Penal?",
+  "options": [
+   "Que el autor esté encargado de la educación de la víctima",
+   "Que el hecho ocurra en un día festivo",
+   "Que el agresor no tenga antecedentes penales previos"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Código Penal Boliviano"
+ },
+ {
+  "question": "¿Qué busca el principio de 'Interés Superior de la Niña, Niño o Adolescente'?",
+  "options": [
+   "Priorizar la reputación de la unidad educativa",
+   "Garantizar la preeminencia de sus derechos y su protección por encima de cualquier otro interés",
+   "Dar siempre la razón al niño aunque mienta"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Ley 548 - Código Niña Niño Adolescente"
+ },
+ {
+  "question": "¿Qué medida se aplica a un personal imputado formalmente por violencia sexual según el DS 1320 (variante 2)?",
+  "options": [
+   "Suspensión de funciones sin goce de haberes mientras dure el proceso penal",
+   "Traslado a una oficina administrativa con el mismo sueldo",
+   "Una multa de 5 días de haber"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "DS 1320 - Violencia Sexual"
+ },
+ {
+  "question": "¿Qué medida de seguridad establece el D.S. 1320 ante una imputación formal por delitos de agresión sexual?",
+  "options": [
+   "Cambio de unidad educativa de forma preventiva",
+   "Suspensión de funciones sin goce de haberes mientras dure el proceso penal",
+   "Amonestación escrita y supervisión constante por la dirección"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "DS 1320 - Violencia Sexual"
+ },
+ {
+  "question": "¿Qué derecho otorga la Sentencia Constitucional 0206/2014 en casos de violencia sexual?",
+  "options": [
+   "Derecho a la inamovilidad laboral del padre de la víctima",
+   "Autorización para la interrupción del embarazo en cualquier centro médico sin necesidad de proceso judicial",
+   "Gratuidad en el cambio de identidad de la víctima"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Sentencia Constitucional 0206/2014"
+ },
+ {
+  "question": "¿Qué sanción penal establece el Código Penal para el 'Acoso Sexual' cometido por un servidor público?",
+  "options": [
+   "4 a 8 años fijos",
+   "Será destituido de su cargo y la pena será agravada en un tercio",
+   "10 años de presidio sin derecho a indulto"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Código Penal Boliviano"
+ },
+ {
+  "question": "¿Cuál es la pena máxima por el delito de 'Estupro' (víctima 14-17 años)?",
+  "options": [
+   "3 años",
+   "6 años de privación de libertad",
+   "10 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Código Penal Boliviano"
+ },
+ {
+  "question": "¿Qué agravante de pena existe para el delito de 'Pornografía' si la víctima es niña, niño o adolescente?",
+  "options": [
+   "Se duplica la pena base",
+   "La pena privativa de libertad se agrava en un tercio",
+   "5 años adicionales de presidio"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Código Penal Boliviano"
+ },
+ {
+  "question": "¿A partir de qué edad se tipifica el 'Infanticidio' según las disposiciones adicionales de la Ley 548?",
+  "options": [
+   "Desde el nacimiento hasta los 5 años",
+   "Desde el nacimiento hasta los doce (12) años",
+   "Solo durante el primer año de vida"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Ley 548 - Código Niña Niño Adolescente"
+ },
+ {
+  "question": "¿Qué principio establece la preeminencia de los derechos de la niñez en cualquier circunstancia?",
+  "options": [
+   "Interés superior del niño",
+   "Prioridad absoluta y atención preferente",
+   "Corresponsabilidad comunitaria"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Ley 548 - Código Niña Niño Adolescente"
+ },
+ {
+  "question": "¿Cuál es la sanción por el delito de Infanticidio?",
+  "options": [
+   "20 años",
+   "30 años de presidio sin derecho a indulto",
+   "25 a 30 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Ley 548 - Código Niña Niño Adolescente"
+ },
+ {
+  "question": "¿A partir de qué edad se tipifica el Infanticidio?",
+  "options": [
+   "Desde el nacimiento hasta los 12 años",
+   "Hasta los 5 años",
+   "Hasta los 18 años"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Ley 548 - Código Niña Niño Adolescente"
+ },
+ {
+  "question": "¿Qué derecho garantiza la Sentencia Constitucional 0206/2014?",
+  "options": [
+   "Interrupción del embarazo en casos de violencia sexual sin orden judicial",
+   "Educación gratuita para víctimas",
+   "Cambio de nombre inmediato"
+  ],
+  "answer": 0,
+  "difficulty": "alta",
+  "fuente": "Sentencia Constitucional 0206/2014"
+ },
+ {
+  "question": "¿Qué sanción tiene el delito de 'Violación' (general) según el Código Penal boliviano?",
+  "options": [
+   "5 a 10 años",
+   "15 a 20 años de privación de libertad",
+   "20 a 25 años fijos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Código Penal Boliviano"
+ },
+ {
+  "question": "¿Cuál es la sanción por el delito de 'Pornografía' si el autor vende material pornográfico?",
+  "options": [
+   "5 a 8 años",
+   "10 a 15 años de pena privativa de libertad",
+   "Multa y clausura de negocio solamente"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Código Penal Boliviano"
+ },
+ {
+  "question": "¿Qué agrava la pena de violación con 5 años adicionales?",
+  "options": [
+   "Si ocurre de noche",
+   "Si el autor estuviere encargado de la educación de la víctima",
+   "Si el agresor es mayor de 40 años"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Código Penal Boliviano"
+ }
+]

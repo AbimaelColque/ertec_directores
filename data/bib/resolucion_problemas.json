@@ -1,0 +1,659 @@
+[
+ {
+  "question": "En la resolución de problemas, ¿qué significa 'identificar el problema'?",
+  "options": [
+   "Culpar a una persona específica por el error cometido",
+   "Detectar que algo no funciona correctamente o puede generar conflicto",
+   "Ignorar las dificultades pequeñas para enfocarse en las grandes",
+   "Buscar al responsable para iniciar un proceso disciplinario"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "La técnica de 'los cinco porqués' tiene como objetivo:",
+  "options": [
+   "Encontrar la causa raíz o más profunda de un problema",
+   "Cuestionar a cinco testigos diferentes de un mismo hecho",
+   "Generar cinco soluciones alternativas en menos de un minuto",
+   "Identificar a cinco responsables del conflicto"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es la regla de oro durante la fase de 'lluvia de ideas'?",
+  "options": [
+   "Evaluar inmediatamente el costo de cada propuesta",
+   "No juzgar las ideas al principio y permitir que la creatividad fluya",
+   "Solo anotar las ideas que parezcan realistas y prácticas",
+   "Limitar las propuestas a un máximo de tres por persona"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "El análisis de 'pros y contras' consiste en:",
+  "options": [
+   "Anticipar las consecuencias beneficiosas o perjudiciales de una solución",
+   "Comparar dos problemas diferentes para ver cuál es peor",
+   "Eliminar todas las opciones que tengan al menos una desventaja",
+   "Asignar puntajes numéricos a cada alternativa de solución"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué implica 'planificar' en el contexto de la implementación de una solución?",
+  "options": [
+   "Esperar a que las condiciones externas sean perfectas antes de actuar",
+   "Definir pasos, asignar responsables, prever recursos y establecer cronogramas",
+   "Realizar el trabajo sin previa organización para fomentar la espontaneidad",
+   "Delegar toda la responsabilidad al personal de mayor jerarquía"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "La importancia de las consecuencias de una solución es subjetiva porque:",
+  "options": [
+   "No existen reglas matemáticas para medir el éxito",
+   "Depende de los valores, necesidades y opiniones personales de los involucrados",
+   "Varía según el estado de ánimo de quien toma la decisión ese día",
+   "Es imposible predecir el resultado de cualquier acción humana"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué es contrastar?",
+  "options": [
+   "Encontrar puntos de acuerdo entre dos personas que pelean",
+   "Identificar las diferencias entre dos o más elementos",
+   "Copiar las características positivas de una solución exitosa",
+   "Comparar resultados reales con los resultados esperados"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es el beneficio de desarrollar habilidades de resolución de problemas para el futuro profesional?",
+  "options": [
+   "Tener más herramientas para manejar situaciones difíciles en la vida adulta",
+   "Asegurar un ascenso de categoría inmediato en el escalafón",
+   "Evitar por completo la aparición de conflictos con los compañeros",
+   "Garantizar la aprobación automática de todos los proyectos presentados"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "Según el manual de UNICEF, la resolución de problemas es una habilidad que alterna constantemente entre:",
+  "options": [
+   "La teoría y la investigación histórica del conflicto",
+   "El análisis y la acción",
+   "La obediencia y la disciplina escolar rígida",
+   "La planificación y la evaluación sumativa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "El criterio 'SAFE' para las lecciones del manual implica que estas deben ser:",
+  "options": [
+   "Seguras, Ágiles, Fáciles y Eficaces",
+   "Secuenciales, Activas, Focalizadas y Explícitas",
+   "Sistemáticas, Autónomas, Fuertes y Estructuradas",
+   "Sociales, Afectivas, Funcionales y Evaluables"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "En la fase de 'identificar el problema', una pregunta fundamental para delimitarlo es:",
+  "options": [
+   "¿Qué información me falta para entender completamente el problema?",
+   "¿Quién tiene la mayor culpa de que esto sucediera hoy?",
+   "¿Cuánto presupuesto se requiere para ignorar esta dificultad?",
+   "¿Cuántas personas se han visto afectadas hasta el momento?"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "Al analizar un problema, ¿a qué tipo de fuentes de información se debe recurrir prioritariamente?",
+  "options": [
+   "Redes sociales personales y comentarios de foros anónimos",
+   "Libros, especialistas, instituciones o páginas web confiables",
+   "Únicamente a la opinión verbal del director de la unidad educativa",
+   "A la experiencia personal del maestro de mayor antigüedad"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "Durante la 'lluvia de ideas', ¿cuál es la instrucción clave sobre las ideas que parecen 'descabelladas'?",
+  "options": [
+   "Eliminarlas inmediatamente para optimizar el tiempo de la sesión",
+   "No juzgarlas al principio y permitir que la creatividad fluya",
+   "Anotarlas solo si el resto del equipo está de acuerdo unánimemente",
+   "Registrarlas en una lista separada para análisis posterior"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "El análisis de 'pros y contras' se utiliza específicamente para evitar:",
+  "options": [
+   "El trabajo colaborativo y la toma de decisiones grupal",
+   "Soluciones impulsivas que podrían tener efectos negativos a largo plazo",
+   "El uso de la creatividad en la resolución de conflictos escolares",
+   "La participación de personas no directamente involucradas en el problema"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "La evaluación de la importancia de una consecuencia se considera 'subjetiva' porque:",
+  "options": [
+   "Varía según el estado del clima y la estación del año",
+   "Depende de los valores, necesidades y opiniones de las personas involucradas",
+   "Es una regla matemática exacta que no admite variaciones personales",
+   "Está determinada por las leyes y reglamentos vigentes"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué implica específicamente el proceso de 'contrastar' dos alternativas de solución?",
+  "options": [
+   "Unirlas para crear una solución híbrida sin analizar detalles",
+   "Identificar específicamente las diferencias entre ambas",
+   "Elegir la opción más popular mediante una votación rápida",
+   "Calcular el costo económico de implementar cada opción"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "Una planificación efectiva para implementar una solución debe detallar obligatoriamente:",
+  "options": [
+   "Tareas, responsables, recursos necesarios y un cronograma",
+   "Una lista de todas las personas que se opusieron a la solución",
+   "Solo la fecha final sin considerar los pasos intermedios",
+   "El presupuesto máximo disponible para la implementación"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué acción se recomienda realizar tras la implementación de una solución?",
+  "options": [
+   "Dar el problema por resuelto para siempre sin más revisiones",
+   "Monitorear y evaluar el cumplimiento para realizar ajustes si es necesario",
+   "Delegar la responsabilidad total al personal administrativo de la escuela",
+   "Archivar el caso y esperar que no vuelva a ocurrir"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es el último de los cinco pasos integrales para resolver un problema según el manual?",
+  "options": [
+   "Evaluar posibles soluciones mediante pros y contras",
+   "Elegir una solución e implementarla",
+   "Identificar la causa raíz mediante los cinco porqués",
+   "Monitorear y evaluar los resultados"
+  ],
+  "answer": 3,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "El Diagnóstico de habilidades que realizan los estudiantes al inicio del manual debe ser:",
+  "options": [
+   "Una evaluación con puntaje sumativo para la nota del trimestre",
+   "Confidencial, anónimo y no asociado a ninguna calificación",
+   "Realizado frente a todo el grupo para fomentar la competencia sana",
+   "Obligatorio para acceder a los módulos siguientes del programa"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "Un nivel 'alto' de habilidad en resolución de problemas se refleja en un puntaje de diagnóstico de:",
+  "options": [
+   "Entre 15 y 29 puntos",
+   "Entre 45 y 60 puntos",
+   "Más de 90 puntos sobre 100",
+   "Entre 30 y 44 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué implica la fase de 'Evaluación y seguimiento' en la resolución de problemas?",
+  "options": [
+   "Olvidar el conflicto una vez que se implementó la primera idea",
+   "Monitorear el cumplimiento del plan y realizar ajustes si es necesario",
+   "Sancionar a quienes no estuvieron de acuerdo con la solución elegida",
+   "Documentar el proceso para el archivo institucional"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "El objetivo final del Manual de Resolución de Problemas es:",
+  "options": [
+   "Que los estudiantes aprendan a ganar todas las discusiones",
+   "Impulsar los logros académicos y el bienestar integral de las y los estudiantes",
+   "Eliminar el uso de reglamentos internos en las escuelas pacíficas",
+   "Reducir el número de denuncias por violencia en las unidades educativas"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué paso del proceso de resolución de problemas implica recabar información en fuentes confiables?",
+  "options": [
+   "Identificar el problema",
+   "Analizar el problema",
+   "Generar soluciones",
+   "Implementar la solución"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "Durante la fase de 'Elegir e implementar una solución', ¿qué es vital realizar?",
+  "options": [
+   "Olvidar el análisis previo para actuar con rapidez",
+   "Definir tareas, asignar responsables y establecer un cronograma",
+   "Delegar toda la responsabilidad a los estudiantes de grados menores",
+   "Comunicar la solución a todos sin explicar el proceso de selección"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es el propósito del 'Diagnóstico de Habilidades' pre y post?",
+  "options": [
+   "Seleccionar a los mejores alumnos para un concurso nacional",
+   "Medir el progreso y aprendizaje de los estudiantes a lo largo del programa",
+   "Evaluar el desempeño del maestro frente a las autoridades distritales",
+   "Determinar qué estudiantes necesitan atención psicológica especializada"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "Un puntaje entre 30 y 44 en el diagnóstico de resolución de problemas indica:",
+  "options": [
+   "Un nivel de habilidad muy bajo que requiere intervención médica",
+   "Un nivel medio de habilidad con áreas específicas para mejorar",
+   "Un nivel alto que garantiza el éxito profesional automático",
+   "Un nivel crítico que requiere repetir el grado escolar"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "En la 'lluvia de ideas', las ideas que parecen 'descabelladas' deben:",
+  "options": [
+   "Descartarse de inmediato para no perder tiempo en la clase",
+   "Anotarse sin juzgarlas para permitir que la creatividad fluya",
+   "Someterse a votación secreta antes de ser escritas en la pizarra",
+   "Reservarse para una sesión posterior con expertos en el tema"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué significa 'Evaluar las consecuencias' de una solución?",
+  "options": [
+   "Anticipar si los resultados serán beneficiosos o perjudiciales",
+   "Contar cuántas personas se opusieron a la idea inicial",
+   "Calcular el tiempo exacto que tardará en aplicarse la sanción",
+   "Determinar quién será responsable si la solución falla"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "En la planificación, ¿por qué es importante desglosar tareas amplias en pequeñas?",
+  "options": [
+   "Para que el documento parezca más largo y profesional",
+   "Para que sean más manejables, concretas y fáciles de cumplir",
+   "Para evitar que una sola persona trabaje y las demás descansen",
+   "Para cumplir con los requisitos formales del Ministerio de Educación"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es la definición exacta de resolución de problemas según el manual de la SEP/UNICEF?",
+  "options": [
+   "La capacidad de delegar dificultades a una autoridad superior para evitar conflictos",
+   "La capacidad de identificar una dificultad y tomar medidas lógicas para encontrar una solución deseada, así como supervisar y evaluar su implementación",
+   "Un proceso estrictamente creativo que ignora las causas para centrarse solo en los resultados futuros"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "En el proceso de resolución de problemas, ¿qué implica 'delimitarlo con precisión'?",
+  "options": [
+   "Ignorar las experiencias previas para no sesgar la solución actual",
+   "Aceptar que cualquier dificultad es inmanejable y buscar soluciones temporales",
+   "Recurrir a lo que sabemos sobre el problema para resolverlo antes de que se vuelva inmanejable"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué habilidades se fortalecen paralelamente al desarrollar la resolución de problemas?",
+  "options": [
+   "La memorización mecánica y la obediencia ciega a las reglas del aula",
+   "La creatividad, la toma de decisiones y el pensamiento crítico",
+   "La competitividad individual y la exclusión de alternativas divergentes"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuáles son las dos fases principales en las que se dividen los pasos de las lecciones del manual?",
+  "options": [
+   "Precisar el problema; y analizar e implementar soluciones",
+   "Identificar culpables; y aplicar sanciones disciplinarias",
+   "Recabar opiniones externas; y esperar la resolución natural del conflicto"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué busca el criterio SAFE en los programas de educación socioemocional?",
+  "options": [
+   "Que las lecciones sean exclusivamente teóricas y dadas por expertos externos",
+   "Que el aprendizaje sea aleatorio, pasivo, general y espontáneo",
+   "Que las lecciones sean secuenciales, activas, focalizadas y explícitas"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "En la técnica de los 'cinco porqués', ¿cuál es el objetivo primordial?",
+  "options": [
+   "Convencer a la otra persona de que su postura es incorrecta mediante la insistencia",
+   "Profundizar sobre la causa raíz del problema y ampliar la perspectiva respecto al mismo",
+   "Enumerar cinco soluciones diferentes para que el estudiante elija la más fácil"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "Durante la generación de soluciones (lluvia de ideas), ¿cuál es la regla de oro?",
+  "options": [
+   "Evaluar cada idea inmediatamente para descartar las que parezcan descabelladas",
+   "No juzgar las ideas al principio y permitir que la creatividad fluya",
+   "Limitarse a tres opciones prácticas para no perder tiempo en el análisis"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué es comparar y contrastar en el contexto de elegir una solución?",
+  "options": [
+   "Identificar similitudes entre alternativas (comparar) y enfocar sus diferencias (contrastar) para decidir de forma lógica",
+   "Buscar que todas las soluciones sean idénticas para no generar preferencias",
+   "Elegir la solución más popular entre el grupo sin analizar sus características"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué elementos debe incluir una planificación efectiva según la Lección 9?",
+  "options": [
+   "Solo la fecha de inicio y el nombre del responsable del problema",
+   "Un listado de quejas previas y las sanciones aplicadas",
+   "Tareas específicas, responsables, recursos necesarios y un cronograma de implementación"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es el beneficio de la autonomía desarrollado por la resolución de problemas?",
+  "options": [
+   "Permite que el estudiante ignore las opiniones de los docentes",
+   "Hace a las personas más independientes y capaces de tomar decisiones informadas",
+   "Garantiza que el estudiante nunca más enfrente un conflicto en su vida"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué técnica ayuda a los estudiantes a reflexionar sobre una experiencia identificando lo bueno, lo malo y lo interesante?",
+  "options": [
+   "El examen de opción múltiple con castigos",
+   "La herramienta BMI (Bueno, Malo e Interesante)",
+   "La copia de 100 veces una frase de arrepentimiento"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es el objetivo final de enseñar resolución de problemas en secundaria?",
+  "options": [
+   "Fortalecer la habilidad para enfrentar dificultades, impulsar logros académicos y bienestar integral",
+   "Que los estudiantes aprendan a ganar todas las discusiones",
+   "Evitar que los docentes tengan que trabajar en la disciplina del aula"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué dimensión de las habilidades transferibles de UNICEF incluye específicamente la negociación y la cooperación?",
+  "options": [
+   "Dimensión cognitiva",
+   "Dimensión instrumental",
+   "Dimensión social"
+  ],
+  "answer": 2,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "Según el manual, ¿qué es un 'resultado óptimo' en la resolución de problemas?",
+  "options": [
+   "La aceptación pasiva de la dificultad",
+   "La delegación de la solución a un tercero",
+   "La eliminación total del problema"
+  ],
+  "answer": 2,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es el objetivo específico de la Lección 7 del manual?",
+  "options": [
+   "Generar 10 soluciones por minuto",
+   "Evaluar la importancia de las ventajas y desventajas considerando opiniones, valores y necesidades",
+   "Comparar figuras geométricas para entender el contraste"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué herramienta se utiliza específicamente en la Lección 8 para elegir la mejor solución?",
+  "options": [
+   "El diagrama de los cinco porqués",
+   "Un organizador gráfico para comparar similitudes y contrastar diferencias",
+   "La técnica de lluvia de ideas sin juicios"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué característica define la fase 'Focalizada' del criterio SAFE?",
+  "options": [
+   "El aprendizaje es aleatorio y general",
+   "Cada lección se enfoca en abordar un objetivo particular y define conceptos clave",
+   "La lección debe durar exactamente 50 minutos sin interrupciones"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "En el diagnóstico de habilidades, ¿qué rango de puntaje indica que un estudiante tiene un nivel 'Medio' de habilidad?",
+  "options": [
+   "15 a 29 puntos",
+   "30 a 44 puntos",
+   "45 a 60 puntos"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué sugiere el manual si una lección está tomando más tiempo del previsto por el interés de los estudiantes?",
+  "options": [
+   "Cortarla inmediatamente para cumplir el cronograma",
+   "Evitar concluir de manera apresurada, terminar en otro momento y alentar discusiones profundas",
+   "Ignorar las preguntas de los alumnos para avanzar más rápido"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es el primer paso de la secuencia lógica de cinco pasos para resolver un problema presentada en la Lección 10?",
+  "options": [
+   "Analizar las causas raíz",
+   "Identificar el problema",
+   "Generar soluciones creativas"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué significa 'Planificar' según el concepto esencial de la Lección 9?",
+  "options": [
+   "Esperar a que la solución funcione sola",
+   "Definir una serie de pasos, asignar responsables, prever recursos y establecer un cronograma",
+   "Evaluar los resultados después de que el problema ya se resolvió"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es la función del paso 'Comparar' en la toma de decisiones?",
+  "options": [
+   "Identificar similitudes entre dos o más elementos",
+   "Enfocarse exclusivamente en lo que hace diferentes a las opciones",
+   "Descartar todas las opciones excepto la más barata"
+  ],
+  "answer": 0,
+  "difficulty": "media",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué autor es citado en las sugerencias para implementar el manual respecto a que 'enseñamos lo que somos'?",
+  "options": [
+   "Michael Ende",
+   "Palmer Parker",
+   "John Burton"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿En qué campo formativo del Plan de Estudios de la SEP se alinea este manual?",
+  "options": [
+   "Saberes y Pensamiento Científico",
+   "De lo Humano y lo Comunitario",
+   "Ética, Naturaleza y Sociedades"
+  ],
+  "answer": 1,
+  "difficulty": "alta",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Cuál es el objetivo primordial de la técnica BMI mencionada en el manual?",
+  "options": [
+   "Medir el índice de masa corporal de los alumnos",
+   "Ayudar a reflexionar sobre una experiencia identificando lo bueno, lo malo y lo interesante",
+   "Comparar presupuestos para un puesto de comida"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué se debe hacer antes de implementar la primera lección del manual?",
+  "options": [
+   "Aplicar el Diagnóstico de habilidades (Pre)",
+   "Realizar la Revisión final de aprendizajes",
+   "Organizar una asamblea de padres de familia"
+  ],
+  "answer": 0,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ },
+ {
+  "question": "¿Qué implica que el aprendizaje sea 'Activo' bajo el criterio SAFE?",
+  "options": [
+   "Leer el manual en silencio durante toda la clase",
+   "Promover la práctica mediante actividades lúdicas, juegos de roles y diálogos",
+   "Escuchar la explicación magistral del docente sin intervenir"
+  ],
+  "answer": 1,
+  "difficulty": "baja",
+  "fuente": "Manual de Resolución de Problemas - SEP/UNICEF"
+ }
+]

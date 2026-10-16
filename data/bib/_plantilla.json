@@ -1,0 +1,15 @@
+[
+ {
+  "question": "Escribe aquí el enunciado de la pregunta",
+  "options": [
+   "Opción A",
+   "Opción B",
+   "Opción C",
+   "Opción D"
+  ],
+  "answer": 1,
+  "difficulty": "media",
+  "fuente": "Nombre de la bibliografía (se muestra bajo la pregunta)",
+  "explicacion": "(Opcional) Por qué esa es la respuesta correcta"
+ }
+]
